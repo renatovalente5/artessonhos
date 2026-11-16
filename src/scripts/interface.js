@@ -5,6 +5,34 @@
   'use strict';
   const { $, $$, menosMovimento } = window.AS;
 
+  /* ---------- As críticas do Facebook: só se carregam quando a pessoa pede (cookies do Facebook) ---------- */
+  const verOpinioes = $('[data-ver-opinioes]');
+  const lista = $('[data-opinioes-lista]');
+  if (verOpinioes && lista) {
+    verOpinioes.addEventListener('click', () => {
+      const grelha = $('[data-opinioes-grelha]', lista);
+      if (!grelha.childElementCount) {
+        let pubs = [];
+        try { pubs = JSON.parse(lista.dataset.opinioesLista) || []; } catch (_) { pubs = []; }
+        pubs.forEach((p, i) => {
+          const f = document.createElement('iframe');
+          f.src = `https://www.facebook.com/plugins/post.php?href=${encodeURIComponent(p.url)}&show_text=true&width=350&locale=pt_PT`;
+          f.width = '350'; f.height = String(p.altura + 8);
+          f.title = `Crítica ${i + 1} de ${pubs.length}, no Facebook`;
+          f.loading = 'lazy'; f.setAttribute('scrolling', 'no');
+          f.setAttribute('allow', 'encrypted-media; picture-in-picture; web-share');
+          f.referrerPolicy = 'strict-origin-when-cross-origin';
+          grelha.append(f);
+        });
+      }
+      lista.hidden = false;
+      verOpinioes.setAttribute('aria-expanded', 'true');
+      verOpinioes.hidden = true;
+      const antes = $('[data-opinioes-antes]'); if (antes) antes.hidden = true;
+      lista.scrollIntoView({ behavior: menosMovimento.matches ? 'auto' : 'smooth', block: 'start' });
+    });
+  }
+
   /* ---------- O aviso do topo com data: sai sozinho no dia seguinte ---------- */
   $$('.aviso[data-ate]').forEach((a) => { if (window.AS.hojeLisboa() > a.dataset.ate) a.hidden = true; });
 

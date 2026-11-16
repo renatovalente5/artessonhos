@@ -796,7 +796,9 @@ export function problemasDasLinhas(valor, { fotos = null } = {}) {
    não se copiam) e a CONFIANÇA (até quatro frases com ícone). */
 export const SECCOES_INICIO = Object.freeze(['seo', 'capa', 'circulos', 'linhas', 'destaque', 'personalizar', 'pedidos', 'opinioes', 'confianca']);
 /* Os círculos: de 3 a 10 categorias. Os passos: 3. A faixa de confiança: até 4 frases. */
-export const LIMITES_INICIO = Object.freeze({ circulos: [3, 10], passos: [3, 3], confianca: [0, 4] });
+export const LIMITES_INICIO = Object.freeze({ circulos: [3, 10], passos: [3, 3], confianca: [0, 4], publicacoes: [0, 6] });
+/* Uma crítica do Facebook para mostrar no site: o endereço da publicação (https://www.facebook.com/<conta>/posts/<id>). */
+export const RE_PUBLICACAO_FACEBOOK = /^https:\/\/www\.facebook\.com\/[A-Za-z0-9._-]{2,80}\/posts\/[A-Za-z0-9]{6,120}$/;
 
 /* As fotografias que a página inicial usa (para saber se uma se pode apagar): as duas da capa e a
    do destaque. */
@@ -868,6 +870,21 @@ export function problemasDoInicio(valor, { fotos = null, categorias = null } = {
   for (const [c, max, ob] of textos) umTexto(c, max, ob);
   umaLigacao('pedidos.ligacao', false);
   umaLigacao('opinioes.ligacao', false);
+  /* As críticas do Facebook que o site mostra (incorporadas, só quando a pessoa pede): até 6, das mais
+     recentes para as mais antigas; cada uma com o endereço da publicação e a altura (opcional). */
+  const pubs = h.opinioes.publicacoes;
+  if (pubs !== undefined) {
+    if (!Array.isArray(pubs)) avisa('opinioes.publicacoes', 'opinioes.publicacoes', 'As críticas do Facebook não estão gravadas como uma lista: não aparecem.');
+    else {
+      if (pubs.length > LIMITES_INICIO.publicacoes[1]) avisa('opinioes.publicacoes:muitas', 'opinioes.publicacoes', `Há ${pubs.length} críticas do Facebook; o site mostra as ${LIMITES_INICIO.publicacoes[1]} primeiras.`);
+      pubs.forEach((p, i) => {
+        const url = eObjecto(p) ? p.url : p;
+        if (typeof url !== 'string' || !RE_PUBLICACAO_FACEBOOK.test(url)) avisa(`opinioes.publicacoes.${i}`, `opinioes.publicacoes.${i}`, 'Este endereço não é o de uma publicação do Facebook (https://www.facebook.com/…/posts/…): não aparece.');
+        const alt = eObjecto(p) ? p.altura : undefined;
+        if (alt !== undefined && !(Number.isInteger(alt) && alt >= 120 && alt <= 900)) avisa(`opinioes.publicacoes.${i}.altura`, `opinioes.publicacoes.${i}.altura`, 'A altura desta crítica tem de ser um número entre 120 e 900 (píxeis).');
+      });
+    }
+  }
   /* O destaque aponta para uma categoria; uma que já não existe deixa a secção de fora. */
   const cat = h.destaque.categoria;
   if (vazio(cat) || (categorias && !categorias.includes(cat))) avisa('destaque.categoria', 'destaque.categoria', `A secção «${h.destaque.titulo || 'destaque'}» aponta para uma categoria que não existe: não aparece na página inicial.`, { lembrete: true });

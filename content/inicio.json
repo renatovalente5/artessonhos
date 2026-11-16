@@ -69,7 +69,33 @@
     "numero": "100%",
     "texto": "recomendam a Artes & Sonhos",
     "botao": "Ler as 434 opiniões no Facebook",
-    "ligacao": "https://www.facebook.com/pinturaeretratosartesesonhos/reviews"
+    "ligacao": "https://www.facebook.com/pinturaeretratosartesesonhos/reviews",
+    "publicacoes": [
+      {
+        "url": "https://www.facebook.com/altino.oliveira.18/posts/pfbid0aWHNcKwBoDiciuH9ftgPWiyP9aC9TN49mywmL9GjaRahVaoY71A5Em8q2n5734SLl",
+        "altura": 209
+      },
+      {
+        "url": "https://www.facebook.com/bruna.matos1/posts/pfbid02o9r3SRbCDqPM7jpDLdSj5rwdp6Ca8vASdimfPzYMNuJbDSf9h5DcHSr5Dt9XSYAWl",
+        "altura": 222
+      },
+      {
+        "url": "https://www.facebook.com/margarida.sousa.921/posts/pfbid029RbxBZxzUuQg3Sp7P4TcWyVGtMYKowb8SPDSasiftsywbGv67GMuHqDm2uXgmeHul",
+        "altura": 194
+      },
+      {
+        "url": "https://www.facebook.com/neuza.ruaz.58/posts/pfbid05S5Y78pwmia15PWTY6aHHr1YXNoiLQma4cwGdEA1spYQ5mm8CKLwrDneFQ4PJvCgl",
+        "altura": 170
+      },
+      {
+        "url": "https://www.facebook.com/virginiaericardo.pinto/posts/pfbid0cUBvsi885wVACscdPW4a8cyxAucRi8k9BGLGUCVJizhpn7temednmUUbbgEV9CeUl",
+        "altura": 189
+      },
+      {
+        "url": "https://www.facebook.com/andreia.gonzaga.7/posts/pfbid02WUnphoQsWcpWYES19vU8LmHBgDgR53JEqPf8FNcKgvx5cZjU4ZJRrUjkzws3XRc7l",
+        "altura": 189
+      }
+    ]
   },
   "confianca": [
     {
