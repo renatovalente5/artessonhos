@@ -1,0 +1,31 @@
+{
+  "nome": "Fralda e babete da girafinha",
+  "nomeCurto": "Fralda e babete da girafinha",
+  "fotos": [
+    "fralda-e-babete-da-girafinha",
+    "fralda-e-babete-da-girafinha-2"
+  ],
+  "resumo": "Fralda e babete estampados com uma girafinha, em cinco cores.",
+  "descricao": "Da coleção da girafinha: fralda e babete estampados com uma girafinha entre folhas, com debrum verde, rosa, azul, bege ou cinzento. A coleção tem também toalha de banho e manta.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "fraldas-e-babetes",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 40
+}

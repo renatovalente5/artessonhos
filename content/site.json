@@ -1,0 +1,65 @@
+{
+  "marca": "Artes & Sonhos",
+  "descricao": "Tudo para o enxoval do bebé e peças personalizadas, pintadas e bordadas à mão: primeira roupinha, mantas, malas de maternidade, bibes, mochilas e presentes para datas especiais. Showroom em Maceira, Leiria.",
+  "assinatura": "Tudo para o enxoval do seu bebé, pintado e bordado à mão.",
+  "fundadores": "",
+  "contactos": {
+    "whatsapp": "",
+    "telefone": "",
+    "email": "silviaifcarmo@gmail.com",
+    "instagram": "artessonhos_",
+    "facebook": "pinturaeretratosartesesonhos",
+    "pinterest": "",
+    "horario": ""
+  },
+  "local": {
+    "localidade": "Maceira",
+    "distrito": "Leiria"
+  },
+  "empresa": {
+    "nome": "",
+    "tipo": "",
+    "nif": "",
+    "morada": "",
+    "codigoPostal": "",
+    "localidade": "Maceira",
+    "concelho": "Leiria",
+    "iva": ""
+  },
+  "aviso": {
+    "texto": "Natal 2026: as peças personalizadas já se podem encomendar.",
+    "ate": "2026-12-24",
+    "ligacao": "/datas-especiais/natal/"
+  },
+  "entrega": {
+    "zonas": [
+      {
+        "id": "levantamento",
+        "nome": "Levantamento no showroom, em Maceira (Leiria)",
+        "curto": "Levantamento em Maceira",
+        "morada": false
+      },
+      {
+        "id": "continente",
+        "nome": "Envio por CTT para Portugal Continental",
+        "curto": "Portugal Continental",
+        "morada": true
+      },
+      {
+        "id": "ilhas",
+        "nome": "Envio por CTT para a Madeira e os Açores",
+        "curto": "Madeira e Açores",
+        "morada": true
+      }
+    ],
+    "portes": {
+      "continente": null,
+      "ilhas": null,
+      "gratisAPartirDe": null
+    },
+    "portesNota": "",
+    "prazo": "",
+    "pagamento": "MB WAY ou transferência bancária",
+    "levantamento": ""
+  }
+}

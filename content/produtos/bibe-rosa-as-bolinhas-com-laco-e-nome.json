@@ -1,0 +1,34 @@
+{
+  "nome": "Bibe rosa às bolinhas com laço e nome",
+  "nomeCurto": "Bibe rosa às bolinhas com laço e nome",
+  "fotos": [
+    "bibe-rosa-as-bolinhas-com-laco-e-nome",
+    "bibe-rosa-as-bolinhas-com-laco-e-nome-2",
+    "bibe-rosa-as-bolinhas-com-laco-e-nome-3",
+    "bibe-rosa-as-bolinhas-com-laco-e-nome-4",
+    "bibe-rosa-as-bolinhas-com-laco-e-nome-5"
+  ],
+  "resumo": "Bibe rosa às bolinhas com laço, dois bolsos e o nome bordado.",
+  "descricao": "Bibe artesanal rosa às bolinhas brancas, com peito branco, laço no mesmo tecido, dois bolsos debruados e o nome bordado a rosa. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "bibes",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 30
+}

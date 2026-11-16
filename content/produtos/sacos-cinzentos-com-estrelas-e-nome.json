@@ -1,0 +1,29 @@
+{
+  "nome": "Sacos cinzentos com estrelas e nome bordado",
+  "fotos": [
+    "sacos-cinzentos-com-estrelas-e-nome"
+  ],
+  "resumo": "Sacos para a primeira roupinha, cinzentos com estrelas e o nome bordado.",
+  "descricao": "Sacos para a primeira roupinha em tecido cinzento com estrelas brancas, cordão branco e o nome bordado. 100% artesanais, 100% algodão e 100% portugueses.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "mochilas-e-sacos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 40
+}

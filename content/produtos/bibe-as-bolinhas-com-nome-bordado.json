@@ -1,0 +1,33 @@
+{
+  "nome": "Bibe às bolinhas com nome bordado",
+  "nomeCurto": "Bibe às bolinhas com nome bordado",
+  "fotos": [
+    "bibe-as-bolinhas-com-nome-bordado",
+    "bibe-as-bolinhas-com-nome-bordado-2",
+    "bibe-as-bolinhas-com-nome-bordado-3",
+    "bibe-as-bolinhas-com-nome-bordado-4"
+  ],
+  "resumo": "Bibe às bolinhas, verde ou azul, com o nome bordado no peito.",
+  "descricao": "Bibe artesanal às bolinhas brancas, com peito branco, fecho de molas de lado, um bolso e punhos franzidos. Leva o nome bordado na cor do bibe; nas fotografias, em verde e em azul. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "bibes",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 20
+}

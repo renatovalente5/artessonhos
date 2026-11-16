@@ -1,0 +1,24 @@
+{
+  "nome": "Fraldinhas com animais do bosque",
+  "nomeCurto": "Fraldinhas com animais do bosque",
+  "fotos": [
+    "fraldinhas-com-animais-do-bosque"
+  ],
+  "resumo": "Fraldinhas estampadas com raposas, elefantes, girafas e coelhinhos.",
+  "descricao": "Fraldinhas estampadas com animais do bosque (raposas, elefantes, girafas e coelhinhos), com debrum de cor.",
+  "preco": 5,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "fraldas-e-babetes",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 90
+}

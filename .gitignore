@@ -1,0 +1,16 @@
+# Material do cliente (conversas, fotografias originais, recolha do Instagram e do Facebook): nunca vai para o repositório.
+_cliente/
+# As propostas da página inicial (9 nov 2026: escolher antes de construir) e as capturas
+propostas/
+# Os modelos da Dream Art, só para consulta enquanto se escrevem os novos (não é desta marca)
+_referencia-dreamart/
+
+# Gerado
+_site/
+_capturas/
+.cache/
+# O estado local do wrangler (traz a localização aproximada de quem o correu): nunca para o repositório público.
+.wrangler/
+node_modules/
+.DS_Store
+*.log

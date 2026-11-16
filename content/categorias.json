@@ -1,0 +1,306 @@
+[
+  {
+    "slug": "primeira-roupinha",
+    "linha": "bebe",
+    "nome": "Primeira roupinha",
+    "titulo": "Primeira roupinha",
+    "resumo": "Primeira roupinha",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "conjuntos",
+    "linha": "bebe",
+    "nome": "Conjuntos",
+    "titulo": "Conjuntos",
+    "resumo": "Conjuntos",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "vestidos-e-fofos",
+    "linha": "bebe",
+    "nome": "Vestidos e fofos",
+    "titulo": "Vestidos e fofos",
+    "resumo": "Vestidos e fofos",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "bodies-e-babygrows",
+    "linha": "bebe",
+    "nome": "Bodies e babygrows",
+    "titulo": "Bodies e babygrows",
+    "resumo": "Bodies e babygrows",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "casacos-e-malhas",
+    "linha": "bebe",
+    "nome": "Casacos e malhas",
+    "titulo": "Casacos e malhas",
+    "resumo": "Casacos e malhas",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "acessorios",
+    "linha": "bebe",
+    "nome": "Acessórios",
+    "titulo": "Acessórios",
+    "resumo": "Acessórios",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "quarto",
+    "linha": "bebe",
+    "nome": "Quarto do bebé",
+    "titulo": "Quarto do bebé",
+    "resumo": "Quarto do bebé",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "mantas",
+    "linha": "bebe",
+    "nome": "Mantas",
+    "titulo": "Mantas",
+    "resumo": "Mantas",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "passeio",
+    "linha": "bebe",
+    "nome": "Ovo e alcofa",
+    "titulo": "Ovo e alcofa",
+    "resumo": "Ovo e alcofa",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "banho",
+    "linha": "bebe",
+    "nome": "Toalhas de banho",
+    "titulo": "Toalhas de banho",
+    "resumo": "Toalhas de banho",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "maternidade",
+    "linha": "bebe",
+    "nome": "Malas de maternidade",
+    "titulo": "Malas de maternidade",
+    "resumo": "Malas de maternidade",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "bibes",
+    "linha": "personalizados",
+    "nome": "Bibes escolares",
+    "titulo": "Bibes escolares",
+    "resumo": "Bibes para a creche e a pré, artesanais ou de fábrica, com o nome bordado ou o desenho que escolher.",
+    "foto": "conjunto-escolar-de-xadrez-azul-com-nome"
+  },
+  {
+    "slug": "mochilas-e-sacos",
+    "linha": "personalizados",
+    "nome": "Mochilas e sacos",
+    "titulo": "Mochilas e sacos",
+    "resumo": "Sacos de pano para a roupinha do bebé, conjuntos 1, 2, 3 e totebags, com o nome ou o desenho que escolher.",
+    "foto": "sacos-cinzentos-com-estrelas-e-nome"
+  },
+  {
+    "slug": "fraldas-e-babetes",
+    "linha": "personalizados",
+    "nome": "Fraldas e babetes",
+    "titulo": "Fraldas e babetes",
+    "resumo": "Fraldas e babetes para o bebé, estampados ou bordados, com o nome que escolher.",
+    "foto": "fraldinha-de-renda-com-laco-e-nome"
+  },
+  {
+    "slug": "bodies-com-frase",
+    "linha": "personalizados",
+    "nome": "Bodies com frase",
+    "titulo": "Bodies com frase",
+    "resumo": "Bodies e babygrows com frases para anunciar a chegada do bebé ou surpreender a família, personalizados ao seu gosto.",
+    "foto": "body-anuncio-prepara-o-teu-colinho-3"
+  },
+  {
+    "slug": "tapa-ovos",
+    "linha": "personalizados",
+    "nome": "Tapa-ovos",
+    "titulo": "Tapa-ovos",
+    "resumo": "Tapa-ovos",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "doudous",
+    "linha": "personalizados",
+    "nome": "Doudous",
+    "titulo": "Doudous",
+    "resumo": "Doudous",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "mantas-personalizadas",
+    "linha": "personalizados",
+    "nome": "Mantas com nome",
+    "titulo": "Mantas com nome",
+    "resumo": "Mantas de malha e mantas pipoca com o nome do bebé, em muitas cores e com o desenho que escolher.",
+    "foto": "manta-de-malha-com-nome-bordado"
+  },
+  {
+    "slug": "t-shirts-e-fatos-de-treino",
+    "linha": "personalizados",
+    "nome": "T-shirts e fatos de treino",
+    "titulo": "T-shirts e fatos de treino",
+    "resumo": "T-shirts, sweats e fatos de treino personalizados para bebé, criança e adulto, com a frase ou o tema que escolher.",
+    "foto": "sweat-promovida-a-irma-mais-velha"
+  },
+  {
+    "slug": "canecas-e-presentes",
+    "linha": "personalizados",
+    "nome": "Canecas e presentes",
+    "titulo": "Canecas e presentes",
+    "resumo": "Presentes personalizados com o nome e a mensagem que quiser: chávenas, almofadas, canetas, mealheiros e mais.",
+    "foto": "mealheiro-para-os-sonhos-com-nome"
+  },
+  {
+    "slug": "lembrancas-em-madeira",
+    "linha": "personalizados",
+    "nome": "Lembranças em madeira",
+    "titulo": "Lembranças em madeira",
+    "resumo": "Lembranças em madeira",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "pantufas",
+    "linha": "personalizados",
+    "nome": "Pantufas e chinelos",
+    "titulo": "Pantufas e chinelos",
+    "resumo": "Pantufas e chinelos personalizados para toda a família, com o nome, a frase ou o tema que escolher.",
+    "foto": "pantufas-de-casal-k-e-q-com-coroa"
+  },
+  {
+    "slug": "finalistas",
+    "linha": "personalizados",
+    "nome": "Finalistas",
+    "titulo": "Finalistas",
+    "resumo": "T-shirts de finalista para o pré-escolar e o 4.º ano, com o nome e o ano letivo.",
+    "foto": "t-shirt-sou-finalista-com-capelo"
+  },
+  {
+    "slug": "gesso-e-religiosos",
+    "linha": "personalizados",
+    "nome": "Gesso e figuras religiosas",
+    "titulo": "Gesso e figuras religiosas",
+    "resumo": "Figuras religiosas personalizadas, presépios e enfeites de Natal em gesso perfumado.",
+    "foto": "mini-presepio-com-animais"
+  },
+  {
+    "slug": "natal",
+    "linha": "datas-especiais",
+    "nome": "Natal",
+    "titulo": "Natal",
+    "resumo": "Natal",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "dia-do-pai",
+    "linha": "datas-especiais",
+    "nome": "Dia do Pai",
+    "titulo": "Dia do Pai",
+    "resumo": "Dia do Pai",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "dia-da-mae",
+    "linha": "datas-especiais",
+    "nome": "Dia da Mãe",
+    "titulo": "Dia da Mãe",
+    "resumo": "Prendas para o Dia da Mãe: t-shirts e bodies a condizer, com os nomes e a frase que quiser.",
+    "foto": "tshirt-e-body-arco-iris-primeiro-dia-da-mae"
+  },
+  {
+    "slug": "dia-dos-avos",
+    "linha": "datas-especiais",
+    "nome": "Dia dos Avós",
+    "titulo": "Dia dos Avós",
+    "resumo": "Bodies, babetes e t-shirts com frases para os avós, para o Dia dos Avós ou para lhes dar a notícia.",
+    "foto": "body-sou-o-amorzinho-dos-avos"
+  },
+  {
+    "slug": "dia-da-crianca",
+    "linha": "datas-especiais",
+    "nome": "Dia da Criança",
+    "titulo": "Dia da Criança",
+    "resumo": "Dia da Criança",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "pascoa",
+    "linha": "datas-especiais",
+    "nome": "Páscoa",
+    "titulo": "Páscoa",
+    "resumo": "Para a primeira Páscoa do bebé: babygrows, bodies e conjuntos com coelhinhos e o nome.",
+    "foto": "babygrow-da-primeira-pascoa"
+  },
+  {
+    "slug": "dia-dos-namorados",
+    "linha": "datas-especiais",
+    "nome": "Dia dos Namorados",
+    "titulo": "Dia dos Namorados",
+    "resumo": "Peças a condizer para oferecer no Dia dos Namorados.",
+    "foto": "tshirts-de-casal-k-e-q"
+  },
+  {
+    "slug": "halloween",
+    "linha": "datas-especiais",
+    "nome": "Halloween e Pão-por-Deus",
+    "titulo": "Halloween e Pão-por-Deus",
+    "resumo": "Sacos para o Pão-por-Deus e bodies para o primeiro Halloween, com o nome do bebé.",
+    "foto": "saco-o-meu-primeiro-bolinho"
+  },
+  {
+    "slug": "aniversarios",
+    "linha": "datas-especiais",
+    "nome": "Aniversários",
+    "titulo": "Aniversários",
+    "resumo": "Bodies para celebrar os meses do bebé, com o nome e a idade.",
+    "foto": "body-dos-meses-com-nome"
+  },
+  {
+    "slug": "batizado",
+    "linha": "datas-especiais",
+    "nome": "Batizado",
+    "titulo": "Batizado",
+    "resumo": "Conjuntos de batismo com toalha, vela e concha, com o nome e a data do batizado.",
+    "foto": "conjunto-de-batismo-em-caixa-de-madeira"
+  },
+  {
+    "slug": "padrinhos",
+    "linha": "datas-especiais",
+    "nome": "Padrinhos",
+    "titulo": "Padrinhos",
+    "resumo": "Babetes e bodies para convidar os padrinhos, e prendas com o nome para lhes oferecer.",
+    "foto": "babete-convite-ser-tio-e-fixe"
+  },
+  {
+    "slug": "carnaval",
+    "linha": "datas-especiais",
+    "nome": "Carnaval",
+    "titulo": "Carnaval",
+    "resumo": "Fatos de carnaval para bebés, dos 12 aos 24 meses.",
+    "foto": "SEM-FOTO"
+  },
+  {
+    "slug": "retratos",
+    "linha": "pinturas-e-retratos",
+    "nome": "Retratos a carvão",
+    "titulo": "Retratos a carvão",
+    "resumo": "Retratos a carvão desenhados à mão, de bebés, crianças e adultos.",
+    "foto": "retrato-a4-a-carvao-e-grafite-de-bebe"
+  },
+  {
+    "slug": "pinturas",
+    "linha": "pinturas-e-retratos",
+    "nome": "Pinturas a óleo",
+    "titulo": "Pinturas a óleo",
+    "resumo": "Pinturas a óleo",
+    "foto": "SEM-FOTO"
+  }
+]

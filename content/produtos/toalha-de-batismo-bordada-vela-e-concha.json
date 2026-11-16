@@ -1,0 +1,31 @@
+{
+  "nome": "Toalha de batismo bordada, vela e concha",
+  "nomeCurto": "Toalha de batismo bordada, vela e concha",
+  "fotos": [
+    "toalha-de-batismo-bordada-vela-e-concha",
+    "toalha-de-batismo-bordada-vela-e-concha-2"
+  ],
+  "resumo": "Toalha bordada a branco, com o nome e a data a cor-de-rosa.",
+  "descricao": "Toalha de batismo bordada a branco com «O meu Batismo», o nome e a data a cor-de-rosa, com vela e concha enfeitadas com fitas brancas.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "batizado",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 50
+}

@@ -1,0 +1,31 @@
+{
+  "nome": "Fralda e babete do coelhinho na nuvem",
+  "nomeCurto": "Fralda e babete do coelhinho na nuvem",
+  "fotos": [
+    "fralda-e-babete-do-coelhinho-na-nuvem",
+    "fralda-e-babete-do-coelhinho-na-nuvem-2"
+  ],
+  "resumo": "Fralda com coelhinhos numa nuvem e babete com nuvem bordada, ambos com o nome.",
+  "descricao": "Fralda estampada com dois coelhinhos numa nuvem e uma estrela, e babete com uma nuvem bordada; os dois levam o nome bordado. Nas fotografias, em bege e em cinzento. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "fraldas-e-babetes",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 70
+}

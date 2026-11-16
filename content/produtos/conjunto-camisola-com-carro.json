@@ -1,0 +1,30 @@
+{
+  "nome": "Conjunto de camisola com carro e calças",
+  "nomeCurto": "Conjunto de camisola com carro e calças",
+  "fotos": [
+    "conjunto-camisola-com-carro",
+    "conjunto-camisola-com-carro-2"
+  ],
+  "resumo": "Camisola com um carro e calças azul-escuras com risca de lado.",
+  "descricao": "Conjunto de camisola com um carro e a palavra «Vroomm» e calças azul-escuras com risca de lado. Nas fotografias, em azul-claro e em amarelo.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "Azul-claro: 6 e 12 meses; amarelo: 3 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "t-shirts-e-fatos-de-treino",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 90
+}

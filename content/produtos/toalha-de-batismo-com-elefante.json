@@ -1,0 +1,30 @@
+{
+  "nome": "Toalha de batismo com elefante e nome",
+  "nomeCurto": "Toalha de batismo com elefante e nome",
+  "fotos": [
+    "toalha-de-batismo-com-elefante"
+  ],
+  "resumo": "Elefante bebé de laço às bolinhas, o nome e a data.",
+  "descricao": "Toalhinha de batismo branca com um elefante bebé de laço às bolinhas, «O meu Batismo», o nome e a data, e uma barra de renda. Personalizamos com o nome e a data.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "batizado",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 30
+}

@@ -1,0 +1,24 @@
+{
+  "nome": "Saco «O meu primeiro bolinho»",
+  "nomeCurto": "Saco «O meu primeiro bolinho»",
+  "fotos": [
+    "saco-o-meu-primeiro-bolinho"
+  ],
+  "resumo": "Saco de pano cru com a frase a cor-de-rosa e uma borboleta.",
+  "descricao": "Saco de pano cru com cordão, a frase «O meu primeiro bolinho» a cor-de-rosa, uma pequena borboleta e acabamento cor-de-rosa nas laterais.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "halloween",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

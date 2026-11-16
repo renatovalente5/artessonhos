@@ -1,0 +1,34 @@
+{
+  "nome": "Babygrow da primeira Páscoa com nome",
+  "nomeCurto": "Babygrow da primeira Páscoa com nome",
+  "fotos": [
+    "babygrow-da-primeira-pascoa",
+    "babygrow-da-primeira-pascoa-2",
+    "babygrow-da-primeira-pascoa-3",
+    "babygrow-da-primeira-pascoa-4",
+    "babygrow-da-primeira-pascoa-5"
+  ],
+  "resumo": "Peito branco com um coelhinho e o nome do bebé.",
+  "descricao": "Babygrow cor-de-rosa, azul ou lilás com o peito branco, um coelhinho e «A 1.ª Páscoa da…» com o nome, ou «A minha primeira Páscoa». Pode levar body e babete a condizer.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "pascoa",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

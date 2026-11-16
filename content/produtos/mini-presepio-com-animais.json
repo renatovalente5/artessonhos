@@ -1,0 +1,25 @@
+{
+  "nome": "Mini presépio com animais",
+  "nomeCurto": "Mini presépio com animais",
+  "fotos": [
+    "mini-presepio-com-animais",
+    "mini-presepio-com-animais-2"
+  ],
+  "resumo": "Presépio pequenino com a Sagrada Família, a vaca e o burro.",
+  "descricao": "Presépio pequenino com Nossa Senhora, São José, o Menino Jesus, a vaca e o burro, debaixo de uma estrela dourada. Cabe na palma da mão.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "gesso-e-religiosos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 40
+}

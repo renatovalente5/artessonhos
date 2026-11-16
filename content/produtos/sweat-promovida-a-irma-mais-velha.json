@@ -1,0 +1,30 @@
+{
+  "nome": "Sweat rosa «Promovida a irmã mais velha»",
+  "nomeCurto": "Sweat rosa «Promovida a irmã mais velha»",
+  "fotos": [
+    "sweat-promovida-a-irma-mais-velha"
+  ],
+  "resumo": "Sweat rosa com coroa e a frase «Promovida a irmã mais velha».",
+  "descricao": "Sweat rosa com uma coroa e a frase «Promovida a irmã mais velha», para dar as boas-vindas ao novo bebé. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "t-shirts-e-fatos-de-treino",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

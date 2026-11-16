@@ -1,0 +1,906 @@
+{
+  "bibe-de-xadrez-com-nome-e-coracao-em-puzzle": {
+    "alt": "Bibe de xadrez com nome e coração em puzzle",
+    "foco": "50% 50%"
+  },
+  "bibe-as-bolinhas-com-nome-bordado": {
+    "alt": "Bibe às bolinhas com nome bordado",
+    "foco": "50% 50%"
+  },
+  "bibe-as-bolinhas-com-nome-bordado-2": {
+    "alt": "Bibe às bolinhas com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-as-bolinhas-com-nome-bordado-3": {
+    "alt": "Bibe às bolinhas com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-as-bolinhas-com-nome-bordado-4": {
+    "alt": "Bibe às bolinhas com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-rosa-as-bolinhas-com-laco-e-nome": {
+    "alt": "Bibe rosa às bolinhas com laço e nome",
+    "foco": "50% 50%"
+  },
+  "bibe-rosa-as-bolinhas-com-laco-e-nome-2": {
+    "alt": "Bibe rosa às bolinhas com laço e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-rosa-as-bolinhas-com-laco-e-nome-3": {
+    "alt": "Bibe rosa às bolinhas com laço e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-rosa-as-bolinhas-com-laco-e-nome-4": {
+    "alt": "Bibe rosa às bolinhas com laço e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-rosa-as-bolinhas-com-laco-e-nome-5": {
+    "alt": "Bibe rosa às bolinhas com laço e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-e-mochila-mostarda-com-nome-bordado": {
+    "alt": "Bibe e mochila mostarda com nome bordado",
+    "foco": "50% 50%"
+  },
+  "conjunto-escolar-de-xadrez-azul-com-nome": {
+    "alt": "Conjunto escolar de xadrez azul com nome",
+    "foco": "50% 50%"
+  },
+  "bibe-verde-as-bolinhas-com-gatinho-e-nome": {
+    "alt": "Bibe verde às bolinhas com gatinho e nome",
+    "foco": "50% 50%"
+  },
+  "bibe-verde-agua-com-desenho-de-halloween": {
+    "alt": "Bibe verde-água com desenho de Halloween",
+    "foco": "50% 50%"
+  },
+  "bibe-amarelo-aos-quadradinhos-com-nome": {
+    "alt": "Bibe amarelo aos quadradinhos com nome",
+    "foco": "50% 50%"
+  },
+  "bibe-amarelo-aos-quadradinhos-com-nome-2": {
+    "alt": "Bibe amarelo aos quadradinhos com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-azul-com-estampado-escolar-e-chapeu": {
+    "alt": "Bibe azul com estampado escolar e chapéu",
+    "foco": "50% 50%"
+  },
+  "bibe-rosa-com-estampado-escolar-e-nome": {
+    "alt": "Bibe rosa com estampado escolar e nome",
+    "foco": "50% 50%"
+  },
+  "bibe-rosa-com-estampado-escolar-e-nome-2": {
+    "alt": "Bibe rosa com estampado escolar e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bibe-laranja-de-xadrez-com-gola-e-chapeu": {
+    "alt": "Bibe laranja de xadrez com gola e chapéu",
+    "foco": "50% 50%"
+  },
+  "bibe-de-fabrica-com-dinossauros": {
+    "alt": "Bibe de fábrica com dinossauros",
+    "foco": "50% 50%"
+  },
+  "bibe-de-fabrica-com-dinossauros-2": {
+    "alt": "Bibe de fábrica com dinossauros — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-azul-claro-com-nome-bordado": {
+    "alt": "Saco azul-claro com nome bordado",
+    "foco": "50% 50%"
+  },
+  "saco-azul-claro-com-nome-bordado-2": {
+    "alt": "Saco azul-claro com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-azul-claro-com-nome-bordado-3": {
+    "alt": "Saco azul-claro com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "totebag-arco-iris-com-nome": {
+    "alt": "Totebag com arco-íris de flores e nome",
+    "foco": "50% 50%"
+  },
+  "totebag-branca-com-inicial": {
+    "alt": "Totebag branca com inicial e flores",
+    "foco": "50% 50%"
+  },
+  "totebag-branca-com-inicial-2": {
+    "alt": "Totebag branca com inicial e flores — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "sacos-cinzentos-com-estrelas-e-nome": {
+    "alt": "Sacos cinzentos com estrelas e nome bordado",
+    "foco": "50% 50%"
+  },
+  "saco-rosa-com-luas-e-estrelas": {
+    "alt": "Saco rosa com luas e estrelas",
+    "foco": "50% 50%"
+  },
+  "sacos-primeira-roupinha-bolinhas-e-luas": {
+    "alt": "Sacos de 1.ª roupinha: bolinhas e luas",
+    "foco": "50% 50%"
+  },
+  "sacos-1-2-3-com-fita": {
+    "alt": "Conjunto de sacos 1, 2, 3 com fita",
+    "foco": "50% 50%"
+  },
+  "sacos-1-2-3-com-fita-2": {
+    "alt": "Conjunto de sacos 1, 2, 3 com fita — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fraldinha-de-renda-com-laco-e-nome": {
+    "alt": "Fraldinha de renda com laço e nome",
+    "foco": "50% 50%"
+  },
+  "fraldinha-de-renda-com-laco-e-nome-2": {
+    "alt": "Fraldinha de renda com laço e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fraldinha-de-renda-com-laco-e-nome-3": {
+    "alt": "Fraldinha de renda com laço e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fraldinha-de-renda-com-laco-e-nome-4": {
+    "alt": "Fraldinha de renda com laço e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fraldinha-de-renda-com-laco-e-nome-5": {
+    "alt": "Fraldinha de renda com laço e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fraldinhas-estampadas-de-ursinhos": {
+    "alt": "Fraldinhas estampadas de ursinhos",
+    "foco": "50% 50%"
+  },
+  "fralda-e-prende-chupeta-do-unicornio": {
+    "alt": "Fralda e prende-chupeta do unicórnio",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-da-girafinha": {
+    "alt": "Fralda e babete da girafinha",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-da-girafinha-2": {
+    "alt": "Fralda e babete da girafinha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-ursinho-na-escada": {
+    "alt": "Fralda e babete do ursinho na escada",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-ursinho-na-escada-2": {
+    "alt": "Fralda e babete do ursinho na escada — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fraldas-do-coelhinho": {
+    "alt": "Fraldas do coelhinho",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-coelhinho-na-nuvem": {
+    "alt": "Fralda e babete do coelhinho na nuvem",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-coelhinho-na-nuvem-2": {
+    "alt": "Fralda e babete do coelhinho na nuvem — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fraldinha-rosa-com-estrelas-e-nome": {
+    "alt": "Fraldinha rosa com estrelas e nome",
+    "foco": "50% 50%"
+  },
+  "fraldinhas-com-animais-do-bosque": {
+    "alt": "Fraldinhas com animais do bosque",
+    "foco": "50% 50%"
+  },
+  "fraldinhas-do-anjo-da-guarda": {
+    "alt": "Fraldinhas do Anjo da Guarda",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-pinguim": {
+    "alt": "Fralda e babete do pinguim",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-pinguim-2": {
+    "alt": "Fralda e babete do pinguim — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-pinguim-3": {
+    "alt": "Fralda e babete do pinguim — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-fralda-e-babete-estampados": {
+    "alt": "Conjunto de fralda e babete estampados",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-fralda-e-babete-estampados-2": {
+    "alt": "Conjunto de fralda e babete estampados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-fralda-e-babete-estampados-3": {
+    "alt": "Conjunto de fralda e babete estampados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-fralda-e-babete-estampados-4": {
+    "alt": "Conjunto de fralda e babete estampados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-fralda-e-babete-estampados-5": {
+    "alt": "Conjunto de fralda e babete estampados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-anuncio-prepara-o-teu-colinho": {
+    "alt": "Body de anúncio «Prepara o teu colinho»",
+    "foco": "50% 50%"
+  },
+  "body-anuncio-prepara-o-teu-colinho-2": {
+    "alt": "Body de anúncio «Prepara o teu colinho» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-anuncio-prepara-o-teu-colinho-3": {
+    "alt": "Body de anúncio «Prepara o teu colinho» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-anuncio-com-ecografia": {
+    "alt": "Body de anúncio com ecografia",
+    "foco": "50% 50%"
+  },
+  "body-forca-pai-nao-desistas": {
+    "alt": "Body «Força Pai, Não Desistas!»",
+    "foco": "50% 50%"
+  },
+  "babygrow-vermelho-com-frase": {
+    "alt": "Babygrow vermelho com frase no peito",
+    "foco": "50% 50%"
+  },
+  "body-bebe-a-dormir-na-lua": {
+    "alt": "Body com bebé a dormir na lua",
+    "foco": "50% 50%"
+  },
+  "body-feito-com-amor-para-a-tia": {
+    "alt": "Body «Feito com amor» para a tia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado": {
+    "alt": "Manta de malha com nome bordado",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-2": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-3": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-4": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-5": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-6": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-7": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-8": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-9": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-10": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-11": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-com-nome-bordado-12": {
+    "alt": "Manta de malha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-pipoca-rosa-com-girafa": {
+    "alt": "Manta pipoca rosa com girafa e nome",
+    "foco": "50% 50%"
+  },
+  "manta-pipoca-e-doudou-com-nome": {
+    "alt": "Manta pipoca e doudou com nome bordado",
+    "foco": "50% 50%"
+  },
+  "manta-pipoca-rosa-com-nome-e-borboletas": {
+    "alt": "Manta pipoca rosa com nome e borboletas",
+    "foco": "50% 50%"
+  },
+  "manta-de-malha-rosa-com-trancas": {
+    "alt": "Manta de malha rosa com tranças e nome",
+    "foco": "50% 50%"
+  },
+  "manta-pipoca-amarela-com-elefante": {
+    "alt": "Manta pipoca amarela com elefante",
+    "foco": "50% 50%"
+  },
+  "manta-pipoca-amarela-com-elefante-2": {
+    "alt": "Manta pipoca amarela com elefante — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-pipoca-branca-com-unicornio": {
+    "alt": "Manta pipoca branca com unicórnio",
+    "foco": "50% 50%"
+  },
+  "manta-pipoca-branca-com-unicornio-2": {
+    "alt": "Manta pipoca branca com unicórnio — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "sweat-promovida-a-irma-mais-velha": {
+    "alt": "Sweat rosa «Promovida a irmã mais velha»",
+    "foco": "50% 50%"
+  },
+  "t-shirt-promovido-a-com-coroa": {
+    "alt": "T-shirt «Promovido a…» com coroa",
+    "foco": "50% 50%"
+  },
+  "t-shirt-promovido-a-com-coroa-2": {
+    "alt": "T-shirt «Promovido a…» com coroa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "t-shirt-promovido-a-com-coroa-3": {
+    "alt": "T-shirt «Promovido a…» com coroa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "t-shirts-de-aniversario-para-a-familia": {
+    "alt": "T-shirts de aniversário para a família",
+    "foco": "50% 50%"
+  },
+  "t-shirt-convite-aos-padrinhos": {
+    "alt": "T-shirt de convite aos padrinhos",
+    "foco": "50% 50%"
+  },
+  "t-shirt-convite-aos-padrinhos-2": {
+    "alt": "T-shirt de convite aos padrinhos — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "t-shirt-fui-promovida-com-unicornio": {
+    "alt": "T-shirt «Fui promovida» com unicórnio",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-inverno-mostarda": {
+    "alt": "Conjunto de inverno mostarda com gola",
+    "foco": "50% 50%"
+  },
+  "conjunto-casaco-com-capuz-rosa": {
+    "alt": "Conjunto de casaco com capuz rosa e cinza",
+    "foco": "50% 50%"
+  },
+  "conjunto-casaco-com-capuz-rosa-2": {
+    "alt": "Conjunto de casaco com capuz rosa e cinza — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-tunica-com-folhos": {
+    "alt": "Conjunto de túnica com folhos e calças",
+    "foco": "50% 50%"
+  },
+  "conjunto-tunica-com-folhos-2": {
+    "alt": "Conjunto de túnica com folhos e calças — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-camisola-com-carro": {
+    "alt": "Conjunto de camisola com carro e calças",
+    "foco": "50% 50%"
+  },
+  "conjunto-camisola-com-carro-2": {
+    "alt": "Conjunto de camisola com carro e calças — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fronha-de-almofada-com-nome-bordado": {
+    "alt": "Fronha de almofada com nome bordado",
+    "foco": "50% 50%"
+  },
+  "chavena-parabens-a-melhor-madrinha": {
+    "alt": "Chávena «Parabéns à melhor madrinha»",
+    "foco": "50% 50%"
+  },
+  "chavena-parabens-a-melhor-madrinha-2": {
+    "alt": "Chávena «Parabéns à melhor madrinha» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "chavena-parabens-a-melhor-madrinha-3": {
+    "alt": "Chávena «Parabéns à melhor madrinha» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "caneta-com-mensagem-e-estojo": {
+    "alt": "Caneta com mensagem e estojo",
+    "foco": "50% 50%"
+  },
+  "caneta-com-mensagem-e-estojo-2": {
+    "alt": "Caneta com mensagem e estojo — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "mealheiro-para-os-sonhos-com-nome": {
+    "alt": "Mealheiro «Para os sonhos» com nome",
+    "foco": "50% 50%"
+  },
+  "mealheiro-para-os-sonhos-com-nome-2": {
+    "alt": "Mealheiro «Para os sonhos» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "almofada-verde-com-arco-iris-e-nome": {
+    "alt": "Almofada verde com arco-íris e nome",
+    "foco": "50% 50%"
+  },
+  "pantufas-de-casal-k-e-q-com-coroa": {
+    "alt": "Pantufas de casal «K» e «Q» com coroa",
+    "foco": "50% 50%"
+  },
+  "pantufas-the-boss-e-the-real-boss": {
+    "alt": "Pantufas «The Boss» e «The Real Boss»",
+    "foco": "50% 50%"
+  },
+  "t-shirt-de-finalista-do-pre-escolar": {
+    "alt": "T-shirt de finalista do pré-escolar",
+    "foco": "50% 50%"
+  },
+  "t-shirt-de-finalista-do-pre-escolar-2": {
+    "alt": "T-shirt de finalista do pré-escolar — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "t-shirt-de-finalista-do-pre-escolar-3": {
+    "alt": "T-shirt de finalista do pré-escolar — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "t-shirt-sou-finalista-com-capelo": {
+    "alt": "T-shirt «Sou finalista!» com capelo",
+    "foco": "50% 50%"
+  },
+  "nossa-senhora-com-terco-e-mensagem": {
+    "alt": "Nossa Senhora com terço e mensagem",
+    "foco": "50% 50%"
+  },
+  "nossa-senhora-com-terco-e-mensagem-2": {
+    "alt": "Nossa Senhora com terço e mensagem — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "placa-feliz-natal-em-gesso-perfumado": {
+    "alt": "Placa «Feliz Natal» em gesso perfumado",
+    "foco": "50% 50%"
+  },
+  "placa-feliz-natal-em-gesso-perfumado-2": {
+    "alt": "Placa «Feliz Natal» em gesso perfumado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "estrela-de-natal-em-gesso-com-presepio": {
+    "alt": "Estrela de Natal em gesso com presépio",
+    "foco": "50% 50%"
+  },
+  "estrela-de-natal-em-gesso-com-presepio-2": {
+    "alt": "Estrela de Natal em gesso com presépio — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "mini-presepio-com-animais": {
+    "alt": "Mini presépio com animais",
+    "foco": "50% 50%"
+  },
+  "mini-presepio-com-animais-2": {
+    "alt": "Mini presépio com animais — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "tshirt-e-body-arco-iris-primeiro-dia-da-mae": {
+    "alt": "T-shirt e body com arco-íris e nomes",
+    "foco": "50% 50%"
+  },
+  "tshirt-e-body-maos-dadas": {
+    "alt": "T-shirt e body com mãos dadas e nomes",
+    "foco": "50% 50%"
+  },
+  "tshirt-e-body-maos-dadas-2": {
+    "alt": "T-shirt e body com mãos dadas e nomes — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "tshirt-preta-mae-e-filha": {
+    "alt": "T-shirt preta com mãe e filha",
+    "foco": "50% 50%"
+  },
+  "tshirts-mae-e-filho-coracao-de-puzzle": {
+    "alt": "T-shirts mãe e filho com coração de puzzle",
+    "foco": "50% 50%"
+  },
+  "tshirt-mae-dos-gemeos-e-bodies": {
+    "alt": "T-shirt «Mãe dos gémeos» e bodies com nome",
+    "foco": "50% 50%"
+  },
+  "tshirt-e-body-cafe-e-biberao": {
+    "alt": "T-shirt e body com café e biberão",
+    "foco": "50% 50%"
+  },
+  "tshirt-e-body-mae-e-bebe-ilustrados": {
+    "alt": "T-shirt e body com mãe e bebé ilustrados",
+    "foco": "50% 50%"
+  },
+  "body-a-avo-mais-babada-do-mundo": {
+    "alt": "Body «A avó mais babada do mundo»",
+    "foco": "50% 50%"
+  },
+  "tshirt-a-minha-mae-nao-tem-preco": {
+    "alt": "T-shirt «A minha mãe não tem preço»",
+    "foco": "50% 50%"
+  },
+  "tshirt-mae-com-os-nomes-dos-filhos": {
+    "alt": "T-shirt «Mãe» com os nomes dos filhos",
+    "foco": "50% 50%"
+  },
+  "body-sou-o-amorzinho-dos-avos": {
+    "alt": "Body «Sou o amorzinho dos avós»",
+    "foco": "50% 50%"
+  },
+  "body-sou-o-amorzinho-dos-avos-2": {
+    "alt": "Body «Sou o amorzinho dos avós» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-sou-o-amorzinho-dos-avos-3": {
+    "alt": "Body «Sou o amorzinho dos avós» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-sou-o-amorzinho-dos-avos-4": {
+    "alt": "Body «Sou o amorzinho dos avós» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-sou-o-amorzinho-dos-avos-5": {
+    "alt": "Body «Sou o amorzinho dos avós» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babetes-promovido-de-pai-a-avo": {
+    "alt": "Babetes «Promovido de pai a avô» com nome",
+    "foco": "50% 50%"
+  },
+  "body-avos-preparem-a-carteira": {
+    "alt": "Body «Avós, preparem a carteira»",
+    "foco": "50% 50%"
+  },
+  "body-avos-preparem-a-carteira-2": {
+    "alt": "Body «Avós, preparem a carteira» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-avos-preparem-a-carteira-3": {
+    "alt": "Body «Avós, preparem a carteira» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-parabens-avo-ate-dezembro": {
+    "alt": "Body «Parabéns, avó! Até dezembro!»",
+    "foco": "50% 50%"
+  },
+  "babete-avos-preparem-um-cantinho": {
+    "alt": "Babete «Avós, preparem um cantinho»",
+    "foco": "50% 50%"
+  },
+  "body-o-meu-primeiro-dia-dos-avos": {
+    "alt": "Body «O meu primeiro Dia dos Avós» com nome",
+    "foco": "50% 50%"
+  },
+  "body-o-meu-primeiro-dia-dos-avos-2": {
+    "alt": "Body «O meu primeiro Dia dos Avós» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-o-meu-primeiro-dia-dos-avos-3": {
+    "alt": "Body «O meu primeiro Dia dos Avós» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-o-meu-primeiro-dia-dos-avos-4": {
+    "alt": "Body «O meu primeiro Dia dos Avós» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-e-tshirt-deus-escolheu": {
+    "alt": "Body e t-shirt com frase «Deus escolheu…»",
+    "foco": "50% 50%"
+  },
+  "body-e-tshirt-deus-escolheu-2": {
+    "alt": "Body e t-shirt com frase «Deus escolheu…» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-e-tshirt-deus-escolheu-3": {
+    "alt": "Body e t-shirt com frase «Deus escolheu…» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-a-beleza-e-dos-avos": {
+    "alt": "Body «A beleza é dos avós» com nome",
+    "foco": "50% 50%"
+  },
+  "babygrow-da-primeira-pascoa": {
+    "alt": "Babygrow da primeira Páscoa com nome",
+    "foco": "50% 50%"
+  },
+  "babygrow-da-primeira-pascoa-2": {
+    "alt": "Babygrow da primeira Páscoa com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-da-primeira-pascoa-3": {
+    "alt": "Babygrow da primeira Páscoa com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-da-primeira-pascoa-4": {
+    "alt": "Babygrow da primeira Páscoa com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-da-primeira-pascoa-5": {
+    "alt": "Babygrow da primeira Páscoa com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-a-primeira-pascoa-com-nome": {
+    "alt": "Body «A 1.ª Páscoa» com nome e coelhinho",
+    "foco": "50% 50%"
+  },
+  "body-a-primeira-pascoa-com-nome-2": {
+    "alt": "Body «A 1.ª Páscoa» com nome e coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-a-primeira-pascoa-com-nome-3": {
+    "alt": "Body «A 1.ª Páscoa» com nome e coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-a-primeira-pascoa-com-nome-4": {
+    "alt": "Body «A 1.ª Páscoa» com nome e coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-a-primeira-pascoa-com-nome-5": {
+    "alt": "Body «A 1.ª Páscoa» com nome e coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "camisola-com-coelhinho-e-calcas-lilas": {
+    "alt": "Camisola com coelhinho e calças lilás",
+    "foco": "50% 50%"
+  },
+  "body-a-minha-primeira-pascoa": {
+    "alt": "Body «A minha primeira Páscoa»",
+    "foco": "50% 50%"
+  },
+  "body-a-minha-primeira-pascoa-2": {
+    "alt": "Body «A minha primeira Páscoa» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-a-minha-primeira-pascoa-3": {
+    "alt": "Body «A minha primeira Páscoa» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-a-beleza-e-da-madrinha": {
+    "alt": "Body «A beleza é da madrinha»",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-estrela-da-pascoa": {
+    "alt": "Fralda e babete «Sou a estrela da Páscoa»",
+    "foco": "50% 50%"
+  },
+  "babete-a-beleza-e-do-padrinho": {
+    "alt": "Babete «A beleza é do padrinho»",
+    "foco": "50% 50%"
+  },
+  "tshirts-de-casal-k-e-q": {
+    "alt": "T-shirts de casal K e Q com coroa",
+    "foco": "50% 50%"
+  },
+  "saco-o-meu-primeiro-bolinho": {
+    "alt": "Saco «O meu primeiro bolinho»",
+    "foco": "50% 50%"
+  },
+  "saco-com-nome-e-flores": {
+    "alt": "Saco de pano com nome e flores",
+    "foco": "50% 50%"
+  },
+  "body-o-meu-primeiro-halloween": {
+    "alt": "Body «O meu primeiro Halloween» com nome",
+    "foco": "50% 50%"
+  },
+  "body-o-meu-primeiro-halloween-2": {
+    "alt": "Body «O meu primeiro Halloween» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-o-meu-primeiro-halloween-3": {
+    "alt": "Body «O meu primeiro Halloween» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-docura-ou-travessura-com-nome": {
+    "alt": "Saco «Doçura ou travessura?» com nome",
+    "foco": "50% 50%"
+  },
+  "mochila-pao-por-deus-com-nome": {
+    "alt": "Mochila «Pão por Deus» com nome",
+    "foco": "50% 50%"
+  },
+  "body-dos-meses-com-nome": {
+    "alt": "Body dos meses com nome e animal",
+    "foco": "50% 50%"
+  },
+  "body-dos-meses-com-nome-2": {
+    "alt": "Body dos meses com nome e animal — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-dos-meses-com-nome-3": {
+    "alt": "Body dos meses com nome e animal — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-dos-meses-com-nome-4": {
+    "alt": "Body dos meses com nome e animal — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-dos-meses-com-nome-5": {
+    "alt": "Body dos meses com nome e animal — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-com-gola-de-folho-e-girafa": {
+    "alt": "Body com gola de folho, nome e girafa",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-bordado-em-caixa": {
+    "alt": "Conjunto de batismo bordado em caixa",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-em-caixa-de-madeira": {
+    "alt": "Conjunto de batismo em caixa de madeira",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-em-caixa-de-madeira-2": {
+    "alt": "Conjunto de batismo em caixa de madeira — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-em-caixa-de-madeira-3": {
+    "alt": "Conjunto de batismo em caixa de madeira — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-em-caixa-de-madeira-4": {
+    "alt": "Conjunto de batismo em caixa de madeira — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-em-caixa-de-madeira-5": {
+    "alt": "Conjunto de batismo em caixa de madeira — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-de-batismo-com-elefante": {
+    "alt": "Toalha de batismo com elefante e nome",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-com-livro-de-honra": {
+    "alt": "Conjunto de batismo com livro de honra",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-com-livro-de-honra-2": {
+    "alt": "Conjunto de batismo com livro de honra — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-batismo-com-livro-de-honra-3": {
+    "alt": "Conjunto de batismo com livro de honra — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-de-batismo-bordada-vela-e-concha": {
+    "alt": "Toalha de batismo bordada, vela e concha",
+    "foco": "50% 50%"
+  },
+  "toalha-de-batismo-bordada-vela-e-concha-2": {
+    "alt": "Toalha de batismo bordada, vela e concha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-de-batismo-com-moldura-de-flores": {
+    "alt": "Toalha de batismo com moldura de flores",
+    "foco": "50% 50%"
+  },
+  "toalha-de-batismo-com-moldura-de-flores-2": {
+    "alt": "Toalha de batismo com moldura de flores — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babete-convite-ser-tio-e-fixe": {
+    "alt": "Babete-convite «Ser tio é fixe!»",
+    "foco": "50% 50%"
+  },
+  "babete-convite-ser-tio-e-fixe-2": {
+    "alt": "Babete-convite «Ser tio é fixe!» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babete-convite-ser-tio-e-fixe-3": {
+    "alt": "Babete-convite «Ser tio é fixe!» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babete-convite-ser-tio-e-fixe-4": {
+    "alt": "Babete-convite «Ser tio é fixe!» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babete-convite-ser-tio-e-fixe-5": {
+    "alt": "Babete-convite «Ser tio é fixe!» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babetes-queres-ser-meu-padrinho": {
+    "alt": "Babetes «Queres ser meu padrinho?» com coroa",
+    "foco": "50% 50%"
+  },
+  "babetes-queres-ser-meu-padrinho-2": {
+    "alt": "Babetes «Queres ser meu padrinho?» com coroa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "body-aceitas-ser-meu-padrinho": {
+    "alt": "Body «Aceitas ser meu padrinho?» com nome",
+    "foco": "50% 50%"
+  },
+  "body-aceitas-ser-meu-padrinho-2": {
+    "alt": "Body «Aceitas ser meu padrinho?» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bodies-o-melhor-padrinho-do-mundo": {
+    "alt": "Bodies «O melhor padrinho do mundo»",
+    "foco": "50% 50%"
+  },
+  "camisolas-com-capuz-padrinho-e-madrinha": {
+    "alt": "Camisolas com capuz para padrinho e madrinha",
+    "foco": "50% 50%"
+  },
+  "babetes-convite-a-vida-e-melhor": {
+    "alt": "Babetes-convite «A vida é melhor…»",
+    "foco": "50% 50%"
+  },
+  "body-sou-o-orgulho-da-minha-madrinha": {
+    "alt": "Body «Sou o orgulho da minha madrinha»",
+    "foco": "50% 50%"
+  },
+  "body-a-beleza-e-da-madrinha-padrinhos": {
+    "alt": "Body «A beleza é da madrinha»",
+    "foco": "50% 50%"
+  },
+  "babete-convite-para-a-prima-madrinha": {
+    "alt": "Babete-convite para a prima ser madrinha",
+    "foco": "50% 50%"
+  },
+  "babete-convite-para-a-prima-madrinha-2": {
+    "alt": "Babete-convite para a prima ser madrinha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babete-sou-o-orgulho-da-minha-madrinha": {
+    "alt": "Babete «Sou o orgulho da minha madrinha»",
+    "foco": "50% 50%"
+  },
+  "retrato-a4-a-carvao-de-menina": {
+    "alt": "Retrato A4 a carvão de menina",
+    "foco": "50% 50%"
+  },
+  "retrato-a4-a-carvao-e-grafite-de-bebe": {
+    "alt": "Retrato A4 a carvão e grafite de bebé",
+    "foco": "50% 50%"
+  },
+  "retrato-a-carvao-de-bebe-com-laco": {
+    "alt": "Retrato a carvão de bebé com laço",
+    "foco": "50% 50%"
+  },
+  "retrato-a-carvao-de-homem": {
+    "alt": "Retrato a carvão de homem",
+    "foco": "50% 50%"
+  },
+  "capa-toalhas-ursinhos": {
+    "alt": "Toalhas de banho com capuz e ursinhos pintados, em azul, verde, rosa e bege",
+    "foco": "50% 50%"
+  },
+  "capa-mochila-ines": {
+    "alt": "Mochila branca e rosa da creche, com o nome Inês bordado e um laço",
+    "foco": "50% 50%"
+  },
+  "natal-bolinhas-de-madeira": {
+    "alt": "Bolinhas de Natal em madeira, com «O meu 1.º Natal» e o nome gravados, entre luzes",
+    "foco": "50% 50%"
+  },
+  "linha-bebe-jardineira": {
+    "alt": "Jardineira de malha bege com gorro e camisola branca",
+    "foco": "50% 50%"
+  },
+  "linha-personalizados-mochila": {
+    "alt": "Mochila amarela da creche com o nome Gabriel bordado",
+    "foco": "50% 50%"
+  },
+  "linha-datas-bolinha-eva": {
+    "alt": "Bolinha de Natal em madeira «O meu 1.º Natal», com o nome Eva",
+    "foco": "50% 50%"
+  }
+}

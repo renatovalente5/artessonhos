@@ -1,0 +1,31 @@
+{
+  "nome": "Nossa Senhora com terço e mensagem",
+  "nomeCurto": "Nossa Senhora com terço e mensagem",
+  "fotos": [
+    "nossa-senhora-com-terco-e-mensagem",
+    "nossa-senhora-com-terco-e-mensagem-2"
+  ],
+  "resumo": "Figura de Nossa Senhora com terço e flores, com uma mensagem nas costas.",
+  "descricao": "Figura de Nossa Senhora com coroa, terço e flores na base, com uma mensagem e o nome nas costas, como «Avó é mãe com açúcar». Personalizamos com o nome e a mensagem que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "gesso-e-religiosos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

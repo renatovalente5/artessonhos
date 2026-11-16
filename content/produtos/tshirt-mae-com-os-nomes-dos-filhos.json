@@ -1,0 +1,30 @@
+{
+  "nome": "T-shirt «Mãe» com os nomes dos filhos",
+  "nomeCurto": "T-shirt «Mãe» com os nomes dos filhos",
+  "fotos": [
+    "tshirt-mae-com-os-nomes-dos-filhos"
+  ],
+  "resumo": "«Mãe» em letras grandes, com os nomes por cima e o ano.",
+  "descricao": "T-shirt branca com «MÃE» em letras grandes cor de caramelo, os nomes dos filhos escritos por cima e «Est.» com o ano. Personalizamos com os nomes que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-da-mae",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 100
+}

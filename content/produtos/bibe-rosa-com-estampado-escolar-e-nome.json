@@ -1,0 +1,31 @@
+{
+  "nome": "Bibe rosa com estampado escolar e nome",
+  "nomeCurto": "Bibe rosa com estampado escolar e nome",
+  "fotos": [
+    "bibe-rosa-com-estampado-escolar-e-nome",
+    "bibe-rosa-com-estampado-escolar-e-nome-2"
+  ],
+  "resumo": "Bibe rosa estampado com material escolar e o nome bordado no peito.",
+  "descricao": "Bibe com peito, mangas e bolsos cor-de-rosa e o resto estampado com material escolar (lápis, mochilas, quadros e letras), com o nome bordado no peito. Numa das fotografias, com um chapéu rosa com o nome a condizer.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "bibes",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 100
+}

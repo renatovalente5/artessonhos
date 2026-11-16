@@ -1,0 +1,41 @@
+{
+  "nome": "Manta de malha com nome bordado",
+  "nomeCurto": "Manta de malha com nome bordado",
+  "fotos": [
+    "manta-de-malha-com-nome-bordado",
+    "manta-de-malha-com-nome-bordado-2",
+    "manta-de-malha-com-nome-bordado-3",
+    "manta-de-malha-com-nome-bordado-4",
+    "manta-de-malha-com-nome-bordado-5",
+    "manta-de-malha-com-nome-bordado-6",
+    "manta-de-malha-com-nome-bordado-7",
+    "manta-de-malha-com-nome-bordado-8",
+    "manta-de-malha-com-nome-bordado-9",
+    "manta-de-malha-com-nome-bordado-10",
+    "manta-de-malha-com-nome-bordado-11",
+    "manta-de-malha-com-nome-bordado-12"
+  ],
+  "resumo": "Manta de malha com pontinhos em relevo e o nome bordado, em várias cores.",
+  "descricao": "Manta de malha com pontinhos em relevo, barra a toda a volta e o nome do bebé bordado. Nas fotografias: creme, azul-bebé, branco, azul-marinho, rosa-velho, lilás, malva, cinzento, azul-ganga, verde, rosa e vermelho. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "mantas-personalizadas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

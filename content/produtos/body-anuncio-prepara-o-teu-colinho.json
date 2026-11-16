@@ -1,0 +1,32 @@
+{
+  "nome": "Body de anúncio «Prepara o teu colinho»",
+  "nomeCurto": "Body de anúncio «Prepara o teu colinho»",
+  "fotos": [
+    "body-anuncio-prepara-o-teu-colinho",
+    "body-anuncio-prepara-o-teu-colinho-2",
+    "body-anuncio-prepara-o-teu-colinho-3"
+  ],
+  "resumo": "Body para anunciar o bebé à madrinha, ao padrinho ou à família.",
+  "descricao": "Body branco com «Madrinha», «Padrinho» ou «Família», a frase «Prepara o teu colinho que eu estou a caminho!» e pezinhos. Nas duas primeiras fotografias aparece ao lado do body com a ecografia. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "bodies-com-frase",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

@@ -1,0 +1,30 @@
+{
+  "nome": "Babetes-convite «A vida é melhor…»",
+  "nomeCurto": "Babetes-convite «A vida é melhor…»",
+  "fotos": [
+    "babetes-convite-a-vida-e-melhor"
+  ],
+  "resumo": "Convite aos padrinhos, com debrum cinzento.",
+  "descricao": "Par de babetes com debrum cinzento e a frase «A vida é melhor com alguém especial como tu!», a perguntar ao tio e à maninha se aceitam ser padrinho e madrinha.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "padrinhos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 60
+}

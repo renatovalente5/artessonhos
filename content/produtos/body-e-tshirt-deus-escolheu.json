@@ -1,0 +1,31 @@
+{
+  "nome": "Body e t-shirt com frase «Deus escolheu…»",
+  "fotos": [
+    "body-e-tshirt-deus-escolheu",
+    "body-e-tshirt-deus-escolheu-2",
+    "body-e-tshirt-deus-escolheu-3"
+  ],
+  "resumo": "«Deus escolheu a melhor pessoa do mundo para ser a minha avó.»",
+  "descricao": "Body ou t-shirt branca com a frase «Deus escolheu a melhor pessoa do mundo para ser a minha avó» em letras de cor. Também para os dois avós, com o nome do bebé. 100% algodão e 100% português.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-dos-avos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 70
+}

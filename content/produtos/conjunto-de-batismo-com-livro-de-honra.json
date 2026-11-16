@@ -1,0 +1,32 @@
+{
+  "nome": "Conjunto de batismo com livro de honra",
+  "nomeCurto": "Conjunto de batismo com livro de honra",
+  "fotos": [
+    "conjunto-de-batismo-com-livro-de-honra",
+    "conjunto-de-batismo-com-livro-de-honra-2",
+    "conjunto-de-batismo-com-livro-de-honra-3"
+  ],
+  "resumo": "Caixa, toalha, vela, concha e livro de honra com flores e laço rosa.",
+  "descricao": "Caixa branca com «O meu Batismo», o nome e a data na tampa, toalha com uma moldura de flores e o nome, vela e concha com laço rosa velho, e livro de honra a condizer.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "batizado",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 40
+}

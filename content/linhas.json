@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "bebe",
+    "nome": "Enxoval do bebé",
+    "nomeMenu": "Bebé",
+    "titulo": "Enxoval do bebé",
+    "frase": "Primeira roupinha, conjuntos, mantas e tudo para o quarto.",
+    "resumo": "A primeira roupinha, conjuntos, mantas, tudo para o quarto e para o passeio, e as malas de maternidade. Muitas peças levam o nome bordado ou pintado à mão.",
+    "foto": "linha-bebe-jardineira"
+  },
+  {
+    "slug": "personalizados",
+    "nome": "Personalizados",
+    "nomeMenu": "Personalizados",
+    "titulo": "Personalizados",
+    "frase": "Bibes, mochilas, fraldas e babetes com o nome dele.",
+    "resumo": "Bibes, mochilas, fraldas, babetes, tapa-ovos, doudous e lembranças em madeira, com o nome e o tema que quiser. Fazemos qualquer tema.",
+    "foto": "linha-personalizados-mochila"
+  },
+  {
+    "slug": "datas-especiais",
+    "nome": "Datas especiais",
+    "nomeMenu": "Datas especiais",
+    "titulo": "Datas especiais",
+    "frase": "Natal, Dia do Pai, aniversários, batizados e mais.",
+    "resumo": "Presentes personalizados para o Natal, o Dia do Pai, o Dia da Mãe, os avós, aniversários, batizados e padrinhos.",
+    "foto": "linha-datas-bolinha-eva"
+  },
+  {
+    "slug": "pinturas-e-retratos",
+    "nome": "Pinturas e retratos",
+    "nomeMenu": "Pinturas e retratos",
+    "titulo": "Pinturas e retratos",
+    "frase": "Retratos a carvão e pinturas a óleo, por encomenda.",
+    "resumo": "Retratos a carvão e pinturas a óleo, por encomenda.",
+    "foto": "retrato-a4-a-carvao-de-menina"
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "seo": {
+    "titulo": "Artes & Sonhos — enxoval de bebé e peças personalizadas, em Maceira (Leiria)",
+    "descricao": "Primeira roupinha, mantas, malas de maternidade e peças pintadas e bordadas à mão com o nome: bibes, mochilas, fraldas e presentes para datas especiais. Envios por CTT para todo o país."
+  },
+  "capa": {
+    "etiqueta": "Produtos 100% portugueses",
+    "titulo": "Tudo para o enxoval do seu bebé,",
+    "destaque": "com o nome dele",
+    "texto": "Roupinha, mantas e malas de maternidade, e peças pintadas e bordadas à mão, ao vosso gosto.",
+    "botao": "Ver o enxoval",
+    "ligacao": "/bebe/",
+    "botao2": "Personalizar uma peça",
+    "ligacao2": "/personalizados/",
+    "fotos": [
+      "capa-toalhas-ursinhos",
+      "capa-mochila-ines"
+    ]
+  },
+  "circulos": {
+    "titulo": "Categorias",
+    "categorias": [
+      "primeira-roupinha",
+      "bibes",
+      "mochilas-e-sacos",
+      "fraldas-e-babetes",
+      "passeio",
+      "doudous",
+      "natal",
+      "retratos"
+    ]
+  },
+  "linhas": {
+    "titulo": "O que fazemos",
+    "texto": "Quatro mundos, o mesmo carinho em cada peça."
+  },
+  "destaque": {
+    "etiqueta": "Natal 2026",
+    "titulo": "O primeiro Natal fica gravado para sempre",
+    "texto": "Bolinhas e estrelinhas com o nome, presépios com íman e almofadas «O meu primeiro Natal». Tudo é personalizado ao vosso gosto.",
+    "categoria": "natal",
+    "botao": "Ver o Natal 2026",
+    "foto": "natal-bolinhas-de-madeira"
+  },
+  "personalizar": {
+    "titulo": "Personalizar é simples",
+    "texto": "Fazemos qualquer tema. Diga-nos o que imagina e nós ajudamos.",
+    "passos": [
+      {
+        "titulo": "Escolha a peça",
+        "texto": "Uma mochila, um bibe, uma fralda, uma bolinha de Natal…"
+      },
+      {
+        "titulo": "Diga-nos o nome e o tema",
+        "texto": "As cores, o desenho e a letra, tudo ao vosso gosto."
+      },
+      {
+        "titulo": "Pintamos e enviamos",
+        "texto": "Pintado ou bordado à mão, e enviado por CTT para todo o país."
+      }
+    ]
+  },
+  "pedidos": {
+    "titulo": "Os mais pedidos",
+    "botao": "Ver os personalizados",
+    "ligacao": "/personalizados/"
+  },
+  "opinioes": {
+    "numero": "100%",
+    "texto": "das 434 pessoas que deixaram uma crítica no Facebook recomendam a Artes & Sonhos.",
+    "botao": "Ler as críticas no Facebook",
+    "ligacao": "https://www.facebook.com/pinturaeretratosartesesonhos/reviews"
+  },
+  "confianca": [
+    {
+      "icone": "casa",
+      "titulo": "Showroom",
+      "texto": "Em Maceira, Leiria."
+    },
+    {
+      "icone": "caixa",
+      "titulo": "Envios por CTT",
+      "texto": "Registado ou CTT azul."
+    },
+    {
+      "icone": "cartao",
+      "titulo": "Pagamento",
+      "texto": "MB WAY ou transferência."
+    }
+  ]
+}

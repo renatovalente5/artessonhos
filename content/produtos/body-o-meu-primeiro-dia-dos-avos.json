@@ -1,0 +1,37 @@
+{
+  "nome": "Body «O meu primeiro Dia dos Avós» com nome",
+  "fotos": [
+    "body-o-meu-primeiro-dia-dos-avos",
+    "body-o-meu-primeiro-dia-dos-avos-2",
+    "body-o-meu-primeiro-dia-dos-avos-3",
+    "body-o-meu-primeiro-dia-dos-avos-4"
+  ],
+  "resumo": "A frase em letras de cor e o nome do bebé.",
+  "descricao": "Body branco com a frase «O meu primeiro Dia dos Avós» e o nome do bebé; há também com gola de folho. 100% algodão e 100% português.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "1, 3, 6, 9, 12, 18 e 24 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-dos-avos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 60
+}

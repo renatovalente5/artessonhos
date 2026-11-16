@@ -1,0 +1,30 @@
+{
+  "nome": "Almofada verde com arco-íris e nome",
+  "nomeCurto": "Almofada verde com arco-íris e nome",
+  "fotos": [
+    "almofada-verde-com-arco-iris-e-nome"
+  ],
+  "resumo": "Almofada com arco-íris, nuvens e o nome.",
+  "descricao": "Almofada com barra verde e centro branco com um arco-íris, nuvens e o nome. 100% algodão e artesanal. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "canecas-e-presentes",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 50
+}

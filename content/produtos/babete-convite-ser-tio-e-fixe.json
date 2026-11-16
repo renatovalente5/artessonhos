@@ -1,0 +1,34 @@
+{
+  "nome": "Babete-convite «Ser tio é fixe!»",
+  "nomeCurto": "Babete-convite «Ser tio é fixe!»",
+  "fotos": [
+    "babete-convite-ser-tio-e-fixe",
+    "babete-convite-ser-tio-e-fixe-2",
+    "babete-convite-ser-tio-e-fixe-3",
+    "babete-convite-ser-tio-e-fixe-4",
+    "babete-convite-ser-tio-e-fixe-5"
+  ],
+  "resumo": "«Ser tio é fixe! E que tal seres meu padrinho?»",
+  "descricao": "Babete com debrum rosa ou azul, a pergunta «Ser tio é fixe! E que tal seres meu padrinho?» e o nome do bebé. Há versões para a madrinha, para os dois padrinhos, para amigos e para primos.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "padrinhos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

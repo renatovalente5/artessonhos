@@ -1,0 +1,34 @@
+{
+  "nome": "Body «Sou o amorzinho dos avós»",
+  "nomeCurto": "Body «Sou o amorzinho dos avós»",
+  "fotos": [
+    "body-sou-o-amorzinho-dos-avos",
+    "body-sou-o-amorzinho-dos-avos-2",
+    "body-sou-o-amorzinho-dos-avos-3",
+    "body-sou-o-amorzinho-dos-avos-4",
+    "body-sou-o-amorzinho-dos-avos-5"
+  ],
+  "resumo": "Frase em letras sobre manchas de cor, com coraçõezinhos.",
+  "descricao": "Body branco, de manga curta ou comprida, com a frase «Sou o amorzinho do avô e da avó» em letras sobre manchas de cor. Também com «Sou o amorzinho dos avós» ou «Sou o orgulho dos meus avós».",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-dos-avos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

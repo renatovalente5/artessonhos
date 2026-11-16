@@ -1,0 +1,31 @@
+{
+  "nome": "Bibe de fábrica com dinossauros",
+  "nomeCurto": "Bibe de fábrica com dinossauros",
+  "fotos": [
+    "bibe-de-fabrica-com-dinossauros",
+    "bibe-de-fabrica-com-dinossauros-2"
+  ],
+  "resumo": "Bibe de fábrica estampado com dinossauros, com o nome bordado no bolso.",
+  "descricao": "Bibe de fábrica com a frente estampada com dinossauros e o nome bordado no bolso. Nas fotografias, em verde-lima e em azul-turquesa.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "bibes",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 120
+}

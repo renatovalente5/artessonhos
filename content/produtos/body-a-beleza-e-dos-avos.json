@@ -1,0 +1,35 @@
+{
+  "nome": "Body «A beleza é dos avós» com nome",
+  "nomeCurto": "Body «A beleza é dos avós» com nome",
+  "fotos": [
+    "body-a-beleza-e-dos-avos"
+  ],
+  "resumo": "«Os genes são dos pais, mas a beleza é dos avós.»",
+  "descricao": "Body branco de manga comprida com a frase «Os genes são dos pais, mas a beleza é dos avós» e o nome do bebé. 100% algodão e 100% português.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "1, 3, 6, 9, 12, 18 e 24 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-dos-avos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 80
+}
