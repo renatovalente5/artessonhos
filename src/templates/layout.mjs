@@ -55,7 +55,7 @@ function gaveta(ctx, caminho) {
         return `<details class="gaveta__linha"${aberta ? ' open' : ''}>
         <summary><span>${esc(l.nome)}</span>${ico('baixo', { classe: 'gaveta__seta' })}</summary>
         <ul role="list">
-          <li><a class="gaveta__tudo" href="${ctx.url(caminhoDaLinha(l))}"${marca(caminhoDaLinha(l))}>${simbolo(ctx, { alto: 22, classe: 'gaveta__simbolo' })}<span>Ver tudo em ${esc(nomeDaLinha(l))}</span></a></li>
+          <li><a class="gaveta__tudo" href="${ctx.url(caminhoDaLinha(l))}"${marca(caminhoDaLinha(l))}><span class="gaveta__casinha" aria-hidden="true">${simbolo(ctx, { alto: 22, classe: 'gaveta__simbolo' })}</span><span>Ver tudo em ${esc(nomeDaLinha(l))}</span></a></li>
           ${cats.map((c) => `<li><a href="${ctx.url(caminhoDaCategoria(c))}"${marca(caminhoDaCategoria(c))}>${miniatura(ctx, c.foto, { lado: 40 })}<span>${esc(nomeDaCategoria(c))}</span></a></li>`).join('\n          ')}
         </ul>
       </details>`;

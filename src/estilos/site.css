@@ -142,7 +142,10 @@ dialog::backdrop { background: rgba(46, 34, 25, .38); }
 .gaveta__linha a:hover, .gaveta__linha a[aria-current="page"] { background: var(--areia); }
 .gaveta__linha a img { width: 40px; height: 40px; border-radius: 50%; object-fit: cover; }
 .gaveta__tudo { font-weight: 700; color: var(--bronze); }
-.gaveta__simbolo { height: 22px; width: auto; margin-inline: 9px; }
+/* «Ver tudo»: o «&» inteiro num círculo do tamanho das miniaturas (a regra das miniaturas, 40×40 e
+   cortada ao círculo, apanhava-o e cortava-o) */
+.gaveta__casinha { display: grid; place-items: center; flex: none; width: 40px; height: 40px; border-radius: 50%; background: var(--areia); }
+.gaveta__linha a img.gaveta__simbolo { width: auto; height: 22px; border-radius: 0; object-fit: contain; }
 .gaveta__paginas ul { display: grid; gap: 2px; padding: 12px 0; }
 .gaveta__paginas a { display: flex; align-items: center; min-height: 44px; padding: 0 8px; border-radius: 12px; text-decoration: none; color: var(--tinta-2); }
 .gaveta__paginas a:hover, .gaveta__paginas a[aria-current="page"] { background: var(--areia); color: var(--tinta); }

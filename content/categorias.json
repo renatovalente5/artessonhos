@@ -1,13 +1,5 @@
 [
   {
-    "slug": "primeira-roupinha",
-    "linha": "bebe",
-    "nome": "Primeira roupinha",
-    "titulo": "Primeira roupinha",
-    "resumo": "A primeira roupinha do bebé em conjuntos a condizer: manta, babygrow, fralda e outras peças, também com o nome bordado.",
-    "foto": "primeira-roupinha-cavalinho-de-baloico"
-  },
-  {
     "slug": "conjuntos",
     "linha": "bebe",
     "nome": "Conjuntos",
@@ -28,8 +20,8 @@
     "linha": "bebe",
     "nome": "Bodies e babygrows",
     "titulo": "Bodies e babygrows",
-    "resumo": "Babygrows, bodies e jardineiras para o dia a dia, lisos ou personalizados com o tema que quiser.",
-    "foto": "babygrow-body-e-calcas-com-coelhinho"
+    "resumo": "Babygrows e bodies: os conjuntos da primeira roupinha, a condizer com a manta e a fralda, e os do dia a dia, lisos ou personalizados.",
+    "foto": "primeira-roupinha-cavalinho-de-baloico"
   },
   {
     "slug": "casacos-e-malhas",
@@ -301,6 +293,6 @@
     "nome": "Pinturas a óleo",
     "titulo": "Pinturas a óleo",
     "resumo": "Quadros para o quarto, pintados à mão a óleo, com o nome e o tema que escolher.",
-    "foto": "retrato-a4-a-carvao-de-menina"
+    "foto": "retrato-a-carvao-de-bebe-com-laco"
   }
 ]
