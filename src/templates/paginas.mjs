@@ -179,7 +179,7 @@ export function inicio(ctx) {
   const frases = (h.confianca || []).filter((f) => f && f.titulo).slice(0, 4);
   const secConfianca = frases.length ? `<section class="secao secao--fim" aria-label="Como trabalhamos">
   <ul class="contentor garantias" role="list">
-    ${frases.map((f) => `<li class="garantia"><span class="garantia__icone">${ico(ICONES_CONFIANCA.includes(f.icone) ? f.icone : 'coracao')}</span><h3 class="garantia__titulo">${esc(f.titulo)}</h3>${f.texto ? `<p>${esc(f.texto)}</p>` : ''}</li>`).join('\n    ')}
+    ${frases.map((f) => `<li class="garantia"><span class="garantia__icone" aria-hidden="true">${ico(ICONES_CONFIANCA.includes(f.icone) ? f.icone : 'coracao')}</span><div><h3 class="garantia__titulo">${esc(f.titulo)}</h3>${f.texto ? `<p>${esc(f.texto)}</p>` : ''}</div></li>`).join('\n    ')}
   </ul>
 </section>` : '';
 

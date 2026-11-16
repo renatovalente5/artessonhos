@@ -167,6 +167,22 @@ if (erros.length) parar(`A publicação parou: ${erros.length} ${erros.length ==
    a 4,5:1 e os contornos dos campos a 3:1. Lêem-se do :root do site.css: mudar uma cor e falhar o
    mínimo pára a construção. */
 const CSS_FONTE = fs.readFileSync(path.join(RAIZ, 'src/estilos/site.css'), 'utf8');
+/* As chavetas do site.css têm de fechar certas: uma a mais faz o browser deitar fora a regra seguinte,
+   sem erro nenhum (16 nov 2026: a faixa do showroom, dos envios e do pagamento perdeu o desenho). */
+{
+  const semComentarios = CSS_FONTE.replace(/\/\*[\s\S]*?\*\//g, '').replace(/'[^'\n]*'|"[^"\n]*"/g, '""');
+  let fundo = 0;
+  for (let i = 0; i < semComentarios.length; i++) {
+    const c = semComentarios[i];
+    if (c === '{') fundo++;
+    else if (c === '}' && --fundo < 0) {
+      const linha = semComentarios.slice(0, i).split('\n').length;
+      console.error(`Gerador: o site.css tem uma chaveta «}» a mais perto da linha ${linha}: a regra seguinte não se aplica.`);
+      process.exit(1);
+    }
+  }
+  if (fundo !== 0) { console.error(`Gerador: o site.css tem ${fundo} chaveta(s) «{» por fechar.`); process.exit(1); }
+}
 {
   const raiz = CSS_FONTE.slice(CSS_FONTE.indexOf(':root {'), CSS_FONTE.indexOf('}', CSS_FONTE.indexOf(':root {')));
   const cor = Object.fromEntries([...raiz.matchAll(/--([\w-]+):\s*(#[0-9A-Fa-f]{6})\b/g)].map((m) => [m[1], m[2]]));

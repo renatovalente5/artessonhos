@@ -273,14 +273,22 @@ html.menu-aberto { overflow: hidden; }
   .criticas::-webkit-scrollbar { display: none; }
   .critica { flex: none; width: 82%; scroll-snap-align: start; padding: 22px 20px 18px; }
 }
-}
 
 /* a confiança */
-.garantias { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 260px); justify-content: center; gap: 20px; }
-.garantia { text-align: center; padding: 26px 20px; border-radius: var(--raio); border: 1px solid var(--linha); background: var(--fundo); }
-.garantia__icone { display: inline-grid; place-items: center; width: 52px; height: 52px; border-radius: 50%; background: var(--areia); color: var(--bronze); }
-.garantia__titulo { font-size: 19px; margin: 12px 0 4px; }
+/* A faixa do fim (showroom, envios, pagamento): uma só faixa areia, cada coisa com o ícone à esquerda,
+   separadas por um fio; no telemóvel, uma lista com fios entre as linhas. */
+.garantias { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); max-width: 1040px; padding: 10px 8px; border-radius: var(--raio); background: var(--areia); }
+.garantia { position: relative; display: flex; align-items: center; gap: 16px; padding: 22px 28px; }
+.garantia + .garantia::before { content: ''; position: absolute; left: 0; top: 24px; bottom: 24px; width: 1px; background: var(--areia-2); }
+.garantia__icone { display: grid; place-items: center; flex: none; width: 50px; height: 50px; border-radius: 50%; background: var(--branco); color: var(--bronze); box-shadow: 0 1px 2px rgba(46, 34, 25, .06); }
+.garantia__icone .i { width: 22px; height: 22px; }
+.garantia__titulo { font-size: 19px; margin: 0 0 2px; }
 .garantia p { font-size: 15px; color: var(--tinta-2); }
+@media (max-width: 899px) {
+  .garantias { grid-auto-flow: row; grid-auto-columns: auto; padding: 4px 8px; }
+  .garantia { padding: 18px 14px; }
+  .garantia + .garantia::before { left: 14px; right: 14px; top: 0; bottom: auto; width: auto; height: 1px; }
+}
 
 /* ---------------------------------------------------------------- cartões de artigo */
 .grelha-artigos { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 30px 24px; }
@@ -626,10 +634,6 @@ fieldset > legend + * { clear: both; }
   .artigo__info { padding-right: 38px; }
   .artigo__nome { font-size: 15px; }
   .artigo .seta-circulo { width: 30px; height: 30px; }
-  .garantias { grid-auto-flow: row; grid-template-columns: minmax(0, 1fr); gap: 10px; }
-  .garantia { display: grid; grid-template-columns: 52px minmax(0, 1fr); column-gap: 14px; text-align: left; padding: 16px; align-items: center; }
-  .garantia__icone { grid-row: span 2; }
-  .garantia__titulo { margin: 0; }
   .rodape__grelha { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 20px; }
   .rodape__marca, .rodape__encomendas { grid-column: 1 / -1; }
   .rodape__legal { flex-direction: column-reverse; align-items: flex-start; }
