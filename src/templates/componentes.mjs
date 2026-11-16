@@ -186,7 +186,6 @@ export function cabecaSeccao(ctx, { id, titulo, texto = '', etiqueta = '', nivel
 export function cabecaDePagina(ctx, { titulo, sub = '', data = '', extra = '' }) {
   return `<header class="cabeca-pagina">
   <div class="contentor cabeca-pagina__dentro">
-    ${simbolo(ctx, { alto: 40, classe: 'cabeca-pagina__simbolo' })}
     <h1 class="titulo-pagina">${esc(titulo)}</h1>
     ${sub ? `<div class="cabeca-pagina__sub">${sub}</div>` : ''}
     ${data ? `<p class="cabeca-pagina__data">${esc(data)}</p>` : ''}

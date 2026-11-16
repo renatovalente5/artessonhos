@@ -243,10 +243,16 @@ html.menu-aberto { overflow: hidden; }
 .passo p { color: var(--tinta-2); font-size: 15px; }
 
 /* as opiniões */
-.opinioes { display: grid; justify-items: center; gap: 8px; text-align: center; padding: 34px 0 6px; }
-.opinioes__simbolo { height: 56px; width: auto; margin-bottom: 4px; }
-.opinioes__numero { font: 500 clamp(64px, 8vw, 92px)/1 var(--titulo); background: var(--dourado); -webkit-background-clip: text; background-clip: text; color: transparent; padding: 0 .05em; }
-.opinioes__texto { color: var(--tinta-2); max-width: 30em; font-size: 18px; }
+.opinioes { display: grid; justify-items: center; gap: 22px; text-align: center; max-width: 860px; margin: 0 auto; padding: 48px 40px; border-radius: var(--raio); background: var(--areia); }
+.opinioes__titulo { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4px 28px; font-weight: 400; }
+.opinioes__numero { font: 500 clamp(76px, 9vw, 120px)/1 var(--titulo); background: var(--dourado); -webkit-background-clip: text; background-clip: text; color: transparent; padding: 0 .05em; }
+.opinioes__texto { font: 400 clamp(26px, 3vw, 36px)/1.2 var(--titulo); color: var(--tinta); max-width: 11em; text-align: left; }
+.opinioes__fonte { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; padding: 0 20px 0 6px; border-radius: 999px; background: var(--branco); box-shadow: inset 0 0 0 1px var(--linha); text-decoration: none; font-weight: 700; font-size: 15px; color: var(--tinta); transition: box-shadow .2s; }
+.opinioes__fonte:hover { box-shadow: inset 0 0 0 1px var(--bronze); }
+.opinioes__fonte > .i:last-child { width: 16px; height: 16px; color: var(--bronze); }
+.opinioes__icone { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 50%; background: var(--areia); color: var(--bronze); }
+.opinioes__icone .i { width: 15px; height: 15px; }
+@media (max-width: 599px) { .opinioes { padding: 34px 20px; } .opinioes__titulo { flex-direction: column; } .opinioes__texto { text-align: center; } }
 
 /* a confiança */
 .garantias { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 260px); justify-content: center; gap: 20px; }
@@ -444,9 +450,8 @@ fieldset > legend + * { clear: both; }
 .vazio__titulo { font: 500 26px/1.2 var(--titulo); color: var(--tinta); }
 
 /* ---------------------------------------------------------------- páginas de texto */
-.cabeca-pagina { padding: 44px 0 10px; text-align: center; }
+.cabeca-pagina { padding: 52px 0 10px; text-align: center; }
 .cabeca-pagina__dentro { display: grid; justify-items: center; gap: 12px; }
-.cabeca-pagina__simbolo { height: 40px; width: auto; }
 .titulo-pagina { font-size: clamp(34px, 4.4vw, 52px); }
 .cabeca-pagina__sub { color: var(--tinta-2); font-size: 18px; max-width: 34em; }
 .cabeca-pagina__data { font-size: 14px; color: var(--tinta-2); }
@@ -502,14 +507,21 @@ fieldset > legend + * { clear: both; }
 .rodape__fio { display: flex; align-items: center; gap: 18px; margin-bottom: 40px; }
 .rodape__fio span { flex: 1; height: 1px; background: var(--linha); }
 .rodape__simbolo { height: 34px; width: auto; }
-.rodape__grelha { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 36px; align-items: start; }
+.rodape__grelha { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, .8fr) minmax(0, .8fr) minmax(0, 1.1fr); gap: 36px; align-items: start; }
 .rodape__logo { display: inline-block; }
 .rodape__logo img { height: 72px; width: auto; }
 .rodape__frase { color: var(--tinta-2); margin: 14px 0 18px; max-width: 26em; font-size: 15px; }
 .rodape__titulo { font: 700 12px/1 var(--texto); letter-spacing: .18em; text-transform: uppercase; color: var(--bronze); margin-bottom: 14px; }
-.rodape__ajuda ul { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px 20px; }
-.rodape__ajuda a { display: inline-flex; align-items: center; min-height: 32px; text-decoration: none; font-size: 15px; }
-.rodape__ajuda a:hover { color: var(--bronze); text-decoration: underline; }
+.rodape__coluna ul { display: grid; gap: 4px; }
+.rodape__coluna a { display: inline-flex; align-items: center; min-height: 32px; text-decoration: none; font-size: 15px; }
+.rodape__coluna a:hover { color: var(--bronze); text-decoration: underline; }
+/* as encomendas: um ícone pequeno em cada linha, o texto ao lado */
+.rodape__encomendas ul { gap: 10px; }
+.rodape__encomendas li { display: grid; grid-template-columns: 30px minmax(0, 1fr); gap: 10px; align-items: start; font-size: 15px; line-height: 1.45; color: var(--tinta-2); }
+.rodape__encomendas li > span:last-child { padding-top: 5px; overflow-wrap: anywhere; }
+.rodape__encomendas a { display: inline; min-height: 0; color: var(--tinta); }
+.rodape__icone { display: grid; place-items: center; width: 30px; height: 30px; border-radius: 50%; background: var(--areia); color: var(--bronze); }
+.rodape__icone .i { width: 15px; height: 15px; }
 .rodape__legal { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px 24px; margin-top: 40px; padding-top: 18px; border-top: 1px solid var(--linha); font-size: 13px; color: var(--tinta-2); }
 .rodape__legal ul { display: flex; flex-wrap: wrap; gap: 4px 18px; }
 .rodape__legal a { display: inline-flex; align-items: center; min-height: 28px; text-decoration: none; }
@@ -547,6 +559,9 @@ fieldset > legend + * { clear: both; }
 }
 
 @media (max-width: 1080px) {
+  .rodape__grelha { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .rodape__marca { grid-column: 1 / -1; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 8px 28px; }
+  .rodape__marca .rodape__frase { margin: 0; }
   .capa__texto { padding: 52px 8px 52px 40px; }
   .capa__fotos { min-height: 460px; }
   .linhas { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -594,7 +609,8 @@ fieldset > legend + * { clear: both; }
   .garantia { display: grid; grid-template-columns: 52px minmax(0, 1fr); column-gap: 14px; text-align: left; padding: 16px; align-items: center; }
   .garantia__icone { grid-row: span 2; }
   .garantia__titulo { margin: 0; }
-  .rodape__grelha { grid-template-columns: minmax(0, 1fr); gap: 26px; }
+  .rodape__grelha { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 20px; }
+  .rodape__marca, .rodape__encomendas { grid-column: 1 / -1; }
   .rodape__legal { flex-direction: column-reverse; align-items: flex-start; }
   .rodape__legal ul { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); width: 100%; }
   .gaveta { width: 100%; }
@@ -607,6 +623,9 @@ fieldset > legend + * { clear: both; }
   .migalhas li:nth-last-child(2)::after { content: none; }
   .whats { right: 14px; bottom: 14px; }
 }
+/* no telemóvel, a marca volta a ser uma coluna: o logótipo, a frase e as redes por baixo umas das outras */
+@media (max-width: 599px) { .rodape__marca { display: block; } .rodape__marca .rodape__frase { margin: 14px 0 18px; } }
+
 @media (max-width: 359px) {
   .grelha-artigos { gap: 20px 10px; }
   .circulo { width: 80px; }

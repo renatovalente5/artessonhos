@@ -45,7 +45,7 @@ function gaveta(ctx, caminho) {
   return `<dialog class="gaveta" id="gaveta" aria-label="Menu">
   <div class="gaveta__interior">
     <div class="gaveta__topo">
-      ${pecaDoLogo(ctx, 'logo', { alto: 48, classe: 'gaveta__logo', alt: ctx.site.marca })}
+      <a class="gaveta__casa" href="${ctx.url('/')}">${pecaDoLogo(ctx, 'logo', { alto: 48, classe: 'gaveta__logo', alt: `${ctx.site.marca} — página inicial` })}</a>
       <button class="topo__botao" type="button" data-fechar aria-label="Fechar o menu">${ico('fechar')}</button>
     </div>
     <nav class="gaveta__linhas" aria-label="Loja">
@@ -111,6 +111,28 @@ function procura(ctx) {
 /* O RODAPÉ (curto, como o Renato quer: o logótipo, a frase, as redes, quatro ligações de ajuda e, em
    baixo, o «©» só com o ano e a marca e as legais, com o Livro de Reclamações discreto). Por cima, o
    fio com o «&». */
+/* AS ENCOMENDAS, no rodapé de todas as páginas: por onde se pede (o WhatsApp se houver, senão a mensagem
+   no Instagram; e o email), onde é o showroom, e numa linha os envios e o pagamento. Sem o horário, o
+   telefone nem a morada inteira (ficam nos Contactos). */
+function encomendasDoRodape(ctx) {
+  const c = ctx.site.contactos || {};
+  const en = ctx.site.entrega || {};
+  const linha = (icone, html) => `<li><span class="rodape__icone" aria-hidden="true">${ico(icone)}</span><span>${html}</span></li>`;
+  const itens = [];
+  if (c.whatsapp) itens.push(linha('whatsapp', `<a href="https://wa.me/${numeroWhatsApp(c.whatsapp)}" target="_blank" rel="noopener">Pedidos pelo WhatsApp</a>`));
+  else if (c.instagram) itens.push(linha('instagram', `<a href="https://ig.me/m/${esc(c.instagram)}" target="_blank" rel="noopener">Pedidos pelo Instagram</a>`));
+  if (c.email) itens.push(linha('carta', `<a href="mailto:${esc(c.email)}">${esc(c.email)}</a>`));
+  const local = [ctx.site.local?.localidade, ctx.site.local?.distrito].filter(Boolean).join(', ');
+  if (local) itens.push(linha('casa', `Showroom em ${esc(local)}`));
+  itens.push(linha('caixa', `Envios por CTT para todo o país${en.pagamento ? `<br>${esc(en.pagamento)}` : ''}`));
+  return `<div class="rodape__coluna rodape__encomendas">
+        <h2 class="rodape__titulo">Encomendas</h2>
+        <ul role="list">
+          ${itens.join('\n          ')}
+        </ul>
+      </div>`;
+}
+
 function rodape(ctx) {
   const ligacao = (caminho, texto) => (ctx.existe(caminho) ? `<li><a href="${ctx.url(caminho)}">${esc(texto)}</a></li>` : '');
   return `<footer class="rodape">
@@ -122,7 +144,13 @@ function rodape(ctx) {
         <p class="rodape__frase">${esc(ctx.site.assinatura || '')}</p>
         ${redes(ctx)}
       </div>
-      <nav class="rodape__ajuda" aria-labelledby="r-ajuda">
+      <nav class="rodape__coluna" aria-labelledby="r-loja">
+        <h2 class="rodape__titulo" id="r-loja">A loja</h2>
+        <ul role="list">
+          ${linhasComArtigos(ctx).map((l) => `<li><a href="${ctx.url(caminhoDaLinha(l))}">${esc(l.nome)}</a></li>`).join('\n          ')}
+        </ul>
+      </nav>
+      <nav class="rodape__coluna" aria-labelledby="r-ajuda">
         <h2 class="rodape__titulo" id="r-ajuda">Ajuda</h2>
         <ul role="list">
           ${ligacao('/como-encomendar/', 'Como encomendar')}
@@ -131,6 +159,7 @@ function rodape(ctx) {
           ${ligacao('/contactos/', 'Contactos')}
         </ul>
       </nav>
+      ${encomendasDoRodape(ctx)}
     </div>
     <div class="rodape__legal">
       <p>© ${ctx.hoje.slice(0, 4)} ${esc(ctx.site.marca)}</p>

@@ -151,13 +151,14 @@ export function inicio(ctx) {
   // as OPINIÕES: só o número das críticas do Facebook e a ligação (os textos não se copiam: são das
   // pessoas, e a lei pede que se diga como se verificam — DL 57/2008, art. 10.º-A)
   const o = h.opinioes;
+  // Um cartão: o número grande e, ao lado, o que ele quer dizer (lidos juntos, no mesmo título) e a
+  // fonte, com quantas opiniões, na ligação.
   const secOpinioes = o.numero && o.texto ? `<section class="secao" aria-labelledby="t-opinioes">
-  <div class="contentor opinioes">
-    ${simbolo(ctx, { alto: 56, classe: 'opinioes__simbolo' })}
-    <h2 class="so-leitor" id="t-opinioes">Opiniões</h2>
-    <p class="opinioes__numero">${esc(o.numero)}</p>
-    <p class="opinioes__texto">${esc(o.texto)}</p>
-    ${o.botao && o.ligacao ? `<a class="ligacao-seta" href="${esc(o.ligacao)}" target="_blank" rel="noopener"><span>${esc(o.botao)}</span>${ico('seta')}</a>` : ''}
+  <div class="contentor">
+    <div class="opinioes">
+      <h2 class="opinioes__titulo" id="t-opinioes"><span class="opinioes__numero">${esc(o.numero)}</span> <span class="opinioes__texto">${esc(o.texto)}</span></h2>
+      ${o.botao && o.ligacao ? `<a class="opinioes__fonte" href="${esc(o.ligacao)}" target="_blank" rel="noopener"><span class="opinioes__icone" aria-hidden="true">${ico('facebook')}</span><span>${esc(o.botao)}</span>${ico('seta')}</a>` : ''}
+    </div>
   </div>
 </section>` : '';
 
