@@ -1,0 +1,33 @@
+{
+  "nome": "Porta-documentos com nome bordado",
+  "nomeCurto": "Porta-documentos com nome bordado",
+  "fotos": [
+    "porta-documentos-com-nome-bordado",
+    "porta-documentos-com-nome-bordado-2",
+    "porta-documentos-com-nome-bordado-3",
+    "porta-documentos-com-nome-bordado-4"
+  ],
+  "resumo": "Porta-documentos acolchoado com o nome bordado na aba.",
+  "descricao": "Porta-documentos acolchoado com a aba branca e o nome bordado, em bege, rosa às bolinhas ou verde-água. Também serve de bolsa para a primeira roupinha. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "maternidade",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 40
+}

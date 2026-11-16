@@ -1,0 +1,31 @@
+{
+  "nome": "Enfeite «O meu 1.º Natal» com nome",
+  "nomeCurto": "Enfeite «O meu 1.º Natal» com nome",
+  "fotos": [
+    "enfeite-o-meu-1-natal-com-nome",
+    "enfeite-o-meu-1-natal-com-nome-2"
+  ],
+  "resumo": "Bola ou estrela de Natal com um bebé a dormir, o nome e o ano.",
+  "descricao": "Enfeite de Natal em madeira com um bebé a dormir, «o meu 1.º Natal», o nome e o ano. Há em bola e em estrela.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "lembrancas-em-madeira",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 20
+}

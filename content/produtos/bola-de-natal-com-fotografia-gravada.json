@@ -1,0 +1,30 @@
+{
+  "nome": "Bola de Natal com fotografia gravada",
+  "nomeCurto": "Bola de Natal com fotografia gravada",
+  "fotos": [
+    "bola-de-natal-com-fotografia-gravada"
+  ],
+  "resumo": "Bola de Natal em madeira com uma fotografia gravada e o nome.",
+  "descricao": "Bola de Natal em madeira com uma fotografia gravada, flocos de neve, «Feliz Natal» e o nome. Na fotografia, com o retrato de um cão.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "lembrancas-em-madeira",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 60
+}

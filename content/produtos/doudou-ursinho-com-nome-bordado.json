@@ -1,0 +1,36 @@
+{
+  "nome": "Doudou ursinho com nome bordado",
+  "nomeCurto": "Doudou ursinho com nome bordado",
+  "fotos": [
+    "doudou-ursinho-com-nome-bordado",
+    "doudou-ursinho-com-nome-bordado-2",
+    "doudou-ursinho-com-nome-bordado-3",
+    "doudou-ursinho-com-nome-bordado-4",
+    "doudou-ursinho-com-nome-bordado-5",
+    "doudou-ursinho-com-nome-bordado-6",
+    "doudou-ursinho-com-nome-bordado-7"
+  ],
+  "resumo": "Doudou de ursinho com barrete e o nome bordado, em várias cores.",
+  "descricao": "Doudou de ursinho com barrete, em tecido macio de bolinhas em relevo com nós nas pontas, com o nome bordado. Nas fotografias, em rosa, azul-claro, rosa-velho, cinzento, malva, verde-água e bege. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "doudous",
+  "video": "",
+  "novidade": false,
+  "destaque": true,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 30
+}

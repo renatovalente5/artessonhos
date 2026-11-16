@@ -1,0 +1,31 @@
+{
+  "nome": "Lençóis com ursinho e nome bordado",
+  "nomeCurto": "Lençóis com ursinho e nome bordado",
+  "fotos": [
+    "lencois-com-ursinho-e-nome-bordado",
+    "lencois-com-ursinho-e-nome-bordado-2"
+  ],
+  "resumo": "Lençóis em tons de bege com uma cara de urso ou corações e o nome bordado.",
+  "descricao": "Dois lençóis em tons de bege com o nome bordado a castanho: um branco com uma cara de urso e pinheirinhos, outro creme e felpudo com pequenos corações. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "quarto",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 30
+}

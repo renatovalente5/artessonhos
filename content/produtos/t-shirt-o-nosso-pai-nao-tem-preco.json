@@ -1,0 +1,31 @@
+{
+  "nome": "T-shirt «O nosso pai não tem preço»",
+  "nomeCurto": "T-shirt «O nosso pai não tem preço»",
+  "fotos": [
+    "t-shirt-o-nosso-pai-nao-tem-preco",
+    "t-shirt-o-nosso-pai-nao-tem-preco-2"
+  ],
+  "resumo": "T-shirt preta com um código de barras e as datas que quiser.",
+  "descricao": "T-shirt preta com «O nosso pai não tem preço» ou «O meu pai não tem preço» por cima de um código de barras com datas. Personalizamos com as datas que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-do-pai",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 30
+}

@@ -1,34 +1,34 @@
 titulo: Como encomendar
-descricao: Escolha as peças, escreva os nomes e a data e carregue em «Encomendar pelo WhatsApp». Confirmamos consigo o total, o prazo e o pagamento.
-subtitulo: Da escolha ao WhatsApp, em quatro passos.
+descricao: Junte as peças ao pedido, com o nome e o tema de cada uma, escolha a entrega e envie-nos o pedido. Respondemos com o preço, os portes e o prazo.
+subtitulo: Da escolha à confirmação, em quatro passos.
 modelo: passos
 ---
-Não há pagamentos no site: a encomenda segue para nós pelo WhatsApp.
+Não há pagamentos no site.
 
-## 1. Junte à encomenda
+## 1. Junte as peças ao pedido
 
-Escolha as peças e a quantidade de cada uma. Escreva os nomes e a data como quer que fiquem, com os acentos e as maiúsculas.
+Escolha as peças e a quantidade. Nas personalizadas, escreva o nome tal como o quer (com os acentos e as maiúsculas) e, se quiser, o tema e as cores.
 
 ## 2. Escolha a entrega
 
-Enviamos para todo o país, ilhas incluídas, e para a Europa.
+Levantamento no showroom, em {{localidade}}, ou envio pelos CTT para o continente ou as ilhas.
 
-## 3. Encomende pelo WhatsApp
+## 3. Envie-nos o pedido
 
-Escreva o seu nome e, se for envio, a morada, e carregue em «Encomendar pelo WhatsApp». A mensagem abre já escrita, com as peças, os nomes, a entrega e o total: só tem de a enviar.
+Escreva o seu nome e, se for envio, a morada. O tamanho e outros pormenores vão nas observações. Depois, envie o pedido por {{whatsapp}} ou por email: o site escreve a mensagem por si.
 
 ## 4. Confirmamos consigo
 
-Respondemos com o resumo: as peças como as vamos fazer, o total, o prazo e o pagamento. A encomenda fica feita quando nos responder a confirmar.
-
-## Entrega
-
-{{portes}}
+Respondemos com o preço, os portes e o prazo. Se estiver de acordo, confirme e pague. O pedido fica feito quando o confirmarmos.
 
 ## Pagamento
 
 {{pagamento}}
 
+## Entrega
+
+{{portes}}
+
 ## Prazo
 
-{{prazo}} Quanto mais cedo nos disser a data da celebração, melhor.
+{{prazo}}

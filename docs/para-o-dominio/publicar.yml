@@ -1,16 +1,16 @@
-# Constrói o site da Dream Art e publica-o na Cloudflare, em dreamart.pt (no ar desde 11 nov 2026).
+# Constrói o site da Artes & Sonhos e publica-o na Cloudflare, em artessonhos.pt (por abrir: o domínio ainda não está escolhido, 16 nov 2026).
 #
-# O site é o Worker «dreamart-site» (wrangler.jsonc): os ficheiros que o build escreve em _site/,
+# O site é o Worker «artessonhos-site» (wrangler.jsonc): os ficheiros que o build escreve em _site/,
 # nos Custom Domains do domínio e do www (o www vai para o domínio sem www, e os vídeos respondem
 # por intervalos para o iPhone: worker/www.js). Os termos do GitHub Pages proíbem lá uma loja; por
 # isso a loja vive aqui, e o Pages só reencaminha para o domínio (reencaminhar-pre-visualizacao.yml).
 #
 # Publica a cada envio para a main e todas as noites, com --producao: aberto aos motores de busca, e
-# RECUSA publicar se faltar um dado que a lei pede (regras.mjs). Os Custom Domains (dreamart.pt e o
+# RECUSA publicar se faltar um dado que a lei pede (regras.mjs). Os Custom Domains (artessonhos.pt e o
 # www) ligaram-se uma vez, com um `wrangler deploy --config wrangler.jsonc` à mão, a 11 nov 2026; o
 # SITE_PRODUCAO do painel é "1".
 #
-# O PAINEL (renatovalente5/dreamart-painel) acompanhará este workflow: o job «publicar» acabado
+# O PAINEL (renatovalente5/artessonhos-painel) acompanhará este workflow: o job «publicar» acabado
 # bem quer dizer «publicado»; o nome do passo que falha aparece à dona (por isso os nomes são em
 # português); as razões de uma publicação parada são as anotações ::error do build.
 #
@@ -123,7 +123,7 @@ jobs:
           node -e '
             const fs = require("fs");
             const c = JSON.parse(fs.readFileSync("wrangler.jsonc", "utf8").replace(/^\s*\/\/.*$/gm, ""));
-            if (c.name !== "dreamart-site" || c.assets?.directory !== "./_site") throw new Error("o wrangler.jsonc não é o do site");
+            if (c.name !== "artessonhos-site" || c.assets?.directory !== "./_site") throw new Error("o wrangler.jsonc não é o do site");
             delete c.routes;
             fs.writeFileSync("wrangler.json", JSON.stringify(c, null, 2) + "\n");
           '

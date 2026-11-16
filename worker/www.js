@@ -1,4 +1,4 @@
-// O www.dreamart.pt vai para dreamart.pt (301, o mesmo caminho e a mesma pesquisa).
+// O www.artessonhos.pt vai para artessonhos.pt (301, o mesmo caminho e a mesma pesquisa).
 // Tudo o resto são os ficheiros do site (_site/), servidos pelo binding ASSETS, com a
 // 404.html quando a morada não existe. É o único código do site: sem ele, o www
 // mostrava o site inteiro numa segunda morada.
@@ -14,8 +14,8 @@
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
-    if (url.hostname === 'www.dreamart.pt') {
-      url.hostname = 'dreamart.pt';
+    if (url.hostname === 'www.artessonhos.pt') {
+      url.hostname = 'artessonhos.pt';
       url.protocol = 'https:';
       return Response.redirect(url.toString(), 301);
     }

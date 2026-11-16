@@ -1,0 +1,30 @@
+{
+  "nome": "Fronha cinzenta com nome bordado",
+  "nomeCurto": "Fronha cinzenta com nome bordado",
+  "fotos": [
+    "fronha-cinzenta-com-nome-bordado"
+  ],
+  "resumo": "Fronha cinzenta às bolinhas com o nome bordado ao centro.",
+  "descricao": "Fronha de almofada cinzenta às bolinhas brancas, com o centro branco e o nome bordado a cinzento. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "quarto",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

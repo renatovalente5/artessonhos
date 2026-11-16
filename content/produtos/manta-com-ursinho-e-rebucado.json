@@ -1,0 +1,24 @@
+{
+  "nome": "Manta com ursinho e rebuçado",
+  "nomeCurto": "Manta com ursinho e rebuçado",
+  "fotos": [
+    "manta-com-ursinho-e-rebucado"
+  ],
+  "resumo": "Manta branca e rosa com ursinhos agarrados a rebuçados.",
+  "descricao": "Manta branca com a aba cor-de-rosa e ursinhos agarrados a rebuçados aplicados.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "mantas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 50
+}

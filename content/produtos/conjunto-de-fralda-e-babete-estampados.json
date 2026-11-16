@@ -10,7 +10,7 @@
   ],
   "resumo": "Fralda e babete com o mesmo desenho: ursinhos, elefante na lua ou ursinho nas nuvens.",
   "descricao": "Conjunto de fralda e babete com o mesmo desenho estampado e debrum a condizer: ursinhos com brinquedos (rosa, azul ou cinzento), elefante a dormir na lua (verde) ou ursinho nas nuvens com balões (rosa).",
-  "preco": 12.5,
+  "preco": null,
   "precoAnterior": null,
   "promocaoAte": "",
   "inclui": [],
@@ -24,5 +24,5 @@
   "destaque": false,
   "esgotado": false,
   "publicado": true,
-  "ordem": 120
+  "ordem": 110
 }

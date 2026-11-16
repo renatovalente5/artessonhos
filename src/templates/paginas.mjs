@@ -210,7 +210,7 @@ export function vitrine(ctx, linhaSlug, catSlug = null) {
         return `<section class="bloco" aria-labelledby="b-${k.slug}">
         <div class="bloco__cabeca">
           <h2 class="bloco__titulo" id="b-${k.slug}"><a href="${ctx.url(caminhoDaCategoria(k))}">${esc(k.nome)}</a></h2>
-          <a class="ligacao-seta" href="${ctx.url(caminhoDaCategoria(k))}"><span>${ps.length > 4 ? `Ver as ${ps.length}` : 'Ver'}</span><span class="so-leitor"> — ${esc(k.nome)}</span>${ico('seta')}</a>
+          ${ps.length > 4 ? `<a class="ligacao-seta" href="${ctx.url(caminhoDaCategoria(k))}"><span>Ver as ${ps.length}</span><span class="so-leitor"> — ${esc(k.nome)}</span>${ico('seta')}</a>` : '' /* com 4 ou menos já estão todas à vista; o título leva à categoria */}
         </div>
         ${grelha(ctx, ps.slice(0, 4), { cedo: i === 0 ? 4 : 0 })}
       </section>`;
@@ -359,7 +359,7 @@ export function produto(ctx, p) {
   const fab = fabricanteDoArtigo(p);
   const feito = fab
     ? `<p class="ficha__feito">${ico('info')}<span><strong>Fabricante:</strong> ${[fab.nome, fab.morada, fab.email].map(esc).join(' · ')}</span></p>`
-    : personalizavel ? `<p class="ficha__feito">${simbolo(ctx, { alto: 22, classe: 'ficha__simbolo' })}<span><strong>Personalizado à mão pela ${esc(ctx.site.marca)}</strong> · ${[e.nome ? esc(e.nome) : '', moradaDaLoja(ctx), esc(ctx.site.contactos.email || '')].filter(Boolean).join(' · ')}</span></p>` : '';
+    : personalizavel ? `<p class="ficha__feito">${simbolo(ctx, { alto: 22, classe: 'ficha__simbolo' })}<span><strong>Personalizado pela ${esc(ctx.site.marca)}</strong> · ${[e.nome ? esc(e.nome) : '', moradaDaLoja(ctx), esc(ctx.site.contactos.email || '')].filter(Boolean).join(' · ')}</span></p>` : '';
 
   // «Também pode gostar»: da mesma categoria; se não chegarem quatro, da mesma linha
   const mesmos = ctx.produtos.filter((x) => x.slug !== p.slug && x.categoria === p.categoria);
@@ -427,7 +427,7 @@ ${relacionados.length ? `<section class="secao relacionados" aria-labelledby="t-
   return {
     caminho,
     titulo: tituloDoArtigo(p, c),
-    descricao: resumir(`${p.resumo || textoSimples(p.descricao)}${v.atual !== null ? ` ${temSuplementos(p) ? 'Desde ' : ''}${euros(v.atual)}.` : ''} ${personalizavel ? `Personalizado à mão pela ${ctx.site.marca}.` : `Da ${ctx.site.marca}, em ${ctx.site.local.localidade}.`}`, 160),
+    descricao: resumir(`${p.resumo || textoSimples(p.descricao)}${v.atual !== null ? ` ${temSuplementos(p) ? 'Desde ' : ''}${euros(v.atual)}.` : ''} ${personalizavel ? `Personalizado pela ${ctx.site.marca}.` : `Da ${ctx.site.marca}, em ${ctx.site.local.localidade}.`}`, 160),
     tipo: 'product',
     partilha: ctx.manifesto.partilha[p.slug],
     jsonld: [migalhasLd(ctx, [{ nome: 'Início', caminho: '/' }, { nome: l.nome, caminho: caminhoDaLinha(l) }, { nome: c.titulo, caminho: caminhoDaCategoria(c) }, { nome: p.nome, caminho }]), ldProduto],
@@ -503,7 +503,7 @@ export function pedido(ctx) {
       </form>
     </div>
     <div class="vazio" data-encomenda-vazia hidden>
-      ${simbolo(ctx, { alto: 96, classe: 'vazio__simbolo' })}
+      <span class="vazio__icone" aria-hidden="true">${ico('saco')}</span>
       <p class="vazio__titulo">O seu pedido está vazio.</p>
       <p>Escolha uma peça, diga-nos o nome e o tema, e junte-a ao pedido.</p>
       ${botao(ctx.url('/'), 'Ver a loja')}
@@ -586,15 +586,15 @@ export function contactos(ctx) {
   outros.push(linha('casa', 'Showroom', `<p>${esc([e.localidade || ctx.site.local.localidade, e.concelho || ctx.site.local.distrito].filter(Boolean).join(', '))}</p>${c.horario ? `<p>${esc(c.horario)}</p>` : ''}`));
   const principal = c.whatsapp
     ? `<div class="contactos__principal">
-      ${simbolo(ctx, { alto: 52, classe: 'contactos__simbolo' })}
+      <span class="contactos__icone" aria-hidden="true">${ico('whatsapp')}</span>
       <h2 class="contactos__titulo">WhatsApp</h2>
       <p>É por aqui que combinamos os pedidos.</p>
       <a class="botao" href="https://wa.me/${numeroWhatsApp(c.whatsapp)}" target="_blank" rel="noopener">${ico('whatsapp')}<span>Enviar mensagem</span></a>
     </div>`
     : c.instagram ? `<div class="contactos__principal">
-      ${simbolo(ctx, { alto: 52, classe: 'contactos__simbolo' })}
+      <span class="contactos__icone" aria-hidden="true">${ico('instagram')}</span>
       <h2 class="contactos__titulo">Instagram</h2>
-      <p>É por aqui que combinamos os pedidos: envie-nos uma mensagem.</p>
+      <p>É por aqui que combinamos os pedidos.</p>
       <a class="botao" href="https://ig.me/m/${esc(c.instagram)}" target="_blank" rel="noopener">${ico('instagram')}<span>Enviar mensagem</span></a>
     </div>` : '';
   const conteudo = `${cabecaDePagina(ctx, { titulo: 'Contactos', sub: '<p>Fale connosco como preferir.</p>' })}

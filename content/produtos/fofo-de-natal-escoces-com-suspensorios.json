@@ -1,0 +1,29 @@
+{
+  "nome": "Fofo de Natal escocês com suspensórios",
+  "nomeCurto": "Fofo de Natal escocês com suspensórios",
+  "fotos": [
+    "fofo-de-natal-escoces-com-suspensorios"
+  ],
+  "resumo": "Calção escocês com suspensórios e camisa branca de botões vermelhos.",
+  "descricao": "Fofo de menino para o Natal: calção escocês com suspensórios e camisa branca com botões vermelhos.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "18 e 24 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "vestidos-e-fofos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

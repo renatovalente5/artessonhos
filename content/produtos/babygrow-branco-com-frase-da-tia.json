@@ -1,0 +1,30 @@
+{
+  "nome": "Babygrow branco com frase da tia",
+  "nomeCurto": "Babygrow branco com frase da tia",
+  "fotos": [
+    "babygrow-branco-com-frase-da-tia"
+  ],
+  "resumo": "Babygrow branco com a frase «Don't make me call my Auntie».",
+  "descricao": "Babygrow branco com a frase «Don't make me call my Auntie» estampada no peito. Uma prendinha original. Fazemos com a frase que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "bodies-e-babygrows",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

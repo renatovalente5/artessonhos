@@ -1,6 +1,6 @@
-# Põe na pré-visualização antiga (https://renatovalente5.github.io/dreamart/) uma página que manda
-# cada morada para a mesma em https://dreamart.pt: /dreamart/termos-e-condicoes/ vai para
-# https://dreamart.pt/termos-e-condicoes/. É a mesma página em index.html e em 404.html (o Pages
+# Põe na pré-visualização antiga (https://renatovalente5.github.io/artessonhos/) uma página que manda
+# cada morada para a mesma em https://artessonhos.pt: /artessonhos/termos-e-condicoes/ vai para
+# https://artessonhos.pt/termos-e-condicoes/. É a mesma página em index.html e em 404.html (o Pages
 # serve a 404.html em qualquer morada que não exista), sem nada da loja.
 #
 # Corre-se UMA vez, à mão (Actions › «Reencaminhar a pré-visualização» › Run workflow), depois de o
@@ -35,19 +35,19 @@ jobs:
           <meta name="viewport" content="width=device-width, initial-scale=1">
           <meta name="robots" content="noindex">
           <meta name="generator" content="redirect-stub">
-          <title>Dream Art · dreamart.pt</title>
-          <link rel="canonical" href="https://dreamart.pt/">
+          <title>Artes & Sonhos · artessonhos.pt</title>
+          <link rel="canonical" href="https://artessonhos.pt/">
           <script>
-            /* A mesma morada no domínio, sem o /dreamart da pré-visualização. */
-            var caminho = location.pathname.replace(/^\/dreamart(?=\/|$)/, '') || '/';
-            location.replace('https://dreamart.pt' + caminho + location.search + location.hash);
+            /* A mesma morada no domínio, sem o /artessonhos da pré-visualização. */
+            var caminho = location.pathname.replace(/^\/artessonhos(?=\/|$)/, '') || '/';
+            location.replace('https://artessonhos.pt' + caminho + location.search + location.hash);
           </script>
           <!-- Só sem JavaScript: um refresh com ele ligado podia trocar a navegação do script,
                a que leva a morada certa, pela da raiz. -->
-          <noscript><meta http-equiv="refresh" content="0; url=https://dreamart.pt/"></noscript>
+          <noscript><meta http-equiv="refresh" content="0; url=https://artessonhos.pt/"></noscript>
           </head>
           <body>
-          <p>O site da Dream Art está em <a href="https://dreamart.pt/">dreamart.pt</a>.</p>
+          <p>O site da Artes & Sonhos está em <a href="https://artessonhos.pt/">artessonhos.pt</a>.</p>
           </body>
           </html>
           HTML

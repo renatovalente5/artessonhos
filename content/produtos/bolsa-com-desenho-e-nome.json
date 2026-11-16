@@ -1,0 +1,31 @@
+{
+  "nome": "Bolsa de tecido com desenho e nome",
+  "nomeCurto": "Bolsa de tecido com desenho e nome",
+  "fotos": [
+    "bolsa-com-desenho-e-nome",
+    "bolsa-com-desenho-e-nome-2"
+  ],
+  "resumo": "Bolsa de tecido às bolinhas com um desenho e o nome do bebé.",
+  "descricao": "Bolsa de tecido às bolinhas com um desenho, como o elefante com balões ou o panda num coração, e o nome do bebé. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "acessorios",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 100
+}

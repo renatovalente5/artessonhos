@@ -1,0 +1,33 @@
+{
+  "nome": "Casaco quentinho com carapuço de orelhas",
+  "nomeCurto": "Casaco quentinho com carapuço de orelhas",
+  "fotos": [
+    "casaco-quentinho-com-carapuco-de-orelhas",
+    "casaco-quentinho-com-carapuco-de-orelhas-2",
+    "casaco-quentinho-com-carapuco-de-orelhas-3",
+    "casaco-quentinho-com-carapuco-de-orelhas-4",
+    "casaco-quentinho-com-carapuco-de-orelhas-5"
+  ],
+  "resumo": "Casaco fofo e quentinho com carapuço de orelhas.",
+  "descricao": "Casaco quentinho e fofo com carapuço de orelhas. Há em azul, cru, cinzento e rosa.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "3, 6 e 12 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "casacos-e-malhas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 30
+}

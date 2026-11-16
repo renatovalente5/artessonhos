@@ -1,0 +1,31 @@
+{
+  "nome": "Estrelinha de recordação para a árvore",
+  "nomeCurto": "Estrelinha de recordação para a árvore",
+  "fotos": [
+    "estrelinha-de-recordacao",
+    "estrelinha-de-recordacao-2"
+  ],
+  "resumo": "Estrela de madeira com uma frase para lembrar quem já partiu.",
+  "descricao": "Estrela de madeira gravada com uma frase para recordar quem já partiu, como «Porque alguém que amamos está no céu, aqui fica um bocadinho do céu na nossa casa», e o nome. Personalizamos com o nome e a frase que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "natal",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 140
+}

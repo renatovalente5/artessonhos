@@ -1,0 +1,25 @@
+{
+  "nome": "Primeira roupinha com animais no carrinho",
+  "fotos": [
+    "primeira-roupinha-animais-no-carrinho",
+    "primeira-roupinha-animais-no-carrinho-2",
+    "primeira-roupinha-animais-no-carrinho-3"
+  ],
+  "resumo": "Manta de pipocas, babygrow e fralda com animais num carrinho.",
+  "descricao": "Manta de pipocas, babygrow de veludo e fralda com um carrinho cheio de animais (leão, girafa, macaco) e estrelas. Há em rosa, azul e cinzento. Pode juntar os interiores.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "primeira-roupinha",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 60
+}

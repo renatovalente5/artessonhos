@@ -1,0 +1,25 @@
+{
+  "nome": "Manta com ursinho brincalhão",
+  "nomeCurto": "Manta com ursinho brincalhão",
+  "fotos": [
+    "manta-com-ursinho-brincalhao",
+    "manta-com-ursinho-brincalhao-2"
+  ],
+  "resumo": "Manta com um ursinho aplicado entre estrelas ou flores, em azul ou rosa.",
+  "descricao": "Manta com a barra de cima às riscas ou às bolinhas e um ursinho aplicado, com estrelas e um carrinho ou com flores e borboletas. Há em azul e rosa.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "mantas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 90
+}

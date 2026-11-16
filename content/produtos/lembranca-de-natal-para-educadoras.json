@@ -1,0 +1,31 @@
+{
+  "nome": "Lembrança de Natal para educadoras",
+  "nomeCurto": "Lembrança de Natal para educadoras",
+  "fotos": [
+    "lembranca-de-natal-para-educadoras",
+    "lembranca-de-natal-para-educadoras-2"
+  ],
+  "resumo": "Estrela ou bolinha de madeira com o nome da educadora e uma mensagem.",
+  "descricao": "Estrela ou bolinha de madeira gravada com o nome da educadora ou da auxiliar, uma mensagem de agradecimento, quem oferece e o ano letivo, com fita vermelha. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "natal",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 120
+}

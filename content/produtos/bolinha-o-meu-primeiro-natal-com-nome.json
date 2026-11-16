@@ -1,0 +1,31 @@
+{
+  "nome": "Bolinha «O meu 1.º Natal» com nome",
+  "nomeCurto": "Bolinha «O meu 1.º Natal» com nome",
+  "fotos": [
+    "bolinha-o-meu-primeiro-natal-com-nome",
+    "bolinha-o-meu-primeiro-natal-com-nome-2"
+  ],
+  "resumo": "Bolinha de madeira com um bebé a dormir, o nome e o ano.",
+  "descricao": "Bolinha de madeira gravada com um bebé a dormir, «o meu 1.º Natal», o nome e o ano, e fita vermelha para pendurar na árvore. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "natal",
+  "video": "",
+  "novidade": false,
+  "destaque": true,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

@@ -63,7 +63,8 @@ button, input, select, textarea { font: inherit; color: inherit; }
 button { cursor: pointer; }
 h1, h2, h3, h4 { font-family: var(--titulo); font-weight: 500; line-height: 1.15; letter-spacing: -.005em; text-wrap: balance; }
 p, li, label, dd, figcaption { text-wrap: pretty; }
-ul[role="list"], ol[role="list"] { list-style: none; padding: 0; }
+/* sem peso (:where): a classe de cada lista decide o espaço dela (os círculos encostavam à borda) */
+:where(ul[role="list"], ol[role="list"]) { list-style: none; padding: 0; }
 :focus-visible { outline: 2px solid var(--bronze); outline-offset: 3px; border-radius: 6px; }
 .i { width: 22px; height: 22px; flex: none; }
 .contentor { width: min(var(--largura), 100% - 2 * var(--gutter)); margin-inline: auto; }
@@ -261,7 +262,7 @@ html.menu-aberto { overflow: hidden; }
 .artigo__foto picture, .artigo__foto img { width: 100%; height: 100%; object-fit: cover; transition: transform .45s ease; }
 .artigo:hover .artigo__foto img { transform: scale(1.035); }
 .artigo__info { padding: 12px 44px 0 2px; }
-.artigo__nome { font: 400 16px/1.35 var(--texto); hyphens: auto; -webkit-hyphenate-limit-before: 5; -webkit-hyphenate-limit-after: 5; hyphenate-limit-chars: 10 5 5; }
+.artigo__nome { font: 400 16px/1.35 var(--texto); hyphens: auto; -webkit-hyphenate-limit-before: 6; -webkit-hyphenate-limit-after: 5; hyphenate-limit-chars: 12 6 5; } /* só as palavras muito compridas («personalizadas»); «recordações» fica inteira */
 .artigo__nome a { text-decoration: none; }
 .artigo__nome a::after { content: ''; position: absolute; inset: 0; border-radius: var(--raio-p); }
 .artigo__nome a:focus-visible { outline: none; }
@@ -283,6 +284,8 @@ html.menu-aberto { overflow: hidden; }
 .pastilhas a { display: inline-flex; align-items: center; min-height: 42px; padding: 0 18px; border-radius: 999px; background: var(--branco); box-shadow: inset 0 0 0 1px var(--linha); text-decoration: none; font-size: 15px; white-space: nowrap; transition: background-color .2s, box-shadow .2s; }
 .pastilhas a:hover { box-shadow: inset 0 0 0 1px var(--bronze); }
 .pastilhas a[aria-current="page"] { background: var(--bronze); color: #fff; box-shadow: none; font-weight: 700; }
+/* No computador cabem todas à vista, em duas linhas se for preciso (cortadas à direita, não se via que havia mais). */
+@media (min-width: 900px) { .pastilhas { margin: 0; overflow: visible; } .pastilhas ul { flex-wrap: wrap; width: auto; padding: 2px 0 6px; } }
 .vitrine__painel { padding-top: 26px; min-height: 60vh; }
 .vitrine__painel.is-carregar { opacity: .5; transition: opacity .2s; }
 .vitrine__cabeca { display: grid; gap: 10px; justify-items: start; margin-bottom: 30px; }
@@ -353,6 +356,9 @@ input[type="text"], input[type="email"], input[type="tel"], input[type="number"]
 .procura__campo input { min-height: 0; padding: 0; border: 0; border-radius: 0; }
 textarea { resize: vertical; field-sizing: content; min-height: 84px; max-height: 18rem; }
 input:focus-visible, textarea:focus-visible, select:focus-visible { outline: 2px solid var(--bronze); outline-offset: 1px; border-color: var(--bronze); }
+/* a procura: o foco vê-se no contorno da pílula (:focus-within), não num segundo retângulo dentro dela; e sem o «x» azul do browser */
+.procura__campo input:focus-visible { outline: none; }
+.procura__campo input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; }
 input[aria-invalid="true"], textarea[aria-invalid="true"] { border-color: var(--erro); box-shadow: 0 0 0 1px var(--erro); }
 input::placeholder, textarea::placeholder { color: #7D6E62; }
 @media (hover: none) and (pointer: coarse) { input, textarea, select { font-size: 16px !important; } }
@@ -406,6 +412,8 @@ fieldset > legend + * { clear: both; }
 .encomenda__continuar { margin-top: 14px; }
 .cartao-form { padding: 26px; border-radius: var(--raio); background: var(--branco); box-shadow: 0 0 0 1px var(--linha); align-self: start; }
 .cartao-form > div { display: grid; gap: 16px; }
+/* a morada e o código postal: o mesmo espaço entre campos (o bloco do envio não tinha grelha) */
+.cartao-form [data-so-envio]:not([hidden]) { display: grid; gap: 16px; }
 .cartao-form__titulo { font-size: 26px; }
 .cartao-form__nota { font-size: 14px; color: var(--tinta-2); text-align: center; }
 .entregas { display: grid; gap: 8px; }
@@ -430,7 +438,9 @@ fieldset > legend + * { clear: both; }
 .enviada__simbolo { height: 48px; width: auto; margin: 0 auto; }
 .enviada__mais { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
 .vazio { display: grid; justify-items: center; gap: 12px; text-align: center; padding: 48px 0 20px; color: var(--tinta-2); }
-.vazio__simbolo { height: 96px; width: auto; opacity: .85; }
+/* o saco, não o «&»: o «&» já está por cima do título da página */
+.vazio__icone { display: grid; place-items: center; width: 72px; height: 72px; border-radius: 50%; background: var(--areia); color: var(--bronze); }
+.vazio__icone .i { width: 30px; height: 30px; }
 .vazio__titulo { font: 500 26px/1.2 var(--titulo); color: var(--tinta); }
 
 /* ---------------------------------------------------------------- páginas de texto */
@@ -477,7 +487,8 @@ fieldset > legend + * { clear: both; }
 .contactos { padding: 26px 0 0; }
 .contactos__grelha { display: grid; grid-template-columns: minmax(0, 1fr); gap: 24px; max-width: 900px; }
 .contactos__principal { display: grid; justify-items: center; gap: 12px; text-align: center; padding: 34px 24px; border-radius: var(--raio-g); background: var(--areia); }
-.contactos__simbolo { height: 52px; width: auto; }
+.contactos__icone { display: grid; place-items: center; width: 56px; height: 56px; border-radius: 50%; background: var(--fundo); color: var(--bronze); }
+.contactos__icone .i { width: 24px; height: 24px; }
 .contactos__titulo { font-size: 30px; }
 .contactos__principal p { color: var(--tinta-2); }
 .contactos__lista { display: grid; gap: 4px; }
@@ -512,6 +523,9 @@ fieldset > legend + * { clear: both; }
 .recado.is-visivel { transform: translate(-50%, 0); opacity: 1; pointer-events: auto; }
 .recado__caixa { display: flex; align-items: center; gap: 12px; padding: 14px 16px; border-radius: var(--raio-p); background: var(--tinta); color: #fff; box-shadow: var(--sombra); font-size: 15px; }
 .recado__caixa a { color: #fff; font-weight: 700; margin-left: auto; white-space: nowrap; }
+/* «Juntou-se ao pedido» numa linha e o nome da peça na seguinte (colados, liam-se como uma só frase) */
+.recado__texto { display: grid; gap: 2px; min-width: 0; }
+.recado__texto > span { color: rgba(255, 255, 255, .82); }
 
 /* ---------------------------------------------------------------- entradas ao descer (só com JS e sem «reduzir movimento») */
 @media (prefers-reduced-motion: no-preference) {

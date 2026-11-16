@@ -1,0 +1,29 @@
+{
+  "nome": "Porta-documentos com renda e nome bordado",
+  "fotos": [
+    "porta-documentos-com-renda-e-nome"
+  ],
+  "resumo": "Porta-documentos verde-água com folho de renda, laço e o nome bordado.",
+  "descricao": "Porta-documentos verde-água com a aba branca, folho de renda, laço de cetim e o nome bordado a azul. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "maternidade",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 60
+}

@@ -1,0 +1,27 @@
+{
+  "nome": "Ninho de laço cinzento ou rosa",
+  "nomeCurto": "Ninho de laço cinzento ou rosa",
+  "fotos": [
+    "ninho-de-laco",
+    "ninho-de-laco-2",
+    "ninho-de-laco-3",
+    "ninho-de-laco-4"
+  ],
+  "resumo": "Ninho com folhos, almofada para a cabeça e um grande laço, em cinzento ou rosa.",
+  "descricao": "Ninho com folhos, almofada para a cabeça e um grande laço a fechar, em tecido branco às estrelinhas com cinzento ou rosa.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "quarto",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 120
+}

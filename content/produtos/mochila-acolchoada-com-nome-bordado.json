@@ -1,0 +1,34 @@
+{
+  "nome": "Mochila acolchoada com nome bordado",
+  "nomeCurto": "Mochila acolchoada com nome bordado",
+  "fotos": [
+    "mochila-acolchoada-com-nome-bordado",
+    "mochila-acolchoada-com-nome-bordado-2",
+    "mochila-acolchoada-com-nome-bordado-3",
+    "mochila-acolchoada-com-nome-bordado-4",
+    "mochila-acolchoada-com-nome-bordado-5"
+  ],
+  "resumo": "Mochila acolchoada com o nome bordado na aba, com ou sem laço.",
+  "descricao": "Mochila acolchoada para a maternidade, a creche ou a pré, com bolso à frente, o nome bordado na aba e, se quiser, um laço de lado. Há em vários tecidos e cores: lisos, às bolinhas ou com luas e estrelas. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "mochilas-e-sacos",
+  "video": "",
+  "novidade": false,
+  "destaque": true,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 2
+}

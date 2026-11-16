@@ -1,0 +1,24 @@
+{
+  "nome": "Gorros de malha com pompom",
+  "nomeCurto": "Gorros de malha com pompom",
+  "fotos": [
+    "gorros-de-malha-com-pompom"
+  ],
+  "resumo": "Gorros de malha com pompom, em várias cores.",
+  "descricao": "Gorros de malha com pompom, em azul, rosa, rosa-velho, castanho e verde.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "casacos-e-malhas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 70
+}

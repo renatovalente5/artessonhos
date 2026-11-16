@@ -1,0 +1,32 @@
+{
+  "nome": "Toalha de banho com girafinha",
+  "nomeCurto": "Toalha de banho com girafinha",
+  "fotos": [
+    "toalha-de-banho-com-girafinha",
+    "toalha-de-banho-com-girafinha-2",
+    "toalha-de-banho-com-girafinha-3"
+  ],
+  "resumo": "Toalha de banho com capuz e uma girafinha entre folhas.",
+  "descricao": "Toalha de banho com capuz, com uma girafinha estampada entre folhas e flores e debrum cinzento, bege, azul, verde ou rosa. Faz parte da coleção da girafinha, com fralda, babete e manta, e pode levar o nome.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "banho",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 20
+}

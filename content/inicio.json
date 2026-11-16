@@ -1,13 +1,13 @@
 {
   "seo": {
     "titulo": "Artes & Sonhos — enxoval de bebé e peças personalizadas, em Maceira (Leiria)",
-    "descricao": "Primeira roupinha, mantas, malas de maternidade e peças pintadas e bordadas à mão com o nome: bibes, mochilas, fraldas e presentes para datas especiais. Envios por CTT para todo o país."
+    "descricao": "Primeira roupinha, mantas, malas de maternidade e peças personalizadas com o nome: bibes, mochilas, fraldas e presentes para datas especiais. Envios por CTT para todo o país."
   },
   "capa": {
     "etiqueta": "Produtos 100% portugueses",
     "titulo": "Tudo para o enxoval do seu bebé,",
     "destaque": "com o nome dele",
-    "texto": "Roupinha, mantas e malas de maternidade, e peças pintadas e bordadas à mão, ao vosso gosto.",
+    "texto": "Roupinha, mantas e malas de maternidade, e peças personalizadas com o nome, ao seu gosto.",
     "botao": "Ver o enxoval",
     "ligacao": "/bebe/",
     "botao2": "Personalizar uma peça",
@@ -37,10 +37,10 @@
   "destaque": {
     "etiqueta": "Natal 2026",
     "titulo": "O primeiro Natal fica gravado para sempre",
-    "texto": "Bolinhas e estrelinhas com o nome, presépios com íman e almofadas «O meu primeiro Natal». Tudo é personalizado ao vosso gosto.",
+    "texto": "Bolinhas e estrelinhas com o nome, presépios com íman e almofadas «O meu primeiro Natal». Tudo é personalizado ao seu gosto.",
     "categoria": "natal",
     "botao": "Ver o Natal 2026",
-    "foto": "natal-bolinhas-de-madeira"
+    "foto": "natal-conjunto-primeiro-natal"
   },
   "personalizar": {
     "titulo": "Personalizar é simples",
@@ -52,16 +52,16 @@
       },
       {
         "titulo": "Diga-nos o nome e o tema",
-        "texto": "As cores, o desenho e a letra, tudo ao vosso gosto."
+        "texto": "As cores, o desenho e a letra, tudo ao seu gosto."
       },
       {
-        "titulo": "Pintamos e enviamos",
-        "texto": "Pintado ou bordado à mão, e enviado por CTT para todo o país."
+        "titulo": "Fazemos e enviamos",
+        "texto": "Com o nome bordado, pintado ou estampado, e enviado por CTT para todo o país."
       }
     ]
   },
   "pedidos": {
-    "titulo": "Os mais pedidos",
+    "titulo": "Peças em destaque",
     "botao": "Ver os personalizados",
     "ligacao": "/personalizados/"
   },

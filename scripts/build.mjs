@@ -426,7 +426,11 @@ function paginaMarkdown(ficheiro) {
   const meta = Object.fromEntries(cabeca.split('\n').filter(Boolean).map((l) => { const i = l.indexOf(':'); return [l.slice(0, i).trim(), l.slice(i + 1).trim()]; }));
   const { texto, tokens } = resolverMarcadores(corpo.join('\n---\n'), `Páginas › ${ficheiro}`);
   // um marcador sozinho num parágrafo (quadro, figura, botões) sai do <p> que o Markdown lhe põe
-  let html = markdown(texto, ctx.url).replace(/<p>\u0000(\d+)\u0000<\/p>/g, (_, i) => tokens[Number(i)]);
+  /* Um marcador sozinho num parágrafo: tira-se o <p> só se o que ele põe já é um bloco (o quadro, a
+     figura, a lista); um marcador de texto ({{contactos}}) fica no parágrafo (sem ele, cada ligação
+     ficava numa linha, na grelha da .prosa). */
+  const BLOCO = /^\s*(?:<!--[\s\S]*?-->\s*)*<(div|figure|ul|ol|p|section|table|details|form|h[1-6]|blockquote|aside)\b/i;
+  let html = markdown(texto, ctx.url).replace(/<p>\u0000(\d+)\u0000<\/p>/g, (todo, i) => (BLOCO.test(tokens[Number(i)]) ? tokens[Number(i)] : `<p>${tokens[Number(i)]}</p>`));
   html = html.replace(/\u0000(\d+)\u0000/g, (_, i) => tokens[Number(i)]);
   const slug = ficheiro.replace(/\.md$/, '');
   if (meta.foto && !fotoExiste(meta.foto)) erros.push(`Páginas › ${ficheiro}: a fotografia «${meta.foto}» não existe`);

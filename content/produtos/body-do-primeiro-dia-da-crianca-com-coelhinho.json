@@ -1,0 +1,30 @@
+{
+  "nome": "Body do 1.º Dia da Criança com coelhinho",
+  "nomeCurto": "Body do 1.º Dia da Criança com coelhinho",
+  "fotos": [
+    "body-do-primeiro-dia-da-crianca-com-coelhinho"
+  ],
+  "resumo": "Body com gola de folhos, um coelhinho, a frase e o nome.",
+  "descricao": "Body branco com gola e mangas de folhos, «O meu 1.º Dia da Criança», um coelhinho com flores e o nome do bebé. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-da-crianca",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

@@ -16,9 +16,11 @@ on:
     branches: [main]
   workflow_dispatch:
   # Todos os dias às 00:15 de Lisboa: as promoções e o aviso do topo têm data de fim, e o site
-  # só muda quando se publica.
+  # só muda quando se publica. O cron do GitHub é UTC: 23:15 UTC é 00:15 no verão (UTC+1) e
+  # 00:15 UTC é 00:15 no inverno; corre duas vezes, o que não faz mal (a mesma publicação).
   schedule:
     - cron: '15 23 * * *'
+    - cron: '15 0 * * *'
 
 permissions: {}
 

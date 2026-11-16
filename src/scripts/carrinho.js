@@ -269,7 +269,7 @@
     linhas.push(`Subtotal: ${c.porConfirmar ? (c.pecas ? `${euros(c.pecas)} + sob consulta` : 'sob consulta') : euros(c.pecas)}`);
     if (estado.zona === 'levantamento') linhas.push(`Entrega: ${z.nome}`);
     else linhas.push(`Entrega: ${z.nome} — portes ${c.portesPorConfirmar ? 'a confirmar' : euros(c.portes)}`);
-    if (c.porConfirmar) linhas.push('*Total: a combinar consigo*');
+    if (c.porConfirmar) linhas.push('*Total: a confirmar*');
     else if (estado.zona !== 'levantamento' && c.portesPorConfirmar) linhas.push(`*Total: ${euros(c.pecas)} + portes*`);
     else linhas.push(`*Total: ${euros(c.total)}*`);
     if (cat.pagamento) linhas.push(`Pagamento: ${cat.pagamento}`);

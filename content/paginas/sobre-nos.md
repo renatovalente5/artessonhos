@@ -1,16 +1,16 @@
 titulo: Sobre nós
-descricao: A Dream Art nasceu em 2018, de um sonho familiar: lembranças, convites e conjuntos de batizado personalizados, feitos à mão, um a um, em Rio Tinto.
-foto: caixa-de-batizado-em-linho
-subtitulo: Um sonho de família, desde 2018.
+descricao: Tudo para o enxoval do bebé, peças personalizadas com o nome, e retratos e pinturas por encomenda. Showroom em Maceira, Leiria.
+foto: manta-pipoca-e-doudou-com-nome
+subtitulo: Tudo para o seu bebé e artigos personalizados.
 ---
-A {{marca}} nasceu em 2018, de um sonho familiar, que ganhou vida através da criação de sabonetes perfumados.
+- **Enxoval do bebé:** roupa, mantas, lençóis e malas de maternidade. Produtos 100% portugueses.
+- **Personalizados:** com o nome, o tema e as cores que escolher. Fazemos qualquer tema.
+- **Pinturas e retratos:** retratos a carvão e pinturas a óleo, por encomenda.
 
-Desde então, a família cresceu e, com ela, também cresceu este projeto tão especial. O que começou como um pequeno sonho transformou-se numa paixão pela arte de criar peças únicas, personalizadas e cheias de significado.
+## Onde estamos
 
-Cada peça é cuidadosamente elaborada à mão, uma a uma, com amor, dedicação e atenção a cada detalhe.
+O nosso showroom fica em {{localidade}}, Leiria. Pode levantar lá o seu pedido ou recebê-lo pelos CTT, no continente ou nas ilhas.
 
-Mais do que criar produtos, queremos criar memórias, transmitir emoções e eternizar momentos especiais através de peças que contam histórias.
+## Contactos
 
-A {{marca}} é um sonho de família, feito com amor, que ganha forma em cada criação.
-
-*«Mais do que criar peças, criamos memórias.»*
+{{contactos}}

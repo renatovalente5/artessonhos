@@ -1,0 +1,31 @@
+{
+  "nome": "Jardineiras com ursinho de coroa",
+  "nomeCurto": "Jardineiras com ursinho de coroa",
+  "fotos": [
+    "jardineiras-com-ursinho-de-coroa",
+    "jardineiras-com-ursinho-de-coroa-2",
+    "jardineiras-com-ursinho-de-coroa-3"
+  ],
+  "resumo": "Jardineiras com body branco e um ursinho de coroa no peito.",
+  "descricao": "Jardineiras com body branco e um ursinho de coroa no peito. Há em verde-água e em coral.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "1 mês"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "bodies-e-babygrows",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 60
+}

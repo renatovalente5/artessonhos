@@ -1,0 +1,29 @@
+{
+  "nome": "Carneirinhas azul-escuras",
+  "nomeCurto": "Carneirinhas azul-escuras",
+  "fotos": [
+    "carneirinhas-azul-escuras"
+  ],
+  "resumo": "Carneirinhas azul-escuras com atacadores e franja.",
+  "descricao": "Carneirinhas azul-escuras com atacadores e franja.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "16"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "casacos-e-malhas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 110
+}

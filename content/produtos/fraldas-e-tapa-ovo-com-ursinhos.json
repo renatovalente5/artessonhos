@@ -1,0 +1,31 @@
+{
+  "nome": "Fraldas e tapa-ovo com ursinhos e nome",
+  "nomeCurto": "Fraldas e tapa-ovo com ursinhos e nome",
+  "fotos": [
+    "fraldas-e-tapa-ovo-com-ursinhos",
+    "fraldas-e-tapa-ovo-com-ursinhos-2"
+  ],
+  "resumo": "Fraldas, tapa-ovo e bolsa com ursinhos e o nome do bebé.",
+  "descricao": "Fraldas, tapa-ovo e bolsa com ursinhos, balões e uma tartaruga, e o nome do bebé. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "conjuntos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 70
+}

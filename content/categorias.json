@@ -4,88 +4,88 @@
     "linha": "bebe",
     "nome": "Primeira roupinha",
     "titulo": "Primeira roupinha",
-    "resumo": "Primeira roupinha",
-    "foto": "SEM-FOTO"
+    "resumo": "A primeira roupinha do bebé em conjuntos a condizer: manta, babygrow, fralda e outras peças, também com o nome bordado.",
+    "foto": "primeira-roupinha-cavalinho-de-baloico"
   },
   {
     "slug": "conjuntos",
     "linha": "bebe",
     "nome": "Conjuntos",
     "titulo": "Conjuntos",
-    "resumo": "Conjuntos",
-    "foto": "SEM-FOTO"
+    "resumo": "Conjuntos para o bebé: fatinhos de malha, saídas de maternidade e conjuntos personalizados com o nome.",
+    "foto": "jardineiras-de-malha-com-coelhinho"
   },
   {
     "slug": "vestidos-e-fofos",
     "linha": "bebe",
     "nome": "Vestidos e fofos",
     "titulo": "Vestidos e fofos",
-    "resumo": "Vestidos e fofos",
-    "foto": "SEM-FOTO"
+    "resumo": "Vestidos, fofos e conjuntos de calção para festas, o Natal ou o dia a dia do bebé.",
+    "foto": "fofo-de-malha-com-laco-de-cetim"
   },
   {
     "slug": "bodies-e-babygrows",
     "linha": "bebe",
     "nome": "Bodies e babygrows",
     "titulo": "Bodies e babygrows",
-    "resumo": "Bodies e babygrows",
-    "foto": "SEM-FOTO"
+    "resumo": "Babygrows, bodies e jardineiras para o dia a dia, lisos ou personalizados com o tema que quiser.",
+    "foto": "babygrow-body-e-calcas-com-coelhinho"
   },
   {
     "slug": "casacos-e-malhas",
     "linha": "bebe",
     "nome": "Casacos e malhas",
     "titulo": "Casacos e malhas",
-    "resumo": "Casacos e malhas",
-    "foto": "SEM-FOTO"
+    "resumo": "Casaquinhos de malha, casacos quentinhos, gorros, botinhas e sapatinhos para o bebé.",
+    "foto": "casaco-quentinho-com-carapuco-de-orelhas"
   },
   {
     "slug": "acessorios",
     "linha": "bebe",
     "nome": "Acessórios",
     "titulo": "Acessórios",
-    "resumo": "Acessórios",
-    "foto": "SEM-FOTO"
+    "resumo": "Prende-chuchas, bolsas, cestos de utensílios, meias, turbantes e outros miminhos para o bebé.",
+    "foto": "prende-chucha-com-bolsinha"
   },
   {
     "slug": "quarto",
     "linha": "bebe",
     "nome": "Quarto do bebé",
     "titulo": "Quarto do bebé",
-    "resumo": "Quarto do bebé",
-    "foto": "SEM-FOTO"
+    "resumo": "Lençóis, edredões, cobertores, ninhos e almofadas de amamentação para o quarto do bebé, alguns com o nome bordado.",
+    "foto": "ninho-tranca-e-almofadas-com-animais"
   },
   {
     "slug": "mantas",
     "linha": "bebe",
     "nome": "Mantas",
     "titulo": "Mantas",
-    "resumo": "Mantas",
-    "foto": "SEM-FOTO"
+    "resumo": "Mantas para o bebé, polares, com bolinhas em relevo ou com ursinhos, coelhinhos e cãezinhos aplicados, em várias cores.",
+    "foto": "manta-com-ursinho-e-baloes"
   },
   {
     "slug": "passeio",
     "linha": "bebe",
     "nome": "Ovo e alcofa",
     "titulo": "Ovo e alcofa",
-    "resumo": "Ovo e alcofa",
-    "foto": "SEM-FOTO"
+    "resumo": "Sacos para o ovo e forras para o ovo e a alcofa, em várias cores e com desenhos.",
+    "foto": "forra-para-o-ovo-animais-da-selva"
   },
   {
     "slug": "banho",
     "linha": "bebe",
     "nome": "Toalhas de banho",
     "titulo": "Toalhas de banho",
-    "resumo": "Toalhas de banho",
-    "foto": "SEM-FOTO"
+    "resumo": "Toalhas de banho com capuz para o bebé, com desenhos estampados, aplicados ou o nome pintado, e coleções a condizer.",
+    "foto": "toalha-manta-e-fralda-ursinho-de-gorro"
   },
   {
     "slug": "maternidade",
     "linha": "bebe",
     "nome": "Malas de maternidade",
     "titulo": "Malas de maternidade",
-    "resumo": "Malas de maternidade",
-    "foto": "SEM-FOTO"
+    "resumo": "Sacos e mochilas de maternidade, porta-documentos e muda-fraldas, com o nome bordado ou um desenho à escolha.",
+    "foto": "bolsas-primeira-roupinha-e-documentos"
   },
   {
     "slug": "bibes",
@@ -124,16 +124,16 @@
     "linha": "personalizados",
     "nome": "Tapa-ovos",
     "titulo": "Tapa-ovos",
-    "resumo": "Tapa-ovos",
-    "foto": "SEM-FOTO"
+    "resumo": "Tapa-ovos para proteger o bebé no ovo, com o nome e o desenho que escolher.",
+    "foto": "tapa-ovo-artesanal-com-laco"
   },
   {
     "slug": "doudous",
     "linha": "personalizados",
     "nome": "Doudous",
     "titulo": "Doudous",
-    "resumo": "Doudous",
-    "foto": "SEM-FOTO"
+    "resumo": "Doudous macios para o bebé adormecer, com o nome bordado.",
+    "foto": "doudou-ursinho-com-nome-bordado"
   },
   {
     "slug": "mantas-personalizadas",
@@ -164,8 +164,8 @@
     "linha": "personalizados",
     "nome": "Lembranças em madeira",
     "titulo": "Lembranças em madeira",
-    "resumo": "Lembranças em madeira",
-    "foto": "SEM-FOTO"
+    "resumo": "Lembranças em madeira com o nome: caixas de recordações do bebé e enfeites de Natal gravados.",
+    "foto": "caixa-de-recordacoes-do-bebe"
   },
   {
     "slug": "pantufas",
@@ -196,16 +196,16 @@
     "linha": "datas-especiais",
     "nome": "Natal",
     "titulo": "Natal",
-    "resumo": "Natal",
-    "foto": "SEM-FOTO"
+    "resumo": "Bolinhas e estrelinhas de madeira com nome, presépios, babygrows do primeiro Natal e camisolas para a família, personalizados ao seu gosto.",
+    "foto": "babygrow-de-natal-com-nome-e-desenho"
   },
   {
     "slug": "dia-do-pai",
     "linha": "datas-especiais",
     "nome": "Dia do Pai",
     "titulo": "Dia do Pai",
-    "resumo": "Dia do Pai",
-    "foto": "SEM-FOTO"
+    "resumo": "T-shirts e conjuntos para o pai e o bebé, com frases e nomes, e uma caixa para dar a notícia ao papá.",
+    "foto": "conjunto-o-nosso-primeiro-dia-do-pai"
   },
   {
     "slug": "dia-da-mae",
@@ -228,8 +228,8 @@
     "linha": "datas-especiais",
     "nome": "Dia da Criança",
     "titulo": "Dia da Criança",
-    "resumo": "Dia da Criança",
-    "foto": "SEM-FOTO"
+    "resumo": "T-shirts e bodies para o Dia da Criança, com o nome e um desenho ou uma frase à escolha.",
+    "foto": "body-do-primeiro-dia-da-crianca-com-coelhinho"
   },
   {
     "slug": "pascoa",
@@ -285,7 +285,7 @@
     "nome": "Carnaval",
     "titulo": "Carnaval",
     "resumo": "Fatos de carnaval para bebés, dos 12 aos 24 meses.",
-    "foto": "SEM-FOTO"
+    "foto": "linha-datas-enfeite-eva"
   },
   {
     "slug": "retratos",
@@ -300,7 +300,7 @@
     "linha": "pinturas-e-retratos",
     "nome": "Pinturas a óleo",
     "titulo": "Pinturas a óleo",
-    "resumo": "Pinturas a óleo",
-    "foto": "SEM-FOTO"
+    "resumo": "Quadros para o quarto, pintados à mão a óleo, com o nome e o tema que escolher.",
+    "foto": "retrato-a4-a-carvao-de-menina"
   }
 ]

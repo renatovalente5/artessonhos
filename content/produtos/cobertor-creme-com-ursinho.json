@@ -1,0 +1,24 @@
+{
+  "nome": "Cobertor creme com ursinho",
+  "nomeCurto": "Cobertor creme com ursinho",
+  "fotos": [
+    "cobertor-creme-com-ursinho"
+  ],
+  "resumo": "Cobertor creme de 110x140 cm com um ursinho aplicado.",
+  "descricao": "Cobertor creme com um ursinho aplicado, de 110x140 cm. 100% português.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "quarto",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 90
+}

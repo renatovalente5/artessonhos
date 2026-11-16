@@ -1,0 +1,36 @@
+{
+  "nome": "Camisolas de Natal para a família",
+  "nomeCurto": "Camisolas de Natal para a família",
+  "fotos": [
+    "camisolas-de-natal-para-a-familia",
+    "camisolas-de-natal-para-a-familia-2"
+  ],
+  "resumo": "Camisolas a condizer para a mãe, o pai e o bebé, com frases de Natal.",
+  "descricao": "Camisolas a condizer para a família: brancas, com «Merry mamã», «Merry papá» e «Merry mini», ou cor de areia, com «Special Christmas» e o ano para os pais e «First Christmas» com o nome para o bebé. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "Criança: dos 3 meses aos 12 anos (com capuz, dos 2 aos 12 anos)"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "natal",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 90
+}

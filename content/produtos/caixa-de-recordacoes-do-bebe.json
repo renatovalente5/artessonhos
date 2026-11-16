@@ -1,0 +1,32 @@
+{
+  "nome": "Caixa de recordações do bebé",
+  "nomeCurto": "Caixa de recordações do bebé",
+  "fotos": [
+    "caixa-de-recordacoes-do-bebe",
+    "caixa-de-recordacoes-do-bebe-2",
+    "caixa-de-recordacoes-do-bebe-3"
+  ],
+  "resumo": "Caixa de madeira «As minhas recordações» com o nome e quatro compartimentos.",
+  "descricao": "Caixa de madeira com a tampa ilustrada, «As minhas recordações» e o nome do bebé, e quatro compartimentos para guardar a chucha, o dentinho, o umbigo e a pulseira, e o cabelinho. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "lembrancas-em-madeira",
+  "video": "",
+  "novidade": false,
+  "destaque": true,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 70
+}

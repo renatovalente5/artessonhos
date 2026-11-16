@@ -1,0 +1,31 @@
+{
+  "nome": "Caixa «Papá, estou a chegar»",
+  "nomeCurto": "Caixa «Papá, estou a chegar»",
+  "fotos": [
+    "caixa-papa-estou-a-chegar",
+    "caixa-papa-estou-a-chegar-2"
+  ],
+  "resumo": "Caixa com body personalizado e botinhas, para dar a notícia ao pai.",
+  "descricao": "Caixa com um body branco «Papá, estou a chegar…», com uma cegonha e a frase «Vou roubar a Mamã só para mim, dar cabo do teu orçamento e sujar o teu carro e mesmo assim serás louco por mim!», e umas botinhas. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-do-pai",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 40
+}

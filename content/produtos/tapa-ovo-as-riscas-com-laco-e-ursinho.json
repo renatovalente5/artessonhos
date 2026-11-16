@@ -1,0 +1,30 @@
+{
+  "nome": "Tapa-ovo às riscas com laço e ursinho",
+  "nomeCurto": "Tapa-ovo às riscas com laço e ursinho",
+  "fotos": [
+    "tapa-ovo-as-riscas-com-laco-e-ursinho"
+  ],
+  "resumo": "Tapa-ovo com barra às riscas rosa, laço, um ursinho com balões e o nome.",
+  "descricao": "Tapa-ovo branco com alças e barra às riscas cor-de-rosa, laço grande, um ursinho numa nuvem com balões e o nome. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "tapa-ovos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

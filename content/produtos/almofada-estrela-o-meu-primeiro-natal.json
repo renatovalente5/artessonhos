@@ -1,0 +1,24 @@
+{
+  "nome": "Almofada estrela «O meu primeiro Natal»",
+  "nomeCurto": "Almofada estrela «O meu primeiro Natal»",
+  "fotos": [
+    "almofada-estrela-o-meu-primeiro-natal"
+  ],
+  "resumo": "Almofada branca em forma de estrela, com a frase bordada a vermelho.",
+  "descricao": "Almofada branca em forma de estrela, com «o meu primeiro natal» bordado a vermelho e um laço vermelho.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "natal",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 70
+}

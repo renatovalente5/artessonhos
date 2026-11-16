@@ -1,0 +1,30 @@
+{
+  "nome": "Tapa-ovo com girafinha e nome",
+  "nomeCurto": "Tapa-ovo com girafinha e nome",
+  "fotos": [
+    "tapa-ovo-com-girafinha-e-nome"
+  ],
+  "resumo": "Tapa-ovo branco com uma girafinha sentada e o nome.",
+  "descricao": "Tapa-ovo branco com debrum rosa e presilhas para a pega do ovo, com uma girafinha sentada, florinhas e o nome. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "tapa-ovos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 70
+}

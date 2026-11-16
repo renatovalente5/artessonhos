@@ -1,0 +1,29 @@
+{
+  "nome": "Vestido de malha lilás com laços",
+  "nomeCurto": "Vestido de malha lilás com laços",
+  "fotos": [
+    "vestido-de-malha-lilas-com-lacos"
+  ],
+  "resumo": "Vestido de malha lilás com gola de renda, laços e fita a condizer.",
+  "descricao": "Vestido de malha lilás com gola de renda e laços brancos, com fita para o cabelo a condizer. 100% algodão e 100% português.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "3 e 6 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "vestidos-e-fofos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 120
+}

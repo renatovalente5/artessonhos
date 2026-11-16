@@ -1,6 +1,1026 @@
 {
-  "bibe-de-xadrez-com-nome-e-coracao-em-puzzle": {
-    "alt": "Bibe de xadrez com nome e coração em puzzle",
+  "primeira-roupinha-caezinhos-bordados": {
+    "alt": "Primeira roupinha com cãezinhos bordados",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-caezinhos-bordados-2": {
+    "alt": "Primeira roupinha com cãezinhos bordados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-caezinhos-bordados-3": {
+    "alt": "Primeira roupinha com cãezinhos bordados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-caezinhos-bordados-4": {
+    "alt": "Primeira roupinha com cãezinhos bordados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-mobil-de-estrelas": {
+    "alt": "Primeira roupinha com móbil de estrelas",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-mobil-de-estrelas-2": {
+    "alt": "Primeira roupinha com móbil de estrelas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-ursinho-e-patinho": {
+    "alt": "Primeira roupinha com ursinho e patinho",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-ursinho-e-patinho-2": {
+    "alt": "Primeira roupinha com ursinho e patinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-ursinho-e-patinho-3": {
+    "alt": "Primeira roupinha com ursinho e patinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-verde-menta-com-laco": {
+    "alt": "Primeira roupinha verde-menta com laço",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-azul-marinho-com-cao": {
+    "alt": "Primeira roupinha azul-marinho com cão",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-animais-no-carrinho": {
+    "alt": "Primeira roupinha com animais no carrinho",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-animais-no-carrinho-2": {
+    "alt": "Primeira roupinha com animais no carrinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-animais-no-carrinho-3": {
+    "alt": "Primeira roupinha com animais no carrinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-cavalinho-de-baloico": {
+    "alt": "Primeira roupinha com cavalinho de baloiço",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-cavalinho-de-baloico-2": {
+    "alt": "Primeira roupinha com cavalinho de baloiço — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-com-bolsa-a-condizer": {
+    "alt": "Primeira roupinha com bolsa a condizer",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-com-bolsa-a-condizer-2": {
+    "alt": "Primeira roupinha com bolsa a condizer — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-com-bolsa-a-condizer-3": {
+    "alt": "Primeira roupinha com bolsa a condizer — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-com-bolsa-a-condizer-4": {
+    "alt": "Primeira roupinha com bolsa a condizer — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-caezinhos-verde-menta": {
+    "alt": "Primeira roupinha verde-menta com cãezinhos",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-ursinho-rosa": {
+    "alt": "Primeira roupinha rosa com ursinho",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-corca-no-baloico": {
+    "alt": "Primeira roupinha cru com corça no baloiço",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-bordada-com-nome": {
+    "alt": "Primeira roupinha com nome bordado",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-bordada-com-nome-2": {
+    "alt": "Primeira roupinha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-bordada-com-nome-3": {
+    "alt": "Primeira roupinha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "primeira-roupinha-bordada-com-nome-4": {
+    "alt": "Primeira roupinha com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineiras-de-malha-com-coelhinho": {
+    "alt": "Jardineiras de malha com coelhinho",
+    "foco": "50% 50%"
+  },
+  "jardineiras-de-malha-com-coelhinho-2": {
+    "alt": "Jardineiras de malha com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fatinho-com-raposa-de-bicicleta": {
+    "alt": "Fatinho com raposa de bicicleta",
+    "foco": "50% 50%"
+  },
+  "fatinho-com-raposa-de-bicicleta-2": {
+    "alt": "Fatinho com raposa de bicicleta — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fatinho-com-raposa-de-bicicleta-3": {
+    "alt": "Fatinho com raposa de bicicleta — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fralda-e-prende-chucha-com-unicornio": {
+    "alt": "Fralda e prende-chucha com unicórnio",
+    "foco": "50% 50%"
+  },
+  "conjunto-azul-de-saida-de-maternidade": {
+    "alt": "Conjunto azul de saída de maternidade",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-malha-com-gorro": {
+    "alt": "Babygrow de malha com gorro",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-malha-com-gorro-2": {
+    "alt": "Babygrow de malha com gorro — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-azul-bordado-com-coroa": {
+    "alt": "Conjunto azul bordado com coroa e nome",
+    "foco": "50% 50%"
+  },
+  "fraldas-e-tapa-ovo-com-ursinhos": {
+    "alt": "Fraldas e tapa-ovo com ursinhos e nome",
+    "foco": "50% 50%"
+  },
+  "fraldas-e-tapa-ovo-com-ursinhos-2": {
+    "alt": "Fraldas e tapa-ovo com ursinhos e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-body-e-fralda-com-coelhinho": {
+    "alt": "Babygrow, body e fralda com coelhinho",
+    "foco": "50% 50%"
+  },
+  "conjunto-da-girafinha-com-nome": {
+    "alt": "Conjunto da girafinha com nome",
+    "foco": "50% 50%"
+  },
+  "conjunto-da-girafinha-com-nome-2": {
+    "alt": "Conjunto da girafinha com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-da-girafinha-com-nome-3": {
+    "alt": "Conjunto da girafinha com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-malha-rosa-com-fralda-bordada": {
+    "alt": "Conjunto de malha rosa com fralda bordada",
+    "foco": "50% 50%"
+  },
+  "jardineiras-de-malha-com-gorro-de-pompom": {
+    "alt": "Jardineiras de malha com gorro de pompom",
+    "foco": "50% 50%"
+  },
+  "jardineiras-de-malha-com-gorro-de-pompom-2": {
+    "alt": "Jardineiras de malha com gorro de pompom — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineiras-de-malha-com-gorro-de-pompom-3": {
+    "alt": "Jardineiras de malha com gorro de pompom — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineiras-de-malha-com-gorro-de-pompom-4": {
+    "alt": "Jardineiras de malha com gorro de pompom — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineiras-de-malha-com-gorro-de-pompom-5": {
+    "alt": "Jardineiras de malha com gorro de pompom — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineiras-de-malha-com-gorro-de-pompom-6": {
+    "alt": "Jardineiras de malha com gorro de pompom — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "camisola-de-malha-e-calcao": {
+    "alt": "Camisola de malha e calção com gola branca",
+    "foco": "50% 50%"
+  },
+  "camisola-de-malha-e-calcao-2": {
+    "alt": "Camisola de malha e calção com gola branca — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "camisola-de-malha-e-calcao-3": {
+    "alt": "Camisola de malha e calção com gola branca — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fofo-de-natal-escoces-com-suspensorios": {
+    "alt": "Fofo de Natal escocês com suspensórios",
+    "foco": "50% 50%"
+  },
+  "fofo-de-malha-com-laco-de-cetim": {
+    "alt": "Fofo de malha com laço de cetim",
+    "foco": "50% 50%"
+  },
+  "fofo-de-malha-com-laco-de-cetim-2": {
+    "alt": "Fofo de malha com laço de cetim — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineira-de-ganga-com-t-shirt-de-animais": {
+    "alt": "Jardineira de ganga com t-shirt de animais",
+    "foco": "50% 50%"
+  },
+  "jardineira-de-ganga-com-t-shirt-de-animais-2": {
+    "alt": "Jardineira de ganga com t-shirt de animais — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineira-de-ganga-com-t-shirt-de-animais-3": {
+    "alt": "Jardineira de ganga com t-shirt de animais — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineira-de-ganga-com-t-shirt-de-animais-4": {
+    "alt": "Jardineira de ganga com t-shirt de animais — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fofo-de-natal-com-saia-escocesa": {
+    "alt": "Fofo de Natal com saia escocesa",
+    "foco": "50% 50%"
+  },
+  "fofo-de-natal-com-saia-escocesa-2": {
+    "alt": "Fofo de Natal com saia escocesa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fofo-de-natal-com-saia-escocesa-3": {
+    "alt": "Fofo de Natal com saia escocesa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fofo-de-natal-com-saia-escocesa-4": {
+    "alt": "Fofo de Natal com saia escocesa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fofo-escoces-com-lacos-de-veludo": {
+    "alt": "Fofo escocês com laços de veludo verde",
+    "foco": "50% 50%"
+  },
+  "calcao-com-suspensorios-e-camisa-branca": {
+    "alt": "Calção com suspensórios e camisa branca",
+    "foco": "50% 50%"
+  },
+  "calcao-com-suspensorios-e-camisa-branca-2": {
+    "alt": "Calção com suspensórios e camisa branca — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "calcao-as-riscas-com-camisa-e-gravata": {
+    "alt": "Calção às riscas com camisa e gravata",
+    "foco": "50% 50%"
+  },
+  "calcao-as-riscas-com-camisa-e-gravata-2": {
+    "alt": "Calção às riscas com camisa e gravata — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "calcao-com-suspensorios-e-laco": {
+    "alt": "Calção com suspensórios e laço",
+    "foco": "50% 50%"
+  },
+  "calcao-com-suspensorios-e-laco-2": {
+    "alt": "Calção com suspensórios e laço — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "calcao-azul-com-suspensorios-e-camisa": {
+    "alt": "Calção azul com suspensórios e camisa",
+    "foco": "50% 50%"
+  },
+  "calcao-azul-com-suspensorios-e-camisa-2": {
+    "alt": "Calção azul com suspensórios e camisa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "calcao-azul-com-suspensorios-e-camisa-3": {
+    "alt": "Calção azul com suspensórios e camisa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "vestido-de-malha-com-tapa-fralda": {
+    "alt": "Vestido de malha com tapa-fralda",
+    "foco": "50% 50%"
+  },
+  "vestido-de-malha-com-tapa-fralda-2": {
+    "alt": "Vestido de malha com tapa-fralda — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "vestido-verde-com-favos-e-leggings": {
+    "alt": "Vestido verde com favos e leggings",
+    "foco": "50% 50%"
+  },
+  "vestido-de-malha-lilas-com-lacos": {
+    "alt": "Vestido de malha lilás com laços",
+    "foco": "50% 50%"
+  },
+  "babygrow-branco-com-frase-da-tia": {
+    "alt": "Babygrow branco com frase da tia",
+    "foco": "50% 50%"
+  },
+  "babygrow-body-e-calcas-com-coelhinho": {
+    "alt": "Babygrow, body e calças com coelhinho",
+    "foco": "50% 50%"
+  },
+  "babygrow-body-e-calcas-com-coelhinho-2": {
+    "alt": "Babygrow, body e calças com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-body-e-calcas-com-coelhinho-3": {
+    "alt": "Babygrow, body e calças com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-body-e-calcas-com-coelhinho-4": {
+    "alt": "Babygrow, body e calças com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-branco-com-girafinha": {
+    "alt": "Babygrow branco com girafinha",
+    "foco": "50% 50%"
+  },
+  "babygrow-branco-com-girafinha-2": {
+    "alt": "Babygrow branco com girafinha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-pipoca-com-ursinho-pintado": {
+    "alt": "Babygrow pipoca com ursinho pintado",
+    "foco": "50% 50%"
+  },
+  "babygrow-pipoca-rosa-com-ursinho": {
+    "alt": "Babygrow pipoca rosa com ursinho",
+    "foco": "50% 50%"
+  },
+  "jardineiras-com-ursinho-de-coroa": {
+    "alt": "Jardineiras com ursinho de coroa",
+    "foco": "50% 50%"
+  },
+  "jardineiras-com-ursinho-de-coroa-2": {
+    "alt": "Jardineiras com ursinho de coroa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "jardineiras-com-ursinho-de-coroa-3": {
+    "alt": "Jardineiras com ursinho de coroa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-rosa-com-estrelas-e-folho": {
+    "alt": "Babygrow rosa com estrelas e folho",
+    "foco": "50% 50%"
+  },
+  "babygrow-rosa-com-estrelas-e-folho-2": {
+    "alt": "Babygrow rosa com estrelas e folho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-malha-rosa-com-gorro": {
+    "alt": "Babygrow de malha rosa com gorro",
+    "foco": "50% 50%"
+  },
+  "botinhas-de-natal": {
+    "alt": "Botinhas de Natal com Pai Natal e rena",
+    "foco": "50% 50%"
+  },
+  "botinhas-de-malha-com-botao": {
+    "alt": "Botinhas de malha com botão",
+    "foco": "50% 50%"
+  },
+  "casaco-quentinho-com-carapuco-de-orelhas": {
+    "alt": "Casaco quentinho com carapuço de orelhas",
+    "foco": "50% 50%"
+  },
+  "casaco-quentinho-com-carapuco-de-orelhas-2": {
+    "alt": "Casaco quentinho com carapuço de orelhas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-quentinho-com-carapuco-de-orelhas-3": {
+    "alt": "Casaco quentinho com carapuço de orelhas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-quentinho-com-carapuco-de-orelhas-4": {
+    "alt": "Casaco quentinho com carapuço de orelhas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-quentinho-com-carapuco-de-orelhas-5": {
+    "alt": "Casaco quentinho com carapuço de orelhas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-debrum-dourado": {
+    "alt": "Casaco de malha com debrum dourado",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-debrum-dourado-2": {
+    "alt": "Casaco de malha com debrum dourado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-debrum-dourado-3": {
+    "alt": "Casaco de malha com debrum dourado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-debrum-dourado-4": {
+    "alt": "Casaco de malha com debrum dourado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-debrum-dourado-5": {
+    "alt": "Casaco de malha com debrum dourado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-gorro-e-luvas": {
+    "alt": "Casaco de malha com gorro e luvas",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-gorro-e-luvas-2": {
+    "alt": "Casaco de malha com gorro e luvas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-gorro-e-luvas-3": {
+    "alt": "Casaco de malha com gorro e luvas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-gorro-e-luvas-4": {
+    "alt": "Casaco de malha com gorro e luvas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-gorro-e-luvas-5": {
+    "alt": "Casaco de malha com gorro e luvas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "casaco-de-malha-com-gorro-e-luvas-6": {
+    "alt": "Casaco de malha com gorro e luvas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "botinhas-de-malha-com-laco": {
+    "alt": "Botinhas de malha com laço",
+    "foco": "50% 50%"
+  },
+  "gorros-de-malha-com-pompom": {
+    "alt": "Gorros de malha com pompom",
+    "foco": "50% 50%"
+  },
+  "sapatinhos-de-inverno-com-laco": {
+    "alt": "Sapatinhos de inverno com laço",
+    "foco": "50% 50%"
+  },
+  "sapatilhas-pipoca": {
+    "alt": "Sapatilhas pipoca",
+    "foco": "50% 50%"
+  },
+  "sapatinhos-com-laco-de-cetim": {
+    "alt": "Sapatinhos com laço de cetim",
+    "foco": "50% 50%"
+  },
+  "sapatinhos-com-laco-de-cetim-2": {
+    "alt": "Sapatinhos com laço de cetim — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "sapatinhos-com-laco-de-cetim-3": {
+    "alt": "Sapatinhos com laço de cetim — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "sapatinhos-com-laco-de-cetim-4": {
+    "alt": "Sapatinhos com laço de cetim — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "carneirinhas-azul-escuras": {
+    "alt": "Carneirinhas azul-escuras",
+    "foco": "50% 50%"
+  },
+  "botinhas-de-malha-entrancada": {
+    "alt": "Botinhas de malha entrançada com laço",
+    "foco": "50% 50%"
+  },
+  "botinhas-de-malha-entrancada-2": {
+    "alt": "Botinhas de malha entrançada com laço — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "botinhas-de-malha-entrancada-3": {
+    "alt": "Botinhas de malha entrançada com laço — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "chapeu-de-palha-com-renda-e-laco": {
+    "alt": "Chapéu de palha com renda e laço",
+    "foco": "50% 50%"
+  },
+  "prende-chucha-com-nome": {
+    "alt": "Prende-chucha com nome",
+    "foco": "50% 50%"
+  },
+  "prende-chucha-com-nome-2": {
+    "alt": "Prende-chucha com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "prende-chucha-com-nome-3": {
+    "alt": "Prende-chucha com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "prende-chucha-com-nome-4": {
+    "alt": "Prende-chucha com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "prende-chucha-com-bolsinha": {
+    "alt": "Prende-chucha com bolsinha para a chucha",
+    "foco": "50% 50%"
+  },
+  "prende-chucha-com-bolsinha-2": {
+    "alt": "Prende-chucha com bolsinha para a chucha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "prende-chucha-com-bolsinha-3": {
+    "alt": "Prende-chucha com bolsinha para a chucha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "prende-chucha-com-bolsinha-4": {
+    "alt": "Prende-chucha com bolsinha para a chucha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "estrela-de-peluche-com-coelhinho": {
+    "alt": "Estrela de peluche com coelhinho",
+    "foco": "50% 50%"
+  },
+  "estrela-de-peluche-com-coelhinho-2": {
+    "alt": "Estrela de peluche com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "estrela-de-peluche-com-coelhinho-3": {
+    "alt": "Estrela de peluche com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "cesto-de-utensilios-com-pandas": {
+    "alt": "Cesto de utensílios com pandas e nome",
+    "foco": "50% 50%"
+  },
+  "cesto-de-utensilios-com-pandas-2": {
+    "alt": "Cesto de utensílios com pandas e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "cesto-de-utensilios-com-pandas-3": {
+    "alt": "Cesto de utensílios com pandas e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolsa-preta-com-coroa-dourada": {
+    "alt": "Bolsa preta com coroa dourada e nome",
+    "foco": "50% 50%"
+  },
+  "bolsa-preta-com-coroa-dourada-2": {
+    "alt": "Bolsa preta com coroa dourada e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "meias-ate-ao-joelho-com-lacinho": {
+    "alt": "Meias até ao joelho com lacinho",
+    "foco": "50% 50%"
+  },
+  "caixa-de-meias-com-7-pares": {
+    "alt": "Caixa de meias de bebé com 7 pares",
+    "foco": "50% 50%"
+  },
+  "caixa-de-meias-com-7-pares-2": {
+    "alt": "Caixa de meias de bebé com 7 pares — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "turbantes-de-bebe": {
+    "alt": "Turbantes de bebé com nó ou flor",
+    "foco": "50% 50%"
+  },
+  "turbantes-de-bebe-2": {
+    "alt": "Turbantes de bebé com nó ou flor — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolsa-com-desenho-e-nome": {
+    "alt": "Bolsa de tecido com desenho e nome",
+    "foco": "50% 50%"
+  },
+  "bolsa-com-desenho-e-nome-2": {
+    "alt": "Bolsa de tecido com desenho e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "lacos-para-o-cabelo": {
+    "alt": "Laços para o cabelo",
+    "foco": "50% 50%"
+  },
+  "cesto-de-utensilios-lilas-com-girafinha": {
+    "alt": "Cesto de utensílios lilás com girafinha",
+    "foco": "50% 50%"
+  },
+  "cesto-de-utensilios-lilas-com-girafinha-2": {
+    "alt": "Cesto de utensílios lilás com girafinha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "cesto-de-utensilios-lilas-com-girafinha-3": {
+    "alt": "Cesto de utensílios lilás com girafinha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fronha-cinzenta-com-nome-bordado": {
+    "alt": "Fronha cinzenta com nome bordado",
+    "foco": "50% 50%"
+  },
+  "ninho-tranca-e-almofadas-com-animais": {
+    "alt": "Ninho, trança e almofadas com animais",
+    "foco": "50% 50%"
+  },
+  "ninho-tranca-e-almofadas-com-animais-2": {
+    "alt": "Ninho, trança e almofadas com animais — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "ninho-tranca-e-almofadas-com-animais-3": {
+    "alt": "Ninho, trança e almofadas com animais — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "ninho-tranca-e-almofadas-com-animais-4": {
+    "alt": "Ninho, trança e almofadas com animais — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "lencois-com-ursinho-e-nome-bordado": {
+    "alt": "Lençóis com ursinho e nome bordado",
+    "foco": "50% 50%"
+  },
+  "lencois-com-ursinho-e-nome-bordado-2": {
+    "alt": "Lençóis com ursinho e nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "edredao-com-ursinhos-ou-gatinho": {
+    "alt": "Edredão com ursinhos ou gatinho aplicados",
+    "foco": "50% 50%"
+  },
+  "edredao-com-ursinhos-ou-gatinho-2": {
+    "alt": "Edredão com ursinhos ou gatinho aplicados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "edredao-com-ursinhos-ou-gatinho-3": {
+    "alt": "Edredão com ursinhos ou gatinho aplicados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "edredao-com-ursinhos-ou-gatinho-4": {
+    "alt": "Edredão com ursinhos ou gatinho aplicados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "edredao-com-coelhinho-num-cesto": {
+    "alt": "Edredão com coelhinho num cesto",
+    "foco": "50% 50%"
+  },
+  "edredao-com-animais-num-carro": {
+    "alt": "Edredão com animais num carro antigo",
+    "foco": "50% 50%"
+  },
+  "lencois-com-comboio-de-animais": {
+    "alt": "Lençóis com comboio de animais bordado",
+    "foco": "50% 50%"
+  },
+  "lencois-com-ursinho-e-coracao": {
+    "alt": "Lençóis com ursinho e coração bordados",
+    "foco": "50% 50%"
+  },
+  "cobertor-creme-com-ursinho": {
+    "alt": "Cobertor creme com ursinho",
+    "foco": "50% 50%"
+  },
+  "almofada-de-amamentacao": {
+    "alt": "Almofada de amamentação",
+    "foco": "50% 50%"
+  },
+  "almofada-de-amamentacao-2": {
+    "alt": "Almofada de amamentação — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "ninho-rosa-as-estrelas-com-almofada": {
+    "alt": "Ninho rosa às estrelas com almofada",
+    "foco": "50% 50%"
+  },
+  "ninho-rosa-as-estrelas-com-almofada-2": {
+    "alt": "Ninho rosa às estrelas com almofada — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "ninho-de-laco": {
+    "alt": "Ninho de laço cinzento ou rosa",
+    "foco": "50% 50%"
+  },
+  "ninho-de-laco-2": {
+    "alt": "Ninho de laço cinzento ou rosa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "ninho-de-laco-3": {
+    "alt": "Ninho de laço cinzento ou rosa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "ninho-de-laco-4": {
+    "alt": "Ninho de laço cinzento ou rosa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-com-ursinho-e-baloes": {
+    "alt": "Manta com ursinho e balões",
+    "foco": "50% 50%"
+  },
+  "manta-com-coelhinho-aplicado": {
+    "alt": "Manta com coelhinho aplicado",
+    "foco": "50% 50%"
+  },
+  "manta-com-coelhinho-aplicado-2": {
+    "alt": "Manta com coelhinho aplicado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-com-coelhinho-aplicado-3": {
+    "alt": "Manta com coelhinho aplicado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-com-coelhinho-aplicado-4": {
+    "alt": "Manta com coelhinho aplicado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-bolinhas-com-ursinho-em-espiral": {
+    "alt": "Manta de bolinhas com ursinho em espiral",
+    "foco": "50% 50%"
+  },
+  "manta-de-bolinhas-com-ursinho-em-espiral-2": {
+    "alt": "Manta de bolinhas com ursinho em espiral — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-bolinhas-com-ursinho-em-espiral-3": {
+    "alt": "Manta de bolinhas com ursinho em espiral — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-de-bolinhas-com-ursinho-em-espiral-4": {
+    "alt": "Manta de bolinhas com ursinho em espiral — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-polar-com-folho-de-renda": {
+    "alt": "Manta polar com folho de renda e laço",
+    "foco": "50% 50%"
+  },
+  "manta-polar-com-folho-de-renda-2": {
+    "alt": "Manta polar com folho de renda e laço — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-com-ursinho-e-rebucado": {
+    "alt": "Manta com ursinho e rebuçado",
+    "foco": "50% 50%"
+  },
+  "manta-com-caozinho-e-coroinhas": {
+    "alt": "Manta com cãozinho e coroinhas bordadas",
+    "foco": "50% 50%"
+  },
+  "manta-com-caozinho-e-coroinhas-2": {
+    "alt": "Manta com cãozinho e coroinhas bordadas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-com-capuz-e-brasao-bordado": {
+    "alt": "Manta com capuz e brasão bordado",
+    "foco": "50% 50%"
+  },
+  "manta-com-capuz-e-brasao-bordado-2": {
+    "alt": "Manta com capuz e brasão bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-com-capuz-e-brasao-bordado-3": {
+    "alt": "Manta com capuz e brasão bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-com-capuz-e-brasao-bordado-4": {
+    "alt": "Manta com capuz e brasão bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "manta-creme-com-ursinho-de-laco": {
+    "alt": "Manta creme com ursinho de laço",
+    "foco": "50% 50%"
+  },
+  "manta-com-ursinho-brincalhao": {
+    "alt": "Manta com ursinho brincalhão",
+    "foco": "50% 50%"
+  },
+  "manta-com-ursinho-brincalhao-2": {
+    "alt": "Manta com ursinho brincalhão — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho": {
+    "alt": "Saco para o ovo com ursinho",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho-2": {
+    "alt": "Saco para o ovo com ursinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho-3": {
+    "alt": "Saco para o ovo com ursinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho-4": {
+    "alt": "Saco para o ovo com ursinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho-5": {
+    "alt": "Saco para o ovo com ursinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho-6": {
+    "alt": "Saco para o ovo com ursinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "forra-para-o-ovo-animais-da-selva": {
+    "alt": "Forra para o ovo com animais da selva",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho-a-dormir": {
+    "alt": "Saco para o ovo com ursinho a dormir",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho-a-dormir-2": {
+    "alt": "Saco para o ovo com ursinho a dormir — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-para-o-ovo-com-ursinho-a-dormir-3": {
+    "alt": "Saco para o ovo com ursinho a dormir — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "forra-de-ovo-e-alcofa-luas-e-estrelas": {
+    "alt": "Forra de ovo e alcofa com luas e estrelas",
+    "foco": "50% 50%"
+  },
+  "forra-de-ovo-e-alcofa-luas-e-estrelas-2": {
+    "alt": "Forra de ovo e alcofa com luas e estrelas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "forra-de-ovo-e-alcofa-luas-e-estrelas-3": {
+    "alt": "Forra de ovo e alcofa com luas e estrelas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "forra-de-ovo-e-alcofa-luas-e-estrelas-4": {
+    "alt": "Forra de ovo e alcofa com luas e estrelas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "forra-de-ovo-e-alcofa-luas-e-estrelas-5": {
+    "alt": "Forra de ovo e alcofa com luas e estrelas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-manta-e-fralda-ursinho-de-gorro": {
+    "alt": "Toalha, manta e fralda com ursinho de gorro",
+    "foco": "50% 50%"
+  },
+  "toalha-manta-e-fralda-ursinho-de-gorro-2": {
+    "alt": "Toalha, manta e fralda com ursinho de gorro — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-manta-e-fralda-ursinho-de-gorro-3": {
+    "alt": "Toalha, manta e fralda com ursinho de gorro — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-manta-e-fralda-ursinho-de-gorro-4": {
+    "alt": "Toalha, manta e fralda com ursinho de gorro — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-manta-e-fralda-ursinho-de-gorro-5": {
+    "alt": "Toalha, manta e fralda com ursinho de gorro — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-de-banho-com-girafinha": {
+    "alt": "Toalha de banho com girafinha",
+    "foco": "50% 50%"
+  },
+  "toalha-de-banho-com-girafinha-2": {
+    "alt": "Toalha de banho com girafinha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-de-banho-com-girafinha-3": {
+    "alt": "Toalha de banho com girafinha — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-de-banho-com-ursinho-e-baloes": {
+    "alt": "Toalha de banho com ursinho e balões",
+    "foco": "50% 50%"
+  },
+  "toalha-com-renda-e-nome-pintado": {
+    "alt": "Toalha com renda e nome pintado",
+    "foco": "50% 50%"
+  },
+  "toalha-e-fralda-coelhinhos-na-nuvem": {
+    "alt": "Toalha e fralda com coelhinhos na nuvem",
+    "foco": "50% 50%"
+  },
+  "toalha-e-fralda-coelhinhos-na-nuvem-2": {
+    "alt": "Toalha e fralda com coelhinhos na nuvem — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-e-fralda-coelhinhos-na-nuvem-3": {
+    "alt": "Toalha e fralda com coelhinhos na nuvem — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-e-fralda-coelhinhos-na-nuvem-4": {
+    "alt": "Toalha e fralda com coelhinhos na nuvem — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-de-banho-com-pinguim": {
+    "alt": "Toalha de banho com pinguim de cachecol",
+    "foco": "50% 50%"
+  },
+  "toalha-de-banho-com-ursinho-de-coroa": {
+    "alt": "Toalha de banho com ursinho de coroa",
+    "foco": "50% 50%"
+  },
+  "toalha-de-banho-com-ursinho-de-coroa-2": {
+    "alt": "Toalha de banho com ursinho de coroa — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "toalha-de-banho-com-brasao-bordado": {
+    "alt": "Toalha de banho com brasão bordado",
+    "foco": "50% 50%"
+  },
+  "mochila-com-unicornio-e-nome": {
+    "alt": "Mochila com unicórnio e nome",
+    "foco": "50% 50%"
+  },
+  "mochila-acolchoada-com-nome-bordado": {
+    "alt": "Mochila acolchoada com nome bordado",
+    "foco": "50% 50%"
+  },
+  "mochila-acolchoada-com-nome-bordado-2": {
+    "alt": "Mochila acolchoada com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "mochila-acolchoada-com-nome-bordado-3": {
+    "alt": "Mochila acolchoada com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "mochila-acolchoada-com-nome-bordado-4": {
+    "alt": "Mochila acolchoada com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "mochila-acolchoada-com-nome-bordado-5": {
+    "alt": "Mochila acolchoada com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "porta-documentos-com-nome-e-pompons": {
+    "alt": "Porta-documentos com nome e pompons",
+    "foco": "50% 50%"
+  },
+  "porta-documentos-com-nome-bordado": {
+    "alt": "Porta-documentos com nome bordado",
+    "foco": "50% 50%"
+  },
+  "porta-documentos-com-nome-bordado-2": {
+    "alt": "Porta-documentos com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "porta-documentos-com-nome-bordado-3": {
+    "alt": "Porta-documentos com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "porta-documentos-com-nome-bordado-4": {
+    "alt": "Porta-documentos com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "mochila-com-maquinas-e-nome": {
+    "alt": "Mochila com máquinas e nome bordado",
+    "foco": "50% 50%"
+  },
+  "porta-documentos-com-renda-e-nome": {
+    "alt": "Porta-documentos com renda e nome bordado",
+    "foco": "50% 50%"
+  },
+  "porta-documentos-com-desenho-e-nome": {
+    "alt": "Porta-documentos com desenho e nome",
+    "foco": "50% 50%"
+  },
+  "porta-documentos-com-desenho-e-nome-2": {
+    "alt": "Porta-documentos com desenho e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "saco-de-maternidade-com-tranca": {
+    "alt": "Saco de maternidade com trança",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-maternidade-com-coelhinho": {
+    "alt": "Conjunto de maternidade com coelhinho",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-maternidade-com-coelhinho-2": {
+    "alt": "Conjunto de maternidade com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-maternidade-com-coelhinho-3": {
+    "alt": "Conjunto de maternidade com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-maternidade-com-coelhinho-4": {
+    "alt": "Conjunto de maternidade com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-maternidade-com-coelhinho-5": {
+    "alt": "Conjunto de maternidade com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-maternidade-com-coelhinho-6": {
+    "alt": "Conjunto de maternidade com coelhinho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolsas-primeira-roupinha-e-documentos": {
+    "alt": "Bolsas para a 1.ª roupinha e os documentos",
+    "foco": "50% 50%"
+  },
+  "bolsas-primeira-roupinha-e-documentos-2": {
+    "alt": "Bolsas para a 1.ª roupinha e os documentos — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "muda-fraldas-com-elefante-bebe": {
+    "alt": "Muda-fraldas com elefante bebé",
+    "foco": "50% 50%"
+  },
+  "saco-de-maternidade-com-coroa-e-nome": {
+    "alt": "Saco de maternidade com coroa e nome",
+    "foco": "50% 50%"
+  },
+  "saco-de-maternidade-com-coroa-e-nome-2": {
+    "alt": "Saco de maternidade com coroa e nome — outra fotografia",
     "foco": "50% 50%"
   },
   "bibe-as-bolinhas-com-nome-bordado": {
@@ -199,18 +1219,6 @@
     "alt": "Fraldinhas do Anjo da Guarda",
     "foco": "50% 50%"
   },
-  "fralda-e-babete-do-pinguim": {
-    "alt": "Fralda e babete do pinguim",
-    "foco": "50% 50%"
-  },
-  "fralda-e-babete-do-pinguim-2": {
-    "alt": "Fralda e babete do pinguim — outra fotografia",
-    "foco": "50% 50%"
-  },
-  "fralda-e-babete-do-pinguim-3": {
-    "alt": "Fralda e babete do pinguim — outra fotografia",
-    "foco": "50% 50%"
-  },
   "conjunto-de-fralda-e-babete-estampados": {
     "alt": "Conjunto de fralda e babete estampados",
     "foco": "50% 50%"
@@ -229,6 +1237,18 @@
   },
   "conjunto-de-fralda-e-babete-estampados-5": {
     "alt": "Conjunto de fralda e babete estampados — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-pinguim": {
+    "alt": "Fralda e babete do pinguim",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-pinguim-2": {
+    "alt": "Fralda e babete do pinguim — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "fralda-e-babete-do-pinguim-3": {
+    "alt": "Fralda e babete do pinguim — outra fotografia",
     "foco": "50% 50%"
   },
   "body-anuncio-prepara-o-teu-colinho": {
@@ -261,6 +1281,126 @@
   },
   "body-feito-com-amor-para-a-tia": {
     "alt": "Body «Feito com amor» para a tia",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-as-riscas-com-laco-e-ursinho": {
+    "alt": "Tapa-ovo às riscas com laço e ursinho",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-ursinho-baloes-e-nome": {
+    "alt": "Tapa-ovo com ursinho, balões e nome",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-tartaruga-e-flores": {
+    "alt": "Tapa-ovo com tartaruga e flores",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-elefantinho-e-nome": {
+    "alt": "Tapa-ovo com elefantinho e nome",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-abelhinha-numa-nuvem": {
+    "alt": "Tapa-ovo com abelhinha numa nuvem",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-artesanal-com-laco": {
+    "alt": "Tapa-ovo artesanal com laço",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-artesanal-com-laco-2": {
+    "alt": "Tapa-ovo artesanal com laço — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-artesanal-com-laco-3": {
+    "alt": "Tapa-ovo artesanal com laço — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-girafinha-e-nome": {
+    "alt": "Tapa-ovo com girafinha e nome",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-dragaozinho-e-nome": {
+    "alt": "Tapa-ovo com dragãozinho e nome",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-animais-empilhados": {
+    "alt": "Tapa-ovo com animais empilhados",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-de-janela-com-coelhinho": {
+    "alt": "Tapa-ovo de janela com coelhinho",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-bordado-com-ursinho-e-nome": {
+    "alt": "Tapa-ovo bordado com ursinho e nome",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-bordado-com-ursinho-e-nome-2": {
+    "alt": "Tapa-ovo bordado com ursinho e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-bordado-com-ursinho-e-nome-3": {
+    "alt": "Tapa-ovo bordado com ursinho e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-orelhas-de-coelho-bordadas": {
+    "alt": "Tapa-ovo com orelhas de coelho bordadas",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-orelhas-de-coelho-bordadas-2": {
+    "alt": "Tapa-ovo com orelhas de coelho bordadas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-orelhas-de-coelho-bordadas-3": {
+    "alt": "Tapa-ovo com orelhas de coelho bordadas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "tapa-ovo-com-orelhas-de-coelho-bordadas-4": {
+    "alt": "Tapa-ovo com orelhas de coelho bordadas — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-manta-de-malha-e-doudou": {
+    "alt": "Conjunto de manta de malha e doudou",
+    "foco": "50% 50%"
+  },
+  "conjunto-de-manta-de-malha-e-doudou-2": {
+    "alt": "Conjunto de manta de malha e doudou — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "doudou-ursinho-e-prende-chupeta-com-nome": {
+    "alt": "Doudou ursinho e prende-chupeta com nome",
+    "foco": "50% 50%"
+  },
+  "doudou-ursinho-com-nome-bordado": {
+    "alt": "Doudou ursinho com nome bordado",
+    "foco": "50% 50%"
+  },
+  "doudou-ursinho-com-nome-bordado-2": {
+    "alt": "Doudou ursinho com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "doudou-ursinho-com-nome-bordado-3": {
+    "alt": "Doudou ursinho com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "doudou-ursinho-com-nome-bordado-4": {
+    "alt": "Doudou ursinho com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "doudou-ursinho-com-nome-bordado-5": {
+    "alt": "Doudou ursinho com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "doudou-ursinho-com-nome-bordado-6": {
+    "alt": "Doudou ursinho com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "doudou-ursinho-com-nome-bordado-7": {
+    "alt": "Doudou ursinho com nome bordado — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "doudou-coelhinho-com-nome-bordado": {
+    "alt": "Doudou coelhinho com nome bordado",
     "foco": "50% 50%"
   },
   "manta-de-malha-com-nome-bordado": {
@@ -439,6 +1579,50 @@
     "alt": "Almofada verde com arco-íris e nome",
     "foco": "50% 50%"
   },
+  "bola-o-meu-natal-no-forninho-da-mama": {
+    "alt": "Bola «O meu Natal no forninho da mamã»",
+    "foco": "50% 50%"
+  },
+  "bola-o-meu-natal-no-forninho-da-mama-2": {
+    "alt": "Bola «O meu Natal no forninho da mamã» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "enfeite-o-meu-1-natal-com-nome": {
+    "alt": "Enfeite «O meu 1.º Natal» com nome",
+    "foco": "50% 50%"
+  },
+  "enfeite-o-meu-1-natal-com-nome-2": {
+    "alt": "Enfeite «O meu 1.º Natal» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "patinha-de-natal-com-o-nome-do-animal": {
+    "alt": "Patinha de Natal com o nome do animal",
+    "foco": "50% 50%"
+  },
+  "bola-de-natal-para-casais-com-nomes": {
+    "alt": "Bola de Natal para casais com nomes",
+    "foco": "50% 50%"
+  },
+  "coroa-de-natal-com-nome": {
+    "alt": "Coroa de Natal com nome",
+    "foco": "50% 50%"
+  },
+  "bola-de-natal-com-fotografia-gravada": {
+    "alt": "Bola de Natal com fotografia gravada",
+    "foco": "50% 50%"
+  },
+  "caixa-de-recordacoes-do-bebe": {
+    "alt": "Caixa de recordações do bebé",
+    "foco": "50% 50%"
+  },
+  "caixa-de-recordacoes-do-bebe-2": {
+    "alt": "Caixa de recordações do bebé — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "caixa-de-recordacoes-do-bebe-3": {
+    "alt": "Caixa de recordações do bebé — outra fotografia",
+    "foco": "50% 50%"
+  },
   "pantufas-de-casal-k-e-q-com-coroa": {
     "alt": "Pantufas de casal «K» e «Q» com coroa",
     "foco": "50% 50%"
@@ -493,6 +1677,202 @@
   },
   "mini-presepio-com-animais-2": {
     "alt": "Mini presépio com animais — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolinha-o-meu-primeiro-natal-com-nome": {
+    "alt": "Bolinha «O meu 1.º Natal» com nome",
+    "foco": "50% 50%"
+  },
+  "bolinha-o-meu-primeiro-natal-com-nome-2": {
+    "alt": "Bolinha «O meu 1.º Natal» com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-em-madeira-com-nome": {
+    "alt": "Bolinha de Natal em madeira com nome",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-em-madeira-com-nome-2": {
+    "alt": "Bolinha de Natal em madeira com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-em-madeira-com-nome-3": {
+    "alt": "Bolinha de Natal em madeira com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-em-madeira-com-nome-4": {
+    "alt": "Bolinha de Natal em madeira com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-em-madeira-com-nome-5": {
+    "alt": "Bolinha de Natal em madeira com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-em-madeira-com-nome-6": {
+    "alt": "Bolinha de Natal em madeira com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "estrelinha-de-natal-com-nome": {
+    "alt": "Estrelinha de Natal em madeira com nome",
+    "foco": "50% 50%"
+  },
+  "estrelinha-de-natal-com-nome-2": {
+    "alt": "Estrelinha de Natal em madeira com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-natal-com-nome-e-desenho": {
+    "alt": "Babygrow de Natal com nome e desenho",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-natal-com-nome-e-desenho-2": {
+    "alt": "Babygrow de Natal com nome e desenho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-natal-com-nome-e-desenho-3": {
+    "alt": "Babygrow de Natal com nome e desenho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-natal-com-nome-e-desenho-4": {
+    "alt": "Babygrow de Natal com nome e desenho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-natal-com-nome-e-desenho-5": {
+    "alt": "Babygrow de Natal com nome e desenho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-de-natal-com-nome-e-desenho-6": {
+    "alt": "Babygrow de Natal com nome e desenho — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "presepio-em-azulejo-com-iman": {
+    "alt": "Presépio em azulejo com íman",
+    "foco": "50% 50%"
+  },
+  "presepio-em-azulejo-com-iman-2": {
+    "alt": "Presépio em azulejo com íman — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-para-anunciar-o-bebe": {
+    "alt": "Bolinha de Natal para anunciar o bebé",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-para-anunciar-o-bebe-2": {
+    "alt": "Bolinha de Natal para anunciar o bebé — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "bolinha-de-natal-para-anunciar-o-bebe-3": {
+    "alt": "Bolinha de Natal para anunciar o bebé — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "almofada-estrela-o-meu-primeiro-natal": {
+    "alt": "Almofada estrela «O meu primeiro Natal»",
+    "foco": "50% 50%"
+  },
+  "caneca-de-natal-com-inicial-e-nome": {
+    "alt": "Caneca de Natal com inicial e nome",
+    "foco": "50% 50%"
+  },
+  "camisolas-de-natal-para-a-familia": {
+    "alt": "Camisolas de Natal para a família",
+    "foco": "50% 50%"
+  },
+  "camisolas-de-natal-para-a-familia-2": {
+    "alt": "Camisolas de Natal para a família — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-do-primeiro-natal-com-nome": {
+    "alt": "Conjunto do primeiro Natal com nome",
+    "foco": "50% 50%"
+  },
+  "conjunto-do-primeiro-natal-com-nome-2": {
+    "alt": "Conjunto do primeiro Natal com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-do-primeiro-natal-com-nome-3": {
+    "alt": "Conjunto do primeiro Natal com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-do-primeiro-natal-com-nome-4": {
+    "alt": "Conjunto do primeiro Natal com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-do-primeiro-natal-com-nome-5": {
+    "alt": "Conjunto do primeiro Natal com nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-ou-body-bordado-do-primeiro-natal": {
+    "alt": "Babygrow ou body bordado do primeiro Natal",
+    "foco": "50% 50%"
+  },
+  "babygrow-ou-body-bordado-do-primeiro-natal-2": {
+    "alt": "Babygrow ou body bordado do primeiro Natal — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "babygrow-ou-body-bordado-do-primeiro-natal-3": {
+    "alt": "Babygrow ou body bordado do primeiro Natal — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "lembranca-de-natal-para-educadoras": {
+    "alt": "Lembrança de Natal para educadoras",
+    "foco": "50% 50%"
+  },
+  "lembranca-de-natal-para-educadoras-2": {
+    "alt": "Lembrança de Natal para educadoras — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "cartao-de-natal-com-presepio": {
+    "alt": "Cartão de Natal com presépio",
+    "foco": "50% 50%"
+  },
+  "estrelinha-de-recordacao": {
+    "alt": "Estrelinha de recordação para a árvore",
+    "foco": "50% 50%"
+  },
+  "estrelinha-de-recordacao-2": {
+    "alt": "Estrelinha de recordação para a árvore — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "presepio-em-biscuit": {
+    "alt": "Presépio em biscuit",
+    "foco": "50% 50%"
+  },
+  "presepio-em-biscuit-2": {
+    "alt": "Presépio em biscuit — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "placa-de-madeira-com-presepio-e-votos": {
+    "alt": "Placa de madeira com presépio e votos",
+    "foco": "50% 50%"
+  },
+  "placa-de-madeira-com-presepio-e-votos-2": {
+    "alt": "Placa de madeira com presépio e votos — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "conjunto-o-nosso-primeiro-dia-do-pai": {
+    "alt": "Conjunto «O nosso primeiro Dia do Pai»",
+    "foco": "50% 50%"
+  },
+  "conjunto-pai-e-bebe-copy-paste": {
+    "alt": "Conjunto pai e bebé «Copy» e «Paste»",
+    "foco": "50% 50%"
+  },
+  "t-shirt-o-nosso-pai-nao-tem-preco": {
+    "alt": "T-shirt «O nosso pai não tem preço»",
+    "foco": "50% 50%"
+  },
+  "t-shirt-o-nosso-pai-nao-tem-preco-2": {
+    "alt": "T-shirt «O nosso pai não tem preço» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "caixa-papa-estou-a-chegar": {
+    "alt": "Caixa «Papá, estou a chegar»",
+    "foco": "50% 50%"
+  },
+  "caixa-papa-estou-a-chegar-2": {
+    "alt": "Caixa «Papá, estou a chegar» — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "t-shirt-de-cavas-o-pai-ja-vai": {
+    "alt": "T-shirt de cavas «O pai já vai»",
     "foco": "50% 50%"
   },
   "tshirt-e-body-arco-iris-primeiro-dia-da-mae": {
@@ -613,6 +1993,30 @@
   },
   "body-a-beleza-e-dos-avos": {
     "alt": "Body «A beleza é dos avós» com nome",
+    "foco": "50% 50%"
+  },
+  "body-do-primeiro-dia-da-crianca-com-coelhinho": {
+    "alt": "Body do 1.º Dia da Criança com coelhinho",
+    "foco": "50% 50%"
+  },
+  "t-shirt-feliz-dia-da-crianca-com-nome": {
+    "alt": "T-shirt «Feliz Dia da Criança» com nome",
+    "foco": "50% 50%"
+  },
+  "t-shirt-do-dia-da-crianca-com-desenho-e-nome": {
+    "alt": "T-shirt do Dia da Criança com desenho e nome",
+    "foco": "50% 50%"
+  },
+  "t-shirt-do-dia-da-crianca-com-desenho-e-nome-2": {
+    "alt": "T-shirt do Dia da Criança com desenho e nome — outra fotografia",
+    "foco": "50% 50%"
+  },
+  "t-shirt-como-e-bom-ser-crianca": {
+    "alt": "T-shirt «Como é bom ser Criança»",
+    "foco": "50% 50%"
+  },
+  "t-shirt-como-e-bom-ser-crianca-2": {
+    "alt": "T-shirt «Como é bom ser Criança» — outra fotografia",
     "foco": "50% 50%"
   },
   "babygrow-da-primeira-pascoa": {
@@ -887,9 +2291,9 @@
     "alt": "Mochila branca e rosa da creche, com o nome Inês bordado e um laço",
     "foco": "50% 50%"
   },
-  "natal-bolinhas-de-madeira": {
-    "alt": "Bolinhas de Natal em madeira, com «O meu 1.º Natal» e o nome gravados, entre luzes",
-    "foco": "50% 50%"
+  "natal-conjunto-primeiro-natal": {
+    "alt": "Conjunto «O meu primeiro Natal» com o nome Vicente: babygrow vermelho, babete, fralda e enfeite de madeira",
+    "foco": "12% 50%"
   },
   "linha-bebe-jardineira": {
     "alt": "Jardineira de malha bege com gorro e camisola branca",
@@ -899,8 +2303,8 @@
     "alt": "Mochila amarela da creche com o nome Gabriel bordado",
     "foco": "50% 50%"
   },
-  "linha-datas-bolinha-eva": {
-    "alt": "Bolinha de Natal em madeira «O meu 1.º Natal», com o nome Eva",
-    "foco": "50% 50%"
+  "linha-datas-enfeite-eva": {
+    "alt": "Enfeite de Natal em madeira «O meu 1.º Natal», com o nome Eva",
+    "foco": "56% 40%"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "nome": "Manta com cãozinho e coroinhas bordadas",
+  "nomeCurto": "Manta com cãozinho e coroinhas bordadas",
+  "fotos": [
+    "manta-com-caozinho-e-coroinhas",
+    "manta-com-caozinho-e-coroinhas-2"
+  ],
+  "resumo": "Manta com um cãozinho de laço, estrelas e coroinhas bordadas.",
+  "descricao": "Manta com um cãozinho de laço aplicado, estrelas e coroinhas bordadas. Há em verde-água e azul.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "mantas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 60
+}

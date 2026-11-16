@@ -1,0 +1,30 @@
+{
+  "nome": "T-shirt «Feliz Dia da Criança» com nome",
+  "nomeCurto": "T-shirt «Feliz Dia da Criança» com nome",
+  "fotos": [
+    "t-shirt-feliz-dia-da-crianca-com-nome"
+  ],
+  "resumo": "«Feliz dia da Criança» em letras sobre manchas de cor, com o nome.",
+  "descricao": "T-shirt branca com «Feliz dia da Criança» em letras sobre manchas de cor, um foguetão, chupa-chupas e o nome. Personalizamos com o nome e o tema que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "dia-da-crianca",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 20
+}

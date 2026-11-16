@@ -1,0 +1,24 @@
+{
+  "nome": "Conjunto pai e bebé «Copy» e «Paste»",
+  "nomeCurto": "Conjunto pai e bebé «Copy» e «Paste»",
+  "fotos": [
+    "conjunto-pai-e-bebe-copy-paste"
+  ],
+  "resumo": "«CTRL + C» e «COPY» para o pai, «CTRL + V» e «PASTE» para o bebé.",
+  "descricao": "T-shirt branca para o pai com as teclas «CTRL + C» e «COPY», e body para o bebé com «CTRL + V» e «PASTE».",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "dia-do-pai",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 20
+}

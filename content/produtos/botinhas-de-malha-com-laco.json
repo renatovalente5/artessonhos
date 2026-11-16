@@ -1,0 +1,29 @@
+{
+  "nome": "Botinhas de malha com laço",
+  "nomeCurto": "Botinhas de malha com laço",
+  "fotos": [
+    "botinhas-de-malha-com-laco"
+  ],
+  "resumo": "Botinhas de malha com lacinho de cetim, em tons claros.",
+  "descricao": "Botinhas de malha com lacinho de cetim, em branco, azul, verde, rosa e outros tons claros.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "1-3 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "casacos-e-malhas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 60
+}

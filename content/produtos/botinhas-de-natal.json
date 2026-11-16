@@ -1,0 +1,29 @@
+{
+  "nome": "Botinhas de Natal com Pai Natal e rena",
+  "nomeCurto": "Botinhas de Natal com Pai Natal e rena",
+  "fotos": [
+    "botinhas-de-natal"
+  ],
+  "resumo": "Botinhas vermelhas e brancas com o Pai Natal ou a rena.",
+  "descricao": "Botinhas de Natal vermelhas e brancas, com o Pai Natal ou a rena. 100% português.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "0-3 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "casacos-e-malhas",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

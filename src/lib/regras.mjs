@@ -120,7 +120,7 @@ export const NOMES_CAMPOS = Object.freeze({
   referencia: 'Referência', fabricante: 'Fabricante', avisos: 'Avisos de segurança', perigos: 'Perigos (misturas)', idade: 'Idade recomendada', naoBrinquedo: 'Não é um brinquedo',
   inclui: 'O que inclui', medidas: 'Medidas', composicao: 'Composição dos tecidos', opcoes: 'Escolhas', personalizacao: 'Personalização',
   quantidadeMinima: 'Quantidade mínima', video: 'Vídeo',
-  categoria: 'Categoria', novidade: 'Novidade', destaque: 'Nos mais pedidos', esgotado: 'Esgotado', publicado: 'Publicado no site', ordem: 'Posição na lista',
+  categoria: 'Categoria', novidade: 'Novidade', destaque: 'Em destaque', esgotado: 'Esgotado', publicado: 'Publicado no site', ordem: 'Posição na lista',
 });
 
 /* Os três campos da personalização, que cada artigo liga ou desliga. O nome e a
@@ -647,7 +647,8 @@ export function problemasDoSite(d, { producao = false } = {}) {
   if (!ausente(c.email) && c.email !== '' && !emailValido(c.email)) bloqueia('contactos.email', 'contactos', 'contactos.email', 'O email não parece estar certo (ex.: nome@gmail.com).');
   if (vazio(c.email)) bloqueia('contactos.email:vazio', 'contactos', 'contactos.email', 'Falta o email: a lei pede um contacto por escrito no site.');
   if (!vazio(c.whatsapp) && !eTelemovel(c.whatsapp)) bloqueia('contactos.whatsapp', 'contactos', 'contactos.whatsapp', 'O WhatsApp tem de ser um telemóvel português de 9 algarismos (ex.: 912 345 678).');
-  if (vazio(c.whatsapp)) legal('contactos.whatsapp:vazio', 'contactos', 'contactos.whatsapp', 'Falta o número de WhatsApp: é para lá que o pedido segue (sem ele, segue pelo Instagram ou por email).');
+  /* O WhatsApp não é obrigatório (16 nov 2026): sem ele, o pedido segue pelo Instagram ou por email; é só um lembrete. */
+  if (vazio(c.whatsapp)) avisa('contactos.whatsapp:vazio', 'contactos', 'contactos.whatsapp', 'Sem WhatsApp, os pedidos seguem pelo Instagram ou por email. Se a loja tiver WhatsApp, escreva aqui o número.', { lembrete: true });
   if (!vazio(c.telefone) && !numeroPortugues(c.telefone)) avisa('contactos.telefone', 'contactos', 'contactos.telefone', 'O telefone tem de ser um número português de 9 algarismos; até lá, a página de contactos não o mostra.');
   for (const [k, rotulo] of [['instagram', 'Instagram'], ['facebook', 'Facebook'], ['pinterest', 'Pinterest']]) {
     const v = c[k];
@@ -658,7 +659,7 @@ export function problemasDoSite(d, { producao = false } = {}) {
   // --- empresa (os dados que a lei pede) ----------------------------------------
   if (vazio(e.nome)) legal('empresa.nome:vazio', 'empresa', 'empresa.nome', 'Falta o nome da empresa ou do empresário em nome individual (a lei pede-o no site).');
   if (!vazio(e.nif) && !nifValido(e.nif)) bloqueia('empresa.nif', 'empresa', 'empresa.nif', 'O NIF não é um NIF português válido: confira os 9 algarismos.');
-  /* (Vem da Mimices, 19 out 2026: o site pode abrir com a morada só na localidade, decisão do Renato.)
+  /* (Decisão do Renato noutros sites, 19 out 2026: o site pode abrir com a morada só na localidade.)
      O NIF só se valida quando existe; a morada pede pelo menos a localidade (a Artes & Sonhos diz
      «Showroom — Maceira, Leiria»; o resto está por pedir, 16 nov 2026). */
   if (vazio(e.morada) && vazio(e.localidade)) legal('empresa.morada:vazio', 'empresa', 'empresa.morada', 'Falta a morada (ou, pelo menos, a localidade) de quem faz as peças: a lei pede-a no site.');
@@ -791,7 +792,7 @@ export function problemasDasLinhas(valor, { fotos = null } = {}) {
    botões e duas fotografias sobrepostas, com o «&» da marca), os CÍRCULOS (as categorias escolhidas,
    como os destaques do Instagram), as LINHAS (os quatro cartões, de content/linhas.json), o DESTAQUE
    (a coleção do momento: o Natal), PERSONALIZAR (três passos), os MAIS PEDIDOS (os artigos marcados
-   «Nos mais pedidos»), as OPINIÕES (só o número das críticas do Facebook, com a ligação: os textos
+   «Em destaque»), as OPINIÕES (só o número das críticas do Facebook, com a ligação: os textos
    não se copiam) e a CONFIANÇA (até quatro frases com ícone). */
 export const SECCOES_INICIO = Object.freeze(['seo', 'capa', 'circulos', 'linhas', 'destaque', 'personalizar', 'pedidos', 'opinioes', 'confianca']);
 /* Os círculos: de 3 a 10 categorias. Os passos: 3. A faixa de confiança: até 4 frases. */

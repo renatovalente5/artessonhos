@@ -1,0 +1,32 @@
+{
+  "nome": "Tapa-ovo bordado com ursinho e nome",
+  "nomeCurto": "Tapa-ovo bordado com ursinho e nome",
+  "fotos": [
+    "tapa-ovo-bordado-com-ursinho-e-nome",
+    "tapa-ovo-bordado-com-ursinho-e-nome-2",
+    "tapa-ovo-bordado-com-ursinho-e-nome-3"
+  ],
+  "resumo": "Tapa-ovo branco com um ursinho em aplicação bordada e o nome.",
+  "descricao": "Tapa-ovo branco com debrum rosa e um ursinho em aplicação bordada com laço, e o nome bordado por cima. Numa das fotografias, com dois ursinhos. Personalizamos com o nome que quiser.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {
+    "nome": true,
+    "data": false,
+    "frase": true,
+    "rotuloNome": "Nome a bordar ou pintar",
+    "rotuloFrase": "Tema, cores ou frase (opcional)"
+  },
+  "quantidadeMinima": 1,
+  "categoria": "tapa-ovos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 110
+}

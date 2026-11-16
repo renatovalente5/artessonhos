@@ -1,40 +1,36 @@
 titulo: Perguntas frequentes
-descricao: Personalização, prazos, portes, envios, pagamento e devoluções: as respostas às perguntas que mais nos fazem.
+descricao: Temas e personalização, tamanhos, preços sob consulta, pagamento, envios pelos CTT, levantamento em Maceira, prazos, trocas e devoluções.
 subtitulo: O que mais nos perguntam.
 modelo: perguntas
 ---
-## Posso pedir uma cor ou um pormenor diferente?
+## Fazem o tema que eu quiser?
 
-Diga-nos nas observações da encomenda, ou fale connosco antes pelo {{whatsapp}}.
+Fazemos qualquer tema. Ao juntar a peça ao pedido, escreva o nome tal como o quer, com os acentos e as maiúsculas, e o tema e as cores. Para combinar uma ideia sua, fale connosco antes por {{whatsapp}}.
 
-## Como escrevo os nomes?
+## E os tamanhos?
 
-Exatamente como quer que fiquem, com os acentos e as maiúsculas. Antes de começarmos, confirmamos o texto consigo.
+Quando uma peça tem vários tamanhos, estão na ficha. Escreva o que quer nas observações do pedido.
 
-## Com quanta antecedência devo encomendar?
+## O que quer dizer «Preço sob consulta»?
 
-{{prazo}} Tudo é feito à mão: quanto mais cedo nos disser a data da celebração, melhor.
-
-## Os preços são por unidade?
-
-São. Na encomenda escolhe a quantidade de cada peça e vê o total.
-
-## Enviam para fora de Portugal?
-
-Enviamos para todo o país, para as ilhas e para outros países da Europa.
-
-## Quanto custam os portes?
-
-{{portes}}
+Que lhe dizemos o preço na resposta ao pedido, com os portes e o prazo, antes de pagar.
 
 ## Como pago?
 
-{{pagamento}}
+Por {{pagamento}}, depois de lhe dizermos o preço e os portes. Não há pagamentos no site.
 
-## Posso acender as velas?
+## Enviam para todo o país?
 
-Pode, mas tire antes o laço, as flores e a etiqueta: são decoração e ardem. Nunca deixe uma vela acesa sem vigilância e ponha-a numa base resistente ao calor, longe de crianças e animais.
+Enviamos pelos CTT, em correio registado ou azul, para o continente, a Madeira e os Açores. {{portes}}
 
-## Posso devolver?
+## Posso levantar no showroom?
 
-As peças com nomes, uma data ou uma frase sua são feitas só para si: não se devolvem por desistência. As outras têm 14 dias ([como desistir](/desistir/)). Um defeito ou um erro nosso, resolvemos sempre.
+Pode: no pedido, escolha o levantamento em {{localidade}}, sem portes. {{levantamento}}
+
+## Quanto tempo demora?
+
+{{prazo}} Se precisar das peças para uma data, diga-nos qual nas observações do pedido.
+
+## Posso trocar ou devolver?
+
+As peças personalizadas são feitas para si: não se devolvem por desistência. As outras pode devolvê-las em 14 dias, sem dar justificação, e os portes da devolução ficam a seu cargo ([como desistir](/desistir/)). Se houver um defeito ou um erro nosso, tem direito à reparação ou à troca da peça ([garantia legal](/garantia/)).

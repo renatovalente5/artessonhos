@@ -1,0 +1,27 @@
+{
+  "nome": "Primeira roupinha com cãezinhos bordados",
+  "nomeCurto": "Primeira roupinha com cãezinhos bordados",
+  "fotos": [
+    "primeira-roupinha-caezinhos-bordados",
+    "primeira-roupinha-caezinhos-bordados-2",
+    "primeira-roupinha-caezinhos-bordados-3",
+    "primeira-roupinha-caezinhos-bordados-4"
+  ],
+  "resumo": "Manta e babygrow de veludo com cãezinhos bordados e faixa aos quadrados.",
+  "descricao": "Manta e babygrow com cãezinhos e patinhas bordados e uma faixa aos quadrados. Há em azul-claro, cru, azul e cinzento. Pode juntar a fralda e os interiores.",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "primeira-roupinha",
+  "video": "",
+  "novidade": false,
+  "destaque": true,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 10
+}

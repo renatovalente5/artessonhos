@@ -1,0 +1,30 @@
+{
+  "nome": "Calção às riscas com camisa e gravata",
+  "nomeCurto": "Calção às riscas com camisa e gravata",
+  "fotos": [
+    "calcao-as-riscas-com-camisa-e-gravata",
+    "calcao-as-riscas-com-camisa-e-gravata-2"
+  ],
+  "resumo": "Calção às riscas com suspensórios, camisa branca e gravata.",
+  "descricao": "Calção às riscas com suspensórios e camisa branca com gola e gravata às riscas. Há em cinzento (3, 6 e 12 meses) e em rosa (6 e 12 meses).",
+  "preco": null,
+  "precoAnterior": null,
+  "promocaoAte": "",
+  "inclui": [],
+  "medidas": [
+    {
+      "rotulo": "Tamanhos",
+      "valor": "3, 6 e 12 meses"
+    }
+  ],
+  "opcoes": [],
+  "personalizacao": {},
+  "quantidadeMinima": 1,
+  "categoria": "vestidos-e-fofos",
+  "video": "",
+  "novidade": false,
+  "destaque": false,
+  "esgotado": false,
+  "publicado": true,
+  "ordem": 70
+}
