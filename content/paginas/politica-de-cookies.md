@@ -1,9 +1,9 @@
 titulo: Política de cookies
-descricao: Este site não usa cookies nem estatísticas. Só guarda no seu browser o pedido que está a preparar e, se pedir para ver as críticas do Facebook, é o Facebook que as mostra.
+descricao: Este site não usa cookies nem estatísticas. Só guarda no seu browser o pedido que está a preparar, para não se perder.
 atualizado: 2026-11-16
 indexar: não
 ---
-**Este site não usa cookies** — nem de publicidade, nem de estatística. A única exceção é sua: as críticas do Facebook na página inicial só aparecem quando carrega em «Ver aqui as mais recentes» (ver abaixo).
+**Este site não usa cookies** — nem de publicidade, nem de estatística, nem de redes sociais. Por isso não lhe pedimos autorização.
 
 ## O que fica guardado no seu browser
 
@@ -16,5 +16,3 @@ O seu nome, a morada e as observações não ficam guardados. Nada disto sai do 
 ## Conteúdo de outros sites
 
 O site não carrega nada de terceiros: as letras e as imagens vêm do próprio site, e as ligações para o Instagram, o Facebook e o WhatsApp só abrem esses sites quando carrega nelas.
-
-**As críticas do Facebook.** Na página inicial, ao carregar em «Ver aqui as mais recentes», o site pede ao Facebook (Meta Platforms Ireland) que mostre algumas críticas publicadas na página da loja. A partir desse momento, o Facebook recebe o seu endereço IP e os dados do browser, e pode guardar e ler cookies seus (por exemplo, se tiver sessão iniciada no Facebook), como explica a [política de cookies do Facebook](https://www.facebook.com/privacy/policies/cookies/). Se não carregar no botão, nada disto acontece. A escolha vale só para essa visita: da próxima vez, as críticas voltam a estar escondidas.

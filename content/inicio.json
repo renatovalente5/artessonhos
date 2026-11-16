@@ -70,30 +70,36 @@
     "texto": "recomendam a Artes & Sonhos",
     "botao": "Ler as 434 opiniões no Facebook",
     "ligacao": "https://www.facebook.com/pinturaeretratosartesesonhos/reviews",
-    "publicacoes": [
+    "criticas": [
       {
-        "url": "https://www.facebook.com/altino.oliveira.18/posts/pfbid0aWHNcKwBoDiciuH9ftgPWiyP9aC9TN49mywmL9GjaRahVaoY71A5Em8q2n5734SLl",
-        "altura": 209
+        "nome": "Joana P.",
+        "data": "2026-09",
+        "texto": "Adorei a disponibilidade, a atenção e a preocupação em fazer tudo à minha maneira. E a rapidez com que o bibe do meu filhote chegou cá a casa foi estupenda. Lindo lindo lindo! Apaixonada por esta página!"
       },
       {
-        "url": "https://www.facebook.com/bruna.matos1/posts/pfbid02o9r3SRbCDqPM7jpDLdSj5rwdp6Ca8vASdimfPzYMNuJbDSf9h5DcHSr5Dt9XSYAWl",
-        "altura": 222
+        "nome": "Altino O.",
+        "data": "2026-05",
+        "texto": "Rapidez, simpatia e excelência. Aqui está uma página que devemos consultar quando não sabemos o que oferecer. Recomendo a 100%. Fiquei muito satisfeito."
       },
       {
-        "url": "https://www.facebook.com/margarida.sousa.921/posts/pfbid029RbxBZxzUuQg3Sp7P4TcWyVGtMYKowb8SPDSasiftsywbGv67GMuHqDm2uXgmeHul",
-        "altura": 194
+        "nome": "Lucy I.",
+        "data": "2026-03",
+        "texto": "Parabéns pelos lindos trabalhos e pelo profissionalismo."
       },
       {
-        "url": "https://www.facebook.com/neuza.ruaz.58/posts/pfbid05S5Y78pwmia15PWTY6aHHr1YXNoiLQma4cwGdEA1spYQ5mm8CKLwrDneFQ4PJvCgl",
-        "altura": 170
+        "nome": "Bruna M.",
+        "data": "2026-01",
+        "texto": "5 estrelas. Rapidez, simpatia, muita qualidade!"
       },
       {
-        "url": "https://www.facebook.com/virginiaericardo.pinto/posts/pfbid0cUBvsi885wVACscdPW4a8cyxAucRi8k9BGLGUCVJizhpn7temednmUUbbgEV9CeUl",
-        "altura": 189
+        "nome": "Alexandra T.",
+        "data": "2026-01",
+        "texto": "Simpatia, rapidez e qualidade."
       },
       {
-        "url": "https://www.facebook.com/andreia.gonzaga.7/posts/pfbid02WUnphoQsWcpWYES19vU8LmHBgDgR53JEqPf8FNcKgvx5cZjU4ZJRrUjkzws3XRc7l",
-        "altura": 189
+        "nome": "Catia R.",
+        "data": "2026-01",
+        "texto": "Encomenda perfeita, melhor do que esperava. Recomendo."
       }
     ]
   },

@@ -796,9 +796,7 @@ export function problemasDasLinhas(valor, { fotos = null } = {}) {
    não se copiam) e a CONFIANÇA (até quatro frases com ícone). */
 export const SECCOES_INICIO = Object.freeze(['seo', 'capa', 'circulos', 'linhas', 'destaque', 'personalizar', 'pedidos', 'opinioes', 'confianca']);
 /* Os círculos: de 3 a 10 categorias. Os passos: 3. A faixa de confiança: até 4 frases. */
-export const LIMITES_INICIO = Object.freeze({ circulos: [3, 10], passos: [3, 3], confianca: [0, 4], publicacoes: [0, 6] });
-/* Uma crítica do Facebook para mostrar no site: o endereço da publicação (https://www.facebook.com/<conta>/posts/<id>). */
-export const RE_PUBLICACAO_FACEBOOK = /^https:\/\/www\.facebook\.com\/[A-Za-z0-9._-]{2,80}\/posts\/[A-Za-z0-9]{6,120}$/;
+export const LIMITES_INICIO = Object.freeze({ circulos: [3, 10], passos: [3, 3], confianca: [0, 4], criticas: [0, 6] });
 
 /* As fotografias que a página inicial usa (para saber se uma se pode apagar): as duas da capa e a
    do destaque. */
@@ -870,18 +868,18 @@ export function problemasDoInicio(valor, { fotos = null, categorias = null } = {
   for (const [c, max, ob] of textos) umTexto(c, max, ob);
   umaLigacao('pedidos.ligacao', false);
   umaLigacao('opinioes.ligacao', false);
-  /* As críticas do Facebook que o site mostra (incorporadas, só quando a pessoa pede): até 6, das mais
-     recentes para as mais antigas; cada uma com o endereço da publicação e a altura (opcional). */
-  const pubs = h.opinioes.publicacoes;
-  if (pubs !== undefined) {
-    if (!Array.isArray(pubs)) avisa('opinioes.publicacoes', 'opinioes.publicacoes', 'As críticas do Facebook não estão gravadas como uma lista: não aparecem.');
+  /* As críticas mostradas no site (copiadas da página da loja no Facebook): até 6, das mais recentes
+     para as mais antigas; o primeiro nome e a inicial, o mês (AAAA-MM) e o texto como a pessoa o escreveu. */
+  const crs = h.opinioes.criticas;
+  if (crs !== undefined) {
+    if (!Array.isArray(crs)) avisa('opinioes.criticas', 'opinioes.criticas', 'As críticas não estão gravadas como uma lista: não aparecem.');
     else {
-      if (pubs.length > LIMITES_INICIO.publicacoes[1]) avisa('opinioes.publicacoes:muitas', 'opinioes.publicacoes', `Há ${pubs.length} críticas do Facebook; o site mostra as ${LIMITES_INICIO.publicacoes[1]} primeiras.`);
-      pubs.forEach((p, i) => {
-        const url = eObjecto(p) ? p.url : p;
-        if (typeof url !== 'string' || !RE_PUBLICACAO_FACEBOOK.test(url)) avisa(`opinioes.publicacoes.${i}`, `opinioes.publicacoes.${i}`, 'Este endereço não é o de uma publicação do Facebook (https://www.facebook.com/…/posts/…): não aparece.');
-        const alt = eObjecto(p) ? p.altura : undefined;
-        if (alt !== undefined && !(Number.isInteger(alt) && alt >= 120 && alt <= 900)) avisa(`opinioes.publicacoes.${i}.altura`, `opinioes.publicacoes.${i}.altura`, 'A altura desta crítica tem de ser um número entre 120 e 900 (píxeis).');
+      if (crs.length > LIMITES_INICIO.criticas[1]) avisa('opinioes.criticas:muitas', 'opinioes.criticas', `Há ${crs.length} críticas; o site mostra as ${LIMITES_INICIO.criticas[1]} primeiras.`);
+      crs.forEach((c, i) => {
+        if (!eObjecto(c)) { avisa(`opinioes.criticas.${i}`, `opinioes.criticas.${i}`, 'Esta crítica não está gravada como deve ser: não aparece.'); return; }
+        umTexto(`opinioes.criticas.${i}.nome`, 30, true);
+        umTexto(`opinioes.criticas.${i}.texto`, 400, true);
+        if (!vazio(c.data) && !/^20\d\d-(0[1-9]|1[0-2])$/.test(String(c.data))) avisa(`opinioes.criticas.${i}.data`, `opinioes.criticas.${i}.data`, 'A data da crítica escreve-se como 2026-09 (o ano e o mês).');
       });
     }
   }

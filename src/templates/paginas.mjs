@@ -4,7 +4,7 @@
 import { esc, euros, precoDe, markdown, textoSimples, resumir, numeroWhatsApp, numeroLegivel, notaChamada, moradaCompleta } from './util.mjs';
 import { ico } from './icones.mjs';
 import { tituloDaCategoria, tituloDoArtigo } from '../seo.mjs';
-import { numeroPortugues, opcoesDe, personalizacaoDe, quantidadeMinimaDe, temSuplementos, ICONES_CONFIANCA, RE_PUBLICACAO_FACEBOOK, LIMITES_INICIO } from '../lib/regras.mjs';
+import { numeroPortugues, opcoesDe, personalizacaoDe, quantidadeMinimaDe, temSuplementos, ICONES_CONFIANCA, LIMITES_INICIO } from '../lib/regras.mjs';
 import {
   imagem, preco, promocaoNota, cartao, grelha, circulos, pastilhas, cabecaSeccao, cabecaDePagina, simbolo,
   migalhasLd, botao, urlFoto, linhaDe, categoriaDe, caminhoDaLinha, caminhoDaCategoria, nomeDaCategoria,
@@ -153,24 +153,25 @@ export function inicio(ctx) {
   const o = h.opinioes;
   // Um cartão: o número grande e, ao lado, o que ele quer dizer (lidos juntos, no mesmo título) e a
   // fonte, com quantas opiniões, na ligação.
-  /* As críticas do Facebook mostram-se AQUI, mas só quando a pessoa toca em «Ver aqui»: é o Facebook
-     que as desenha (incorporadas, nada copiado), e ao fazê-lo pode guardar cookies. Até lá, nada se
-     carrega de fora. Junto delas, de onde vêm e que não se confirma a compra (DL 57/2008, art. 10.º-A). */
-  const pubs = (Array.isArray(o.publicacoes) ? o.publicacoes : []).map((p) => (typeof p === 'string' ? { url: p } : p)).filter((p) => p && RE_PUBLICACAO_FACEBOOK.test(p.url || '')).slice(0, LIMITES_INICIO.publicacoes[1]);
+  /* As críticas: cartões do site com o texto como a pessoa o escreveu, o primeiro nome e a inicial, e o
+     mês. Por baixo, de onde vêm e que a compra não se confirma (DL 57/2008, art. 10.º-A). */
+  const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+  const mes = (d) => { const m = /^(\d{4})-(\d{2})$/.exec(String(d || '')); return m ? `${MESES[Number(m[2]) - 1]} de ${m[1]}` : ''; };
+  const crs = (Array.isArray(o.criticas) ? o.criticas : []).filter((c) => c && c.nome && c.texto).slice(0, LIMITES_INICIO.criticas[1]);
   const secOpinioes = o.numero && o.texto ? `<section class="secao" aria-labelledby="t-opinioes">
   <div class="contentor">
     <div class="opinioes">
       <h2 class="opinioes__titulo" id="t-opinioes"><span class="opinioes__numero">${esc(o.numero)}</span> <span class="opinioes__texto">${esc(o.texto)}</span></h2>
-      <div class="opinioes__botoes">
-        ${pubs.length ? `<button class="botao" type="button" data-ver-opinioes aria-controls="opinioes-lista" aria-expanded="false">Ver aqui as mais recentes</button>` : ''}
-        ${o.botao && o.ligacao ? `<a class="opinioes__fonte" href="${esc(o.ligacao)}" target="_blank" rel="noopener"><span class="opinioes__icone" aria-hidden="true">${ico('facebook')}</span><span>${esc(o.botao)}</span>${ico('seta')}</a>` : ''}
-      </div>
-      ${pubs.length ? `<p class="opinioes__nota" data-opinioes-antes>São mostradas pelo Facebook, que pode guardar <a href="${ctx.url('/politica-de-cookies/')}">cookies</a>.</p>` : ''}
+      ${o.botao && o.ligacao ? `<a class="opinioes__fonte" href="${esc(o.ligacao)}" target="_blank" rel="noopener"><span class="opinioes__icone" aria-hidden="true">${ico('facebook')}</span><span>${esc(o.botao)}</span>${ico('seta')}</a>` : ''}
     </div>
-    ${pubs.length ? `<div class="opinioes__lista" id="opinioes-lista" data-opinioes-lista='${esc(JSON.stringify(pubs.map((p) => ({ url: p.url, altura: p.altura || 260 }))))}' hidden>
-      <div class="opinioes__grelha" data-opinioes-grelha></div>
-      <p class="opinioes__nota">Críticas publicadas na página da ${esc(ctx.site.marca)} no Facebook, das mais recentes para as mais antigas (só as que não têm fotografias). A ${esc(ctx.site.marca)} não confirma se quem as escreveu comprou.</p>
-    </div>` : ''}
+    ${crs.length ? `<ul class="criticas" role="list" aria-label="Críticas no Facebook">
+      ${crs.map((c) => `<li class="critica">
+        <span class="critica__aspas" aria-hidden="true">“</span>
+        <blockquote class="critica__texto"><p>${esc(c.texto)}</p></blockquote>
+        <p class="critica__autor"><span class="critica__inicial" aria-hidden="true">${esc(String(c.nome).trim().charAt(0).toUpperCase())}</span><span><strong>${esc(c.nome)}</strong><span class="critica__onde">no Facebook${mes(c.data) ? ` · ${mes(c.data)}` : ''}</span></span></p>
+      </li>`).join('\n      ')}
+    </ul>
+    <p class="opinioes__nota">As críticas mais recentes da página da ${esc(ctx.site.marca)} no Facebook, como foram escritas. A ${esc(ctx.site.marca)} não confirma se quem as escreveu comprou.</p>` : ''}
   </div>
 </section>` : '';
 
